@@ -7,140 +7,140 @@
         {
           "id": "ru-gosuslugi",
           "title": "Госуслуги: двухфакторная защита",
-          "serviceCategory": "Государственные сервисы",
+          "serviceCategory": "TOTP / проверить в интерфейсе",
           "markdownFile": "gosuslugi.md",
           "imageNames": ["icon-gosuslugi"]
         },
         {
           "id": "ru-yandex-id",
           "title": "Яндекс ID: коды подтверждения",
-          "serviceCategory": "Аккаунты и почта",
+          "serviceCategory": "TOTP / RFC",
           "markdownFile": "yandex-id.md",
           "imageNames": ["icon-yandex-id"]
         },
         {
           "id": "ru-google",
           "title": "Google: двухэтапная аутентификация",
-          "serviceCategory": "Базовые аккаунты",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "google.md",
           "imageNames": ["icon-google"]
         },
         {
           "id": "ru-apple-account",
           "title": "Apple Account: двухфакторная защита",
-          "serviceCategory": "Базовые аккаунты",
+          "serviceCategory": "2FA без TOTP-кода",
           "markdownFile": "apple-account.md",
           "imageNames": ["icon-apple"]
         },
         {
           "id": "ru-microsoft-account",
           "title": "Microsoft Account: двухэтапная проверка",
-          "serviceCategory": "Базовые аккаунты",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "microsoft-account.md",
           "imageNames": ["icon-microsoft"]
         },
         {
           "id": "ru-github",
           "title": "GitHub: двухфакторная аутентификация",
-          "serviceCategory": "Разработка",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "github.md",
           "imageNames": ["icon-github"]
         },
         {
           "id": "ru-discord",
           "title": "Discord: двухфакторная аутентификация",
-          "serviceCategory": "Соцсети и мессенджеры",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "discord.md",
           "imageNames": ["icon-discord"]
         },
         {
           "id": "ru-telegram",
           "title": "Telegram: двухэтапная проверка",
-          "serviceCategory": "Соцсети и мессенджеры",
+          "serviceCategory": "Пароль, не TOTP",
           "markdownFile": "telegram.md",
           "imageNames": ["icon-telegram"]
         },
         {
           "id": "ru-whatsapp",
           "title": "WhatsApp: двухшаговая проверка",
-          "serviceCategory": "Соцсети и мессенджеры",
+          "serviceCategory": "PIN, не TOTP",
           "markdownFile": "whatsapp.md",
           "imageNames": ["icon-whatsapp"]
         },
         {
           "id": "ru-instagram",
           "title": "Instagram: двухфакторная аутентификация",
-          "serviceCategory": "Соцсети и мессенджеры",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "instagram.md",
           "imageNames": ["icon-instagram"]
         },
         {
           "id": "ru-facebook",
           "title": "Facebook: двухфакторная аутентификация",
-          "serviceCategory": "Соцсети и мессенджеры",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "facebook.md",
           "imageNames": ["icon-facebook"]
         },
         {
           "id": "ru-x",
           "title": "X / Twitter: двухфакторная аутентификация",
-          "serviceCategory": "Соцсети и мессенджеры",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "x-twitter.md",
           "imageNames": ["icon-x"]
         },
         {
           "id": "ru-vk-id",
           "title": "VK ID: подтверждение входа",
-          "serviceCategory": "Россия и СНГ",
+          "serviceCategory": "Проверить в интерфейсе",
           "markdownFile": "vk-id.md",
           "imageNames": ["icon-vk"]
         },
         {
           "id": "ru-mailru",
           "title": "Почта Mail: двухфакторная аутентификация",
-          "serviceCategory": "Россия и СНГ",
+          "serviceCategory": "SMS, TOTP не подтвержден",
           "markdownFile": "mailru.md",
           "imageNames": ["icon-mailru"]
         },
         {
           "id": "ru-max",
           "title": "MAX: пароль для входа",
-          "serviceCategory": "Россия и СНГ",
+          "serviceCategory": "Пароль, TOTP не подтвержден",
           "markdownFile": "max.md",
           "imageNames": []
         },
         {
           "id": "ru-binance",
           "title": "Binance: Google Authenticator",
-          "serviceCategory": "Крипта",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "binance.md",
           "imageNames": ["icon-binance"]
         },
         {
           "id": "ru-steam",
           "title": "Steam: Steam Guard",
-          "serviceCategory": "Игры",
+          "serviceCategory": "Steam Guard, не TOTP QR",
           "markdownFile": "steam.md",
           "imageNames": ["icon-steam"]
         },
         {
           "id": "ru-epic-games",
           "title": "Epic Games: двухфакторная аутентификация",
-          "serviceCategory": "Игры",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "epic-games.md",
           "imageNames": ["icon-epic-games"]
         },
         {
           "id": "ru-twitch",
           "title": "Twitch: двухфакторная аутентификация",
-          "serviceCategory": "Игры и стриминг",
+          "serviceCategory": "Проверить в интерфейсе",
           "markdownFile": "twitch.md",
           "imageNames": []
         },
         {
           "id": "ru-dropbox",
           "title": "Dropbox: двухэтапная проверка",
-          "serviceCategory": "Базовые аккаунты",
+          "serviceCategory": "TOTP / QR-код",
           "markdownFile": "dropbox.md",
           "imageNames": ["icon-dropbox"]
         }
