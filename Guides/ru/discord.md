@@ -1,5 +1,3 @@
-# Discord: двухфакторная аутентификация
-
 Discord поддерживает authenticator app и backup codes. Для добавления кода нужен QR-код из настроек аккаунта.
 
 1. Откройте Discord.

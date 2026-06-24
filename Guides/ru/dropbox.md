@@ -1,5 +1,3 @@
-# Dropbox: двухэтапная проверка
-
 Dropbox поддерживает authenticator app, SMS в отдельных странах и recovery codes.
 
 1. Откройте Dropbox в браузере.

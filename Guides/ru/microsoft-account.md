@@ -1,5 +1,3 @@
-# Microsoft Account: двухэтапная проверка
-
 Microsoft Account поддерживает разные способы подтверждения. Для этого приложения нужен вариант **Set up a different Authenticator app**: Microsoft показывает QR-код для приложения-аутентификатора.
 
 1. Откройте [Security dashboard](https://account.microsoft.com/security).

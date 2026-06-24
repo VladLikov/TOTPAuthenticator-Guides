@@ -1,5 +1,3 @@
-# GitHub: двухфакторная аутентификация
-
 GitHub поддерживает TOTP-приложения, security keys, passkeys и recovery codes. Для этого приложения нужен вариант **Authenticator app**.
 
 1. Откройте GitHub и перейдите в **Settings**.

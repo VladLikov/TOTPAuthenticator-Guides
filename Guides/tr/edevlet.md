@@ -1,5 +1,3 @@
-# e-Devlet: iki adımlı doğrulama
-
 1. Resmi hesap ayarlarından güvenlik bölümünü açın.
 2. İki adımlı doğrulama seçeneklerini kontrol edin.
 3. Varsa doğrulama uygulaması seçeneğini seçin.

@@ -1,5 +1,3 @@
-# Instagram: двухфакторная аутентификация
-
 Instagram поддерживает приложение-аутентификатор, SMS и backup codes. Для этого приложения используйте вариант с authentication app.
 
 1. Откройте Instagram.

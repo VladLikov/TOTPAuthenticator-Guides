@@ -1,5 +1,3 @@
-# Steam: Steam Guard
-
 Steam использует Steam Guard Mobile Authenticator в приложении Steam. Обычно Steam Guard не выдает QR-код TOTP для стороннего приложения.
 
 1. Установите и откройте мобильное приложение Steam.

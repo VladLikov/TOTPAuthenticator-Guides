@@ -1,5 +1,3 @@
-# Epic Games: двухфакторная аутентификация
-
 Epic Games поддерживает несколько способов 2FA, включая приложение-аутентификатор.
 
 1. Откройте [Epic Account](https://www.epicgames.com/account/password).
