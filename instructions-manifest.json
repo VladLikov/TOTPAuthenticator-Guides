@@ -107,7 +107,7 @@
           "title": "MAX: пароль для входа",
           "serviceCategory": "Пароль, TOTP не подтвержден",
           "markdownFile": "max.md",
-          "imageNames": []
+          "imageNames": ["icon-max"]
         },
         {
           "id": "ru-binance",
@@ -135,7 +135,7 @@
           "title": "Twitch: двухфакторная аутентификация",
           "serviceCategory": "Проверить в интерфейсе",
           "markdownFile": "twitch.md",
-          "imageNames": []
+          "imageNames": ["icon-twitch"]
         },
         {
           "id": "ru-dropbox",
