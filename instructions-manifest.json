@@ -1,0 +1,63 @@
+{
+  "locales": [
+    {
+      "locale": "ru",
+      "countryName": "Россия",
+      "guides": [
+        {
+          "id": "ru-gosuslugi",
+          "title": "Госуслуги: двухфакторная защита",
+          "serviceCategory": "Государственные сервисы",
+          "markdownFile": "gosuslugi.md",
+          "imageNames": ["icon-gosuslugi"]
+        },
+        {
+          "id": "ru-yandex-id",
+          "title": "Яндекс ID: коды подтверждения",
+          "serviceCategory": "Аккаунты и почта",
+          "markdownFile": "yandex-id.md",
+          "imageNames": ["icon-yandex-id"]
+        }
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "countryName": "Brasil",
+      "guides": [
+        {
+          "id": "br-govbr",
+          "title": "gov.br: verificação em duas etapas",
+          "serviceCategory": "Serviços públicos",
+          "markdownFile": "govbr.md",
+          "imageNames": ["icon-govbr"]
+        }
+      ]
+    },
+    {
+      "locale": "tr",
+      "countryName": "Türkiye",
+      "guides": [
+        {
+          "id": "tr-edevlet",
+          "title": "e-Devlet: iki adımlı doğrulama",
+          "serviceCategory": "Kamu hizmetleri",
+          "markdownFile": "edevlet.md",
+          "imageNames": ["icon-edevlet"]
+        }
+      ]
+    },
+    {
+      "locale": "ar-AE",
+      "countryName": "الإمارات",
+      "guides": [
+        {
+          "id": "ae-uae-pass",
+          "title": "UAE Pass: التحقق بخطوتين",
+          "serviceCategory": "الخدمات الحكومية",
+          "markdownFile": "uae-pass.md",
+          "imageNames": ["icon-uae-pass"]
+        }
+      ]
+    }
+  ]
+}
