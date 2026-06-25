@@ -7,142 +7,182 @@
         {
           "id": "ru-gosuslugi",
           "title": "Госуслуги: двухфакторная защита",
-          "serviceCategory": "TOTP / проверить в интерфейсе",
+          "serviceCategory": "Код подтверждения",
           "markdownFile": "gosuslugi.md",
-          "imageNames": ["icon-gosuslugi"]
+          "imageNames": [
+            "icon-gosuslugi"
+          ]
         },
         {
           "id": "ru-yandex-id",
           "title": "Яндекс ID: коды подтверждения",
-          "serviceCategory": "TOTP / RFC",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "yandex-id.md",
-          "imageNames": ["icon-yandex-id"]
+          "imageNames": [
+            "icon-yandex-id"
+          ]
         },
         {
           "id": "ru-google",
           "title": "Google: двухэтапная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "google.md",
-          "imageNames": ["icon-google"]
+          "imageNames": [
+            "icon-google"
+          ]
         },
         {
           "id": "ru-apple-account",
           "title": "Apple Account: двухфакторная защита",
-          "serviceCategory": "2FA без TOTP-кода",
+          "serviceCategory": "Доверенные устройства",
           "markdownFile": "apple-account.md",
-          "imageNames": ["icon-apple"]
+          "imageNames": [
+            "icon-apple"
+          ]
         },
         {
           "id": "ru-microsoft-account",
           "title": "Microsoft Account: двухэтапная проверка",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "microsoft-account.md",
-          "imageNames": ["icon-microsoft"]
+          "imageNames": [
+            "icon-microsoft"
+          ]
         },
         {
           "id": "ru-github",
           "title": "GitHub: двухфакторная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "github.md",
-          "imageNames": ["icon-github"]
+          "imageNames": [
+            "icon-github"
+          ]
         },
         {
           "id": "ru-discord",
           "title": "Discord: двухфакторная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "discord.md",
-          "imageNames": ["icon-discord"]
+          "imageNames": [
+            "icon-discord"
+          ]
         },
         {
           "id": "ru-telegram",
           "title": "Telegram: двухэтапная проверка",
-          "serviceCategory": "Пароль, не TOTP",
+          "serviceCategory": "Дополнительный пароль",
           "markdownFile": "telegram.md",
-          "imageNames": ["icon-telegram"]
+          "imageNames": [
+            "icon-telegram"
+          ]
         },
         {
           "id": "ru-whatsapp",
           "title": "WhatsApp: двухшаговая проверка",
-          "serviceCategory": "PIN, не TOTP",
+          "serviceCategory": "PIN-код",
           "markdownFile": "whatsapp.md",
-          "imageNames": ["icon-whatsapp"]
+          "imageNames": [
+            "icon-whatsapp"
+          ]
         },
         {
           "id": "ru-instagram",
           "title": "Instagram: двухфакторная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "instagram.md",
-          "imageNames": ["icon-instagram"]
+          "imageNames": [
+            "icon-instagram"
+          ]
         },
         {
           "id": "ru-facebook",
           "title": "Facebook: двухфакторная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "facebook.md",
-          "imageNames": ["icon-facebook"]
+          "imageNames": [
+            "icon-facebook"
+          ]
         },
         {
           "id": "ru-x",
           "title": "X / Twitter: двухфакторная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "x-twitter.md",
-          "imageNames": ["icon-x"]
+          "imageNames": [
+            "icon-x"
+          ]
         },
         {
           "id": "ru-vk-id",
           "title": "VK ID: подтверждение входа",
-          "serviceCategory": "Проверить в интерфейсе",
+          "serviceCategory": "Подтверждение входа",
           "markdownFile": "vk-id.md",
-          "imageNames": ["icon-vk"]
+          "imageNames": [
+            "icon-vk"
+          ]
         },
         {
           "id": "ru-mailru",
           "title": "Почта Mail: двухфакторная аутентификация",
-          "serviceCategory": "SMS, TOTP не подтвержден",
+          "serviceCategory": "Подтверждение входа",
           "markdownFile": "mailru.md",
-          "imageNames": ["icon-mailru"]
+          "imageNames": [
+            "icon-mailru"
+          ]
         },
         {
           "id": "ru-max",
           "title": "MAX: пароль для входа",
-          "serviceCategory": "Пароль, TOTP не подтвержден",
+          "serviceCategory": "Пароль для входа",
           "markdownFile": "max.md",
-          "imageNames": ["icon-max"]
+          "imageNames": [
+            "icon-max"
+          ]
         },
         {
           "id": "ru-binance",
           "title": "Binance: Google Authenticator",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "binance.md",
-          "imageNames": ["icon-binance"]
+          "imageNames": [
+            "icon-binance"
+          ]
         },
         {
           "id": "ru-steam",
           "title": "Steam: Steam Guard",
-          "serviceCategory": "Steam Guard, не TOTP QR",
+          "serviceCategory": "Steam Guard",
           "markdownFile": "steam.md",
-          "imageNames": ["icon-steam"]
+          "imageNames": [
+            "icon-steam"
+          ]
         },
         {
           "id": "ru-epic-games",
           "title": "Epic Games: двухфакторная аутентификация",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "epic-games.md",
-          "imageNames": ["icon-epic-games"]
+          "imageNames": [
+            "icon-epic-games"
+          ]
         },
         {
           "id": "ru-twitch",
           "title": "Twitch: двухфакторная аутентификация",
-          "serviceCategory": "Проверить в интерфейсе",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "twitch.md",
-          "imageNames": ["icon-twitch"]
+          "imageNames": [
+            "icon-twitch"
+          ]
         },
         {
           "id": "ru-dropbox",
           "title": "Dropbox: двухэтапная проверка",
-          "serviceCategory": "TOTP / QR-код",
+          "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "dropbox.md",
-          "imageNames": ["icon-dropbox"]
+          "imageNames": [
+            "icon-dropbox"
+          ]
         }
       ]
     },
@@ -155,7 +195,9 @@
           "title": "gov.br: verificação em duas etapas",
           "serviceCategory": "Serviços públicos",
           "markdownFile": "govbr.md",
-          "imageNames": ["icon-govbr"]
+          "imageNames": [
+            "icon-govbr"
+          ]
         }
       ]
     },
@@ -168,7 +210,9 @@
           "title": "e-Devlet: iki adımlı doğrulama",
           "serviceCategory": "Kamu hizmetleri",
           "markdownFile": "edevlet.md",
-          "imageNames": ["icon-edevlet"]
+          "imageNames": [
+            "icon-edevlet"
+          ]
         }
       ]
     },
@@ -181,7 +225,9 @@
           "title": "UAE Pass: التحقق بخطوتين",
           "serviceCategory": "الخدمات الحكومية",
           "markdownFile": "uae-pass.md",
-          "imageNames": ["icon-uae-pass"]
+          "imageNames": [
+            "icon-uae-pass"
+          ]
         }
       ]
     }

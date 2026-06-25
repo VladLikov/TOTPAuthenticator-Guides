@@ -1,4 +1,4 @@
-Dropbox поддерживает authenticator app, SMS в отдельных странах и recovery codes.
+Dropbox поддерживает приложение-аутентификатор, SMS в отдельных странах и резервные коды.
 
 1. Откройте Dropbox в браузере.
 2. Перейдите в **Account settings**.

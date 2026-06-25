@@ -3,7 +3,7 @@ Microsoft Account поддерживает разные способы подт�
 1. Откройте [Security dashboard](https://account.microsoft.com/security).
 2. Перейдите в **Advanced security options**.
 3. Найдите **Two-step verification** и включите ее.
-4. Выберите настройку через authenticator app, затем **set up a different Authenticator app**.
+4. Выберите настройку через приложение-аутентификатор, затем вариант для другого приложения-аутентификатора.
 5. Отсканируйте QR-код этим приложением или введите секретный ключ вручную.
 6. Подтвердите настройку текущим кодом и сохраните recovery code.
 
