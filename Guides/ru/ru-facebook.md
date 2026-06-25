@@ -1,13 +1,51 @@
-Facebook поддерживает authentication app, security key и другие способы подтверждения. Для TOTP выберите приложение-аутентификатор.
+Facebook можно настроить в TOTP, если сервис показывает QR-код или код настройки для приложения-аутентификатора. Держите страницу настройки открытой, пока добавляете аккаунт.
 
-1. Откройте Facebook.
-2. Перейдите в **Settings & privacy**.
-3. Откройте **Accounts Center** или **Security and login**.
-4. Выберите **Password and security**.
-5. Откройте **Two-factor authentication**.
-6. Выберите аккаунт и способ **Authentication app**.
-7. Отсканируйте QR-код этим приложением.
-8. Введите текущий код и сохраните recovery codes.
+### 1. Откройте настройки 2FA
 
-Официальная справка: [Use two-factor authentication](https://www.facebook.com/help/148233965247823).
+Войдите в Facebook и откройте настройки аккаунта.
 
+![Facebook setup step 1](https://phund.s3.amazonaws.com/authen-cms/4ea27edc-53b3-4e69-b0c2-859a81bed24a.png)
+
+### 2. Откройте настройки и приватность
+
+![Facebook setup step 2](https://phund.s3.amazonaws.com/authen-cms/64bf7bc8-2f32-40ed-afaa-beed198cf982.png)
+
+### 3. Откройте двухфакторную защиту
+
+Следуйте подсказкам сервиса на этом шаге. Не закрывайте страницу, пока аккаунт не сохранен в TOTP.
+
+![Facebook setup step 3](https://phund.s3.amazonaws.com/authen-cms/6d75f743-3a79-4ce2-91a2-b9e48007c963.png)
+
+### 4. Выберите приложение-аутентификатор
+
+Следуйте подсказкам сервиса на этом шаге. Не закрывайте страницу, пока аккаунт не сохранен в TOTP.
+
+![Facebook setup step 4](https://phund.s3.amazonaws.com/authen-cms/1275cd09-bd8c-4373-b42e-c6275bdc6a15.png)
+
+### 5. Настройте сторонний аутентификатор
+
+Оставьте QR-код открытым на экране.
+
+![Facebook setup step 5](https://phund.s3.amazonaws.com/authen-cms/943f9ed1-f465-472f-8658-8723c0cabd6f.png)
+
+### 6. Сканируйте QR-код 2FA
+
+Откройте TOTP, нажмите плюс и отсканируйте QR-код. Если сканировать нельзя, введите код настройки вручную.
+
+![Facebook setup step 6](https://phund.s3.amazonaws.com/authen-cms/46816ef9-26f9-4955-af05-0e1262c6f605.png)
+
+### 7. Сохраните аккаунт Facebook
+
+Проверьте название сервиса, сохраните аккаунт и скопируйте текущий одноразовый код.
+
+### 8. Сохраните код в TOTP
+
+### 9. Подтвердите код
+
+![Facebook setup step 9](https://phund.s3.amazonaws.com/authen-cms/e11adef1-95b5-42f2-a022-af8221ef5380.png)
+
+### 10. Сохраните коды восстановления
+
+Сохраните резервные коды или способы восстановления в надежном месте.
+
+⚠️ Это руководство справочное. TOTP не связан с Facebook; названия продуктов и товарные знаки принадлежат их владельцам.
