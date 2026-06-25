@@ -8,7 +8,7 @@
           "id": "ru-gosuslugi",
           "title": "Госуслуги",
           "serviceCategory": "Код подтверждения",
-          "markdownFile": "gosuslugi.md",
+          "markdownFile": "ru-gosuslugi.md",
           "imageNames": [
             "icon-gosuslugi"
           ]
@@ -17,16 +17,16 @@
           "id": "ru-yandex-id",
           "title": "Яндекс ID",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "yandex-id.md",
+          "markdownFile": "ru-yandex-id.md",
           "imageNames": [
-            "icon-yandex-id"
+            "icon-yandex"
           ]
         },
         {
           "id": "ru-google",
           "title": "Google",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "google.md",
+          "markdownFile": "ru-google.md",
           "imageNames": [
             "icon-google"
           ]
@@ -35,7 +35,7 @@
           "id": "ru-apple-account",
           "title": "Apple Account",
           "serviceCategory": "Доверенные устройства",
-          "markdownFile": "apple-account.md",
+          "markdownFile": "ru-apple-account.md",
           "imageNames": [
             "icon-apple"
           ]
@@ -44,7 +44,7 @@
           "id": "ru-microsoft-account",
           "title": "Microsoft Account",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "microsoft-account.md",
+          "markdownFile": "ru-microsoft-account.md",
           "imageNames": [
             "icon-microsoft"
           ]
@@ -53,7 +53,7 @@
           "id": "ru-github",
           "title": "GitHub",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "github.md",
+          "markdownFile": "ru-github.md",
           "imageNames": [
             "icon-github"
           ]
@@ -62,7 +62,7 @@
           "id": "ru-discord",
           "title": "Discord",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "discord.md",
+          "markdownFile": "ru-discord.md",
           "imageNames": [
             "icon-discord"
           ]
@@ -71,7 +71,7 @@
           "id": "ru-telegram",
           "title": "Telegram",
           "serviceCategory": "Дополнительный пароль",
-          "markdownFile": "telegram.md",
+          "markdownFile": "ru-telegram.md",
           "imageNames": [
             "icon-telegram"
           ]
@@ -80,7 +80,7 @@
           "id": "ru-whatsapp",
           "title": "WhatsApp",
           "serviceCategory": "PIN-код",
-          "markdownFile": "whatsapp.md",
+          "markdownFile": "ru-whatsapp.md",
           "imageNames": [
             "icon-whatsapp"
           ]
@@ -89,7 +89,7 @@
           "id": "ru-instagram",
           "title": "Instagram",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "instagram.md",
+          "markdownFile": "ru-instagram.md",
           "imageNames": [
             "icon-instagram"
           ]
@@ -98,7 +98,7 @@
           "id": "ru-facebook",
           "title": "Facebook",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "facebook.md",
+          "markdownFile": "ru-facebook.md",
           "imageNames": [
             "icon-facebook"
           ]
@@ -107,7 +107,7 @@
           "id": "ru-x",
           "title": "X / Twitter",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "x-twitter.md",
+          "markdownFile": "ru-x-twitter.md",
           "imageNames": [
             "icon-x"
           ]
@@ -116,7 +116,7 @@
           "id": "ru-vk-id",
           "title": "VK ID",
           "serviceCategory": "Подтверждение входа",
-          "markdownFile": "vk-id.md",
+          "markdownFile": "ru-vk-id.md",
           "imageNames": [
             "icon-vk"
           ]
@@ -125,7 +125,7 @@
           "id": "ru-mailru",
           "title": "Почта Mail",
           "serviceCategory": "Подтверждение входа",
-          "markdownFile": "mailru.md",
+          "markdownFile": "ru-mailru.md",
           "imageNames": [
             "icon-mailru"
           ]
@@ -134,7 +134,7 @@
           "id": "ru-max",
           "title": "MAX",
           "serviceCategory": "Пароль для входа",
-          "markdownFile": "max.md",
+          "markdownFile": "ru-max.md",
           "imageNames": [
             "icon-max"
           ]
@@ -143,7 +143,7 @@
           "id": "ru-binance",
           "title": "Binance",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "binance.md",
+          "markdownFile": "ru-binance.md",
           "imageNames": [
             "icon-binance"
           ]
@@ -152,7 +152,7 @@
           "id": "ru-steam",
           "title": "Steam",
           "serviceCategory": "Steam Guard",
-          "markdownFile": "steam.md",
+          "markdownFile": "ru-steam.md",
           "imageNames": [
             "icon-steam"
           ]
@@ -161,7 +161,7 @@
           "id": "ru-epic-games",
           "title": "Epic Games",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "epic-games.md",
+          "markdownFile": "ru-epic-games.md",
           "imageNames": [
             "icon-epic-games"
           ]
@@ -170,7 +170,7 @@
           "id": "ru-twitch",
           "title": "Twitch",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "twitch.md",
+          "markdownFile": "ru-twitch.md",
           "imageNames": [
             "icon-twitch"
           ]
@@ -179,9 +179,579 @@
           "id": "ru-dropbox",
           "title": "Dropbox",
           "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "dropbox.md",
+          "markdownFile": "ru-dropbox.md",
           "imageNames": [
             "icon-dropbox"
+          ]
+        },
+        {
+          "id": "ru-sber",
+          "title": "Сбер",
+          "serviceCategory": "Защита входа",
+          "markdownFile": "ru-sber.md",
+          "imageNames": [
+            "icon-sber"
+          ]
+        },
+        {
+          "id": "ru-tbank",
+          "title": "Т-Банк",
+          "serviceCategory": "Защита входа",
+          "markdownFile": "ru-tbank.md",
+          "imageNames": [
+            "icon-tbank"
+          ]
+        },
+        {
+          "id": "ru-ozon",
+          "title": "Ozon",
+          "serviceCategory": "Защита аккаунта",
+          "markdownFile": "ru-ozon.md",
+          "imageNames": [
+            "icon-ozon"
+          ]
+        },
+        {
+          "id": "ru-wildberries",
+          "title": "Wildberries",
+          "serviceCategory": "Защита аккаунта",
+          "markdownFile": "ru-wildberries.md",
+          "imageNames": [
+            "icon-wildberries"
+          ]
+        },
+        {
+          "id": "ru-avito",
+          "title": "Авито",
+          "serviceCategory": "Защита аккаунта",
+          "markdownFile": "ru-avito.md",
+          "imageNames": [
+            "icon-avito"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-US",
+      "countryName": "United States",
+      "guides": [
+        {
+          "id": "us-amazon",
+          "title": "Amazon",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-US-amazon.md",
+          "imageNames": [
+            "icon-amazon"
+          ]
+        },
+        {
+          "id": "us-paypal",
+          "title": "PayPal",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-US-paypal.md",
+          "imageNames": [
+            "icon-paypal"
+          ]
+        },
+        {
+          "id": "us-coinbase",
+          "title": "Coinbase",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-coinbase.md",
+          "imageNames": [
+            "icon-coinbase"
+          ]
+        },
+        {
+          "id": "us-bankofamerica",
+          "title": "Bank of America",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-US-bankofamerica.md",
+          "imageNames": [
+            "icon-bankofamerica"
+          ]
+        },
+        {
+          "id": "us-wellsfargo",
+          "title": "Wells Fargo",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-US-wellsfargo.md",
+          "imageNames": [
+            "icon-wellsfargo"
+          ]
+        },
+        {
+          "id": "us-chase",
+          "title": "Chase",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-US-chase.md",
+          "imageNames": [
+            "icon-chase"
+          ]
+        },
+        {
+          "id": "us-capitalone",
+          "title": "Capital One",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-US-capitalone.md",
+          "imageNames": [
+            "icon-capitalone"
+          ]
+        },
+        {
+          "id": "us-linkedin",
+          "title": "LinkedIn",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-linkedin.md",
+          "imageNames": [
+            "icon-linkedin"
+          ]
+        },
+        {
+          "id": "us-slack",
+          "title": "Slack",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
+        },
+        {
+          "id": "us-wordpress",
+          "title": "WordPress",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-wordpress.md",
+          "imageNames": [
+            "icon-wordpress"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "de-DE",
+      "countryName": "Deutschland",
+      "guides": [
+        {
+          "id": "de-sparkasse",
+          "title": "Sparkasse",
+          "serviceCategory": "Banksicherheit",
+          "markdownFile": "de-DE-sparkasse.md",
+          "imageNames": [
+            "icon-sparkasse"
+          ]
+        },
+        {
+          "id": "de-deutsche-bank",
+          "title": "Deutsche Bank",
+          "serviceCategory": "Banksicherheit",
+          "markdownFile": "de-DE-deutsche-bank.md",
+          "imageNames": [
+            "icon-deutsche-bank"
+          ]
+        },
+        {
+          "id": "de-commerzbank",
+          "title": "Commerzbank",
+          "serviceCategory": "Banksicherheit",
+          "markdownFile": "de-DE-commerzbank.md",
+          "imageNames": [
+            "icon-commerzbank"
+          ]
+        },
+        {
+          "id": "de-n26",
+          "title": "N26",
+          "serviceCategory": "Banksicherheit",
+          "markdownFile": "de-DE-n26.md",
+          "imageNames": [
+            "icon-n26"
+          ]
+        },
+        {
+          "id": "de-kleinanzeigen",
+          "title": "Kleinanzeigen",
+          "serviceCategory": "Kontoschutz",
+          "markdownFile": "de-DE-kleinanzeigen.md",
+          "imageNames": [
+            "icon-kleinanzeigen"
+          ]
+        },
+        {
+          "id": "de-zalando",
+          "title": "Zalando",
+          "serviceCategory": "Kontoschutz",
+          "markdownFile": "de-DE-zalando.md",
+          "imageNames": [
+            "icon-zalando"
+          ]
+        },
+        {
+          "id": "de-check24",
+          "title": "CHECK24",
+          "serviceCategory": "Kontoschutz",
+          "markdownFile": "de-DE-check24.md",
+          "imageNames": [
+            "icon-check24"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-GB",
+      "countryName": "United Kingdom",
+      "guides": [
+        {
+          "id": "uk-govuk",
+          "title": "GOV.UK One Login",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-govuk.md",
+          "imageNames": [
+            "icon-govuk"
+          ]
+        },
+        {
+          "id": "uk-monzo",
+          "title": "Monzo",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-GB-monzo.md",
+          "imageNames": [
+            "icon-monzo"
+          ]
+        },
+        {
+          "id": "uk-starling",
+          "title": "Starling",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-GB-starling.md",
+          "imageNames": [
+            "icon-starling"
+          ]
+        },
+        {
+          "id": "uk-natwest",
+          "title": "NatWest",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-GB-natwest.md",
+          "imageNames": [
+            "icon-natwest"
+          ]
+        },
+        {
+          "id": "uk-lloyds",
+          "title": "Lloyds",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-GB-lloyds.md",
+          "imageNames": [
+            "icon-lloyds"
+          ]
+        },
+        {
+          "id": "uk-tesco",
+          "title": "Tesco",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-GB-tesco.md",
+          "imageNames": [
+            "icon-tesco"
+          ]
+        },
+        {
+          "id": "uk-wise",
+          "title": "Wise",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-GB-wise.md",
+          "imageNames": [
+            "icon-wise"
+          ]
+        },
+        {
+          "id": "uk-revolut",
+          "title": "Revolut",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-GB-revolut.md",
+          "imageNames": [
+            "icon-revolut"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "fr-FR",
+      "countryName": "France",
+      "guides": [
+        {
+          "id": "fr-societe-generale",
+          "title": "Société Générale",
+          "serviceCategory": "Sécurité bancaire",
+          "markdownFile": "fr-FR-societe-generale.md",
+          "imageNames": [
+            "icon-societe-generale"
+          ]
+        },
+        {
+          "id": "fr-bnp-paribas",
+          "title": "BNP Paribas",
+          "serviceCategory": "Sécurité bancaire",
+          "markdownFile": "fr-FR-bnp-paribas.md",
+          "imageNames": [
+            "icon-bnp-paribas"
+          ]
+        },
+        {
+          "id": "fr-credit-agricole",
+          "title": "Crédit Agricole",
+          "serviceCategory": "Sécurité bancaire",
+          "markdownFile": "fr-FR-credit-agricole.md",
+          "imageNames": [
+            "icon-credit-agricole"
+          ]
+        },
+        {
+          "id": "fr-orange",
+          "title": "Orange",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-FR-orange.md",
+          "imageNames": [
+            "icon-orange"
+          ]
+        },
+        {
+          "id": "fr-free",
+          "title": "Free",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-FR-free.md",
+          "imageNames": [
+            "icon-free"
+          ]
+        },
+        {
+          "id": "fr-leboncoin",
+          "title": "Leboncoin",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-FR-leboncoin.md",
+          "imageNames": [
+            "icon-leboncoin"
+          ]
+        },
+        {
+          "id": "fr-doctolib",
+          "title": "Doctolib",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-FR-doctolib.md",
+          "imageNames": [
+            "icon-doctolib"
+          ]
+        },
+        {
+          "id": "fr-qonto",
+          "title": "Qonto",
+          "serviceCategory": "Sécurité bancaire",
+          "markdownFile": "fr-FR-qonto.md",
+          "imageNames": [
+            "icon-qonto"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "es-ES",
+      "countryName": "España",
+      "guides": [
+        {
+          "id": "es-santander",
+          "title": "Santander",
+          "serviceCategory": "Seguridad bancaria",
+          "markdownFile": "es-ES-santander.md",
+          "imageNames": [
+            "icon-santander"
+          ]
+        },
+        {
+          "id": "es-bbva",
+          "title": "BBVA",
+          "serviceCategory": "Seguridad bancaria",
+          "markdownFile": "es-ES-bbva.md",
+          "imageNames": [
+            "icon-bbva"
+          ]
+        },
+        {
+          "id": "es-caixabank",
+          "title": "CaixaBank",
+          "serviceCategory": "Seguridad bancaria",
+          "markdownFile": "es-ES-caixabank.md",
+          "imageNames": [
+            "icon-caixabank"
+          ]
+        },
+        {
+          "id": "es-wallapop",
+          "title": "Wallapop",
+          "serviceCategory": "Seguridad de cuenta",
+          "markdownFile": "es-ES-wallapop.md",
+          "imageNames": [
+            "icon-wallapop"
+          ]
+        },
+        {
+          "id": "es-idealista",
+          "title": "Idealista",
+          "serviceCategory": "Seguridad de cuenta",
+          "markdownFile": "es-ES-idealista.md",
+          "imageNames": [
+            "icon-idealista"
+          ]
+        },
+        {
+          "id": "es-elcorteingles",
+          "title": "El Corte Inglés",
+          "serviceCategory": "Seguridad de cuenta",
+          "markdownFile": "es-ES-elcorteingles.md",
+          "imageNames": [
+            "icon-elcorteingles"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "it-IT",
+      "countryName": "Italia",
+      "guides": [
+        {
+          "id": "it-poste-italiane",
+          "title": "Poste Italiane",
+          "serviceCategory": "Sicurezza account",
+          "markdownFile": "it-IT-poste-italiane.md",
+          "imageNames": [
+            "icon-poste-italiane"
+          ]
+        },
+        {
+          "id": "it-intesa",
+          "title": "Intesa Sanpaolo",
+          "serviceCategory": "Sicurezza bancaria",
+          "markdownFile": "it-IT-intesa.md",
+          "imageNames": [
+            "icon-intesa"
+          ]
+        },
+        {
+          "id": "it-unicredit",
+          "title": "UniCredit",
+          "serviceCategory": "Sicurezza bancaria",
+          "markdownFile": "it-IT-unicredit.md",
+          "imageNames": [
+            "icon-unicredit"
+          ]
+        },
+        {
+          "id": "it-subito",
+          "title": "Subito",
+          "serviceCategory": "Sicurezza account",
+          "markdownFile": "it-IT-subito.md",
+          "imageNames": [
+            "icon-subito"
+          ]
+        },
+        {
+          "id": "it-satispay",
+          "title": "Satispay",
+          "serviceCategory": "Sicurezza pagamenti",
+          "markdownFile": "it-IT-satispay.md",
+          "imageNames": [
+            "icon-satispay"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "nl-NL",
+      "countryName": "Nederland",
+      "guides": [
+        {
+          "id": "nl-ing",
+          "title": "ING",
+          "serviceCategory": "Bankbeveiliging",
+          "markdownFile": "nl-NL-ing.md",
+          "imageNames": [
+            "icon-ing"
+          ]
+        },
+        {
+          "id": "nl-abn-amro",
+          "title": "ABN AMRO",
+          "serviceCategory": "Bankbeveiliging",
+          "markdownFile": "nl-NL-abn-amro.md",
+          "imageNames": [
+            "icon-abn-amro"
+          ]
+        },
+        {
+          "id": "nl-bunq",
+          "title": "bunq",
+          "serviceCategory": "Bankbeveiliging",
+          "markdownFile": "nl-NL-bunq.md",
+          "imageNames": [
+            "icon-bunq"
+          ]
+        },
+        {
+          "id": "nl-marktplaats",
+          "title": "Marktplaats",
+          "serviceCategory": "Accountbeveiliging",
+          "markdownFile": "nl-NL-marktplaats.md",
+          "imageNames": [
+            "icon-marktplaats"
+          ]
+        },
+        {
+          "id": "nl-bol",
+          "title": "bol",
+          "serviceCategory": "Accountbeveiliging",
+          "markdownFile": "nl-NL-bol.md",
+          "imageNames": [
+            "icon-bol"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "pl-PL",
+      "countryName": "Polska",
+      "guides": [
+        {
+          "id": "pl-pko",
+          "title": "PKO Bank Polski",
+          "serviceCategory": "Bezpieczeństwo banku",
+          "markdownFile": "pl-PL-pko.md",
+          "imageNames": [
+            "icon-pko"
+          ]
+        },
+        {
+          "id": "pl-mbank",
+          "title": "mBank",
+          "serviceCategory": "Bezpieczeństwo banku",
+          "markdownFile": "pl-PL-mbank.md",
+          "imageNames": [
+            "icon-mbank"
+          ]
+        },
+        {
+          "id": "pl-allegro",
+          "title": "Allegro",
+          "serviceCategory": "Bezpieczeństwo konta",
+          "markdownFile": "pl-PL-allegro.md",
+          "imageNames": [
+            "icon-allegro"
+          ]
+        },
+        {
+          "id": "pl-olx",
+          "title": "OLX",
+          "serviceCategory": "Bezpieczeństwo konta",
+          "markdownFile": "pl-PL-olx.md",
+          "imageNames": [
+            "icon-olx"
           ]
         }
       ]
@@ -194,9 +764,99 @@
           "id": "br-govbr",
           "title": "gov.br",
           "serviceCategory": "Serviços públicos",
-          "markdownFile": "govbr.md",
+          "markdownFile": "pt-BR-govbr.md",
           "imageNames": [
             "icon-govbr"
+          ]
+        },
+        {
+          "id": "br-banco-do-brasil",
+          "title": "Banco do Brasil",
+          "serviceCategory": "Segurança bancária",
+          "markdownFile": "pt-BR-banco-do-brasil.md",
+          "imageNames": [
+            "icon-banco-do-brasil"
+          ]
+        },
+        {
+          "id": "br-nubank",
+          "title": "Nubank",
+          "serviceCategory": "Segurança bancária",
+          "markdownFile": "pt-BR-nubank.md",
+          "imageNames": [
+            "icon-nubank"
+          ]
+        },
+        {
+          "id": "br-itau",
+          "title": "Itaú",
+          "serviceCategory": "Segurança bancária",
+          "markdownFile": "pt-BR-itau.md",
+          "imageNames": [
+            "icon-itau"
+          ]
+        },
+        {
+          "id": "br-bradesco",
+          "title": "Bradesco",
+          "serviceCategory": "Segurança bancária",
+          "markdownFile": "pt-BR-bradesco.md",
+          "imageNames": [
+            "icon-bradesco"
+          ]
+        },
+        {
+          "id": "br-caixa",
+          "title": "Caixa",
+          "serviceCategory": "Segurança bancária",
+          "markdownFile": "pt-BR-caixa.md",
+          "imageNames": [
+            "icon-caixa"
+          ]
+        },
+        {
+          "id": "br-mercado-livre",
+          "title": "Mercado Livre",
+          "serviceCategory": "Segurança da conta",
+          "markdownFile": "pt-BR-mercado-livre.md",
+          "imageNames": [
+            "icon-mercado-livre"
+          ]
+        },
+        {
+          "id": "br-mercado-pago",
+          "title": "Mercado Pago",
+          "serviceCategory": "Segurança de pagamentos",
+          "markdownFile": "pt-BR-mercado-pago.md",
+          "imageNames": [
+            "icon-mercado-pago"
+          ]
+        },
+        {
+          "id": "br-ifood",
+          "title": "iFood",
+          "serviceCategory": "Segurança da conta",
+          "markdownFile": "pt-BR-ifood.md",
+          "imageNames": [
+            "icon-ifood"
+          ]
+        },
+        {
+          "id": "br-magalu",
+          "title": "Magalu",
+          "serviceCategory": "Segurança da conta",
+          "markdownFile": "pt-BR-magalu.md",
+          "imageNames": [
+            "icon-magalu"
+          ]
+        },
+        {
+          "id": "br-picpay",
+          "title": "PicPay",
+          "serviceCategory": "Segurança de pagamentos",
+          "markdownFile": "pt-BR-picpay.md",
+          "imageNames": [
+            "icon-picpay"
           ]
         }
       ]
@@ -209,9 +869,90 @@
           "id": "tr-edevlet",
           "title": "e-Devlet",
           "serviceCategory": "Kamu hizmetleri",
-          "markdownFile": "edevlet.md",
+          "markdownFile": "tr-edevlet.md",
           "imageNames": [
             "icon-edevlet"
+          ]
+        },
+        {
+          "id": "tr-ziraat",
+          "title": "Ziraat Bankası",
+          "serviceCategory": "Banka güvenliği",
+          "markdownFile": "tr-ziraat.md",
+          "imageNames": [
+            "icon-ziraat"
+          ]
+        },
+        {
+          "id": "tr-garanti",
+          "title": "Garanti BBVA",
+          "serviceCategory": "Banka güvenliği",
+          "markdownFile": "tr-garanti.md",
+          "imageNames": [
+            "icon-garanti"
+          ]
+        },
+        {
+          "id": "tr-isbank",
+          "title": "İşbank",
+          "serviceCategory": "Banka güvenliği",
+          "markdownFile": "tr-isbank.md",
+          "imageNames": [
+            "icon-isbank"
+          ]
+        },
+        {
+          "id": "tr-papara",
+          "title": "Papara",
+          "serviceCategory": "Ödeme güvenliği",
+          "markdownFile": "tr-papara.md",
+          "imageNames": [
+            "icon-papara"
+          ]
+        },
+        {
+          "id": "tr-trendyol",
+          "title": "Trendyol",
+          "serviceCategory": "Hesap güvenliği",
+          "markdownFile": "tr-trendyol.md",
+          "imageNames": [
+            "icon-trendyol"
+          ]
+        },
+        {
+          "id": "tr-hepsiburada",
+          "title": "Hepsiburada",
+          "serviceCategory": "Hesap güvenliği",
+          "markdownFile": "tr-hepsiburada.md",
+          "imageNames": [
+            "icon-hepsiburada"
+          ]
+        },
+        {
+          "id": "tr-yemeksepeti",
+          "title": "Yemeksepeti",
+          "serviceCategory": "Hesap güvenliği",
+          "markdownFile": "tr-yemeksepeti.md",
+          "imageNames": [
+            "icon-yemeksepeti"
+          ]
+        },
+        {
+          "id": "tr-getir",
+          "title": "Getir",
+          "serviceCategory": "Hesap güvenliği",
+          "markdownFile": "tr-getir.md",
+          "imageNames": [
+            "icon-getir"
+          ]
+        },
+        {
+          "id": "tr-turkcell",
+          "title": "Turkcell",
+          "serviceCategory": "Hesap güvenliği",
+          "markdownFile": "tr-turkcell.md",
+          "imageNames": [
+            "icon-turkcell"
           ]
         }
       ]
@@ -224,9 +965,1215 @@
           "id": "ae-uae-pass",
           "title": "UAE Pass",
           "serviceCategory": "الخدمات الحكومية",
-          "markdownFile": "uae-pass.md",
+          "markdownFile": "ar-AE-uae-pass.md",
           "imageNames": [
             "icon-uae-pass"
+          ]
+        },
+        {
+          "id": "ae-emirates-nbd",
+          "title": "Emirates NBD",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-AE-emirates-nbd.md",
+          "imageNames": [
+            "icon-emirates-nbd"
+          ]
+        },
+        {
+          "id": "ae-noon",
+          "title": "Noon",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-AE-noon.md",
+          "imageNames": [
+            "icon-noon"
+          ]
+        },
+        {
+          "id": "ae-talabat",
+          "title": "Talabat",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-AE-talabat.md",
+          "imageNames": [
+            "icon-talabat"
+          ]
+        },
+        {
+          "id": "ae-careem",
+          "title": "Careem",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-AE-careem.md",
+          "imageNames": [
+            "icon-careem"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-IN",
+      "countryName": "India",
+      "guides": [
+        {
+          "id": "in-sbi",
+          "title": "SBI",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-IN-sbi.md",
+          "imageNames": [
+            "icon-sbi"
+          ]
+        },
+        {
+          "id": "in-hdfc",
+          "title": "HDFC Bank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-IN-hdfc.md",
+          "imageNames": [
+            "icon-hdfc"
+          ]
+        },
+        {
+          "id": "in-icici",
+          "title": "ICICI Bank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-IN-icici.md",
+          "imageNames": [
+            "icon-icici"
+          ]
+        },
+        {
+          "id": "in-axisbank",
+          "title": "Axis Bank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-IN-axisbank.md",
+          "imageNames": [
+            "icon-axisbank"
+          ]
+        },
+        {
+          "id": "in-paytm",
+          "title": "Paytm",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-IN-paytm.md",
+          "imageNames": [
+            "icon-paytm"
+          ]
+        },
+        {
+          "id": "in-phonepe",
+          "title": "PhonePe",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-IN-phonepe.md",
+          "imageNames": [
+            "icon-phonepe"
+          ]
+        },
+        {
+          "id": "in-flipkart",
+          "title": "Flipkart",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-flipkart.md",
+          "imageNames": [
+            "icon-flipkart"
+          ]
+        },
+        {
+          "id": "in-myntra",
+          "title": "Myntra",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-myntra.md",
+          "imageNames": [
+            "icon-myntra"
+          ]
+        },
+        {
+          "id": "in-zerodha",
+          "title": "Zerodha",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-zerodha.md",
+          "imageNames": [
+            "icon-zerodha"
+          ]
+        },
+        {
+          "id": "in-swiggy",
+          "title": "Swiggy",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-swiggy.md",
+          "imageNames": [
+            "icon-swiggy"
+          ]
+        },
+        {
+          "id": "in-zomato",
+          "title": "Zomato",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-zomato.md",
+          "imageNames": [
+            "icon-zomato"
+          ]
+        },
+        {
+          "id": "in-airtel",
+          "title": "Airtel",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-airtel.md",
+          "imageNames": [
+            "icon-airtel"
+          ]
+        },
+        {
+          "id": "in-jio",
+          "title": "Jio",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-jio.md",
+          "imageNames": [
+            "icon-jio"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "ja-JP",
+      "countryName": "日本",
+      "guides": [
+        {
+          "id": "jp-line",
+          "title": "LINE",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-line.md",
+          "imageNames": [
+            "icon-line"
+          ]
+        },
+        {
+          "id": "jp-rakuten",
+          "title": "Rakuten",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-rakuten.md",
+          "imageNames": [
+            "icon-rakuten"
+          ]
+        },
+        {
+          "id": "jp-paypay",
+          "title": "PayPay",
+          "serviceCategory": "決済セキュリティ",
+          "markdownFile": "ja-JP-paypay.md",
+          "imageNames": [
+            "icon-paypay"
+          ]
+        },
+        {
+          "id": "jp-mercari",
+          "title": "Mercari",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-mercari.md",
+          "imageNames": [
+            "icon-mercari"
+          ]
+        },
+        {
+          "id": "jp-yahoo-japan",
+          "title": "Yahoo! JAPAN",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-yahoo-japan.md",
+          "imageNames": [
+            "icon-yahoo-japan"
+          ]
+        },
+        {
+          "id": "jp-dmm",
+          "title": "DMM",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-dmm.md",
+          "imageNames": [
+            "icon-dmm"
+          ]
+        },
+        {
+          "id": "jp-docomo",
+          "title": "NTT Docomo",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-docomo.md",
+          "imageNames": [
+            "icon-docomo"
+          ]
+        },
+        {
+          "id": "jp-softbank",
+          "title": "SoftBank",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-softbank.md",
+          "imageNames": [
+            "icon-softbank"
+          ]
+        },
+        {
+          "id": "jp-nintendo",
+          "title": "Nintendo",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-nintendo.md",
+          "imageNames": [
+            "icon-nintendo"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "ko-KR",
+      "countryName": "대한민국",
+      "guides": [
+        {
+          "id": "kr-naver",
+          "title": "NAVER",
+          "serviceCategory": "계정 보안",
+          "markdownFile": "ko-KR-naver.md",
+          "imageNames": [
+            "icon-naver"
+          ]
+        },
+        {
+          "id": "kr-kakao",
+          "title": "Kakao",
+          "serviceCategory": "계정 보안",
+          "markdownFile": "ko-KR-kakao.md",
+          "imageNames": [
+            "icon-kakao"
+          ]
+        },
+        {
+          "id": "kr-toss",
+          "title": "Toss",
+          "serviceCategory": "결제 보안",
+          "markdownFile": "ko-KR-toss.md",
+          "imageNames": [
+            "icon-toss"
+          ]
+        },
+        {
+          "id": "kr-kbank",
+          "title": "Kbank",
+          "serviceCategory": "은행 보안",
+          "markdownFile": "ko-KR-kbank.md",
+          "imageNames": [
+            "icon-kbank"
+          ]
+        },
+        {
+          "id": "kr-kb-bank",
+          "title": "KB Bank",
+          "serviceCategory": "은행 보안",
+          "markdownFile": "ko-KR-kb-bank.md",
+          "imageNames": [
+            "icon-kb-bank"
+          ]
+        },
+        {
+          "id": "kr-shinhan",
+          "title": "Shinhan Bank",
+          "serviceCategory": "은행 보안",
+          "markdownFile": "ko-KR-shinhan.md",
+          "imageNames": [
+            "icon-shinhan"
+          ]
+        },
+        {
+          "id": "kr-gmarket",
+          "title": "Gmarket",
+          "serviceCategory": "계정 보안",
+          "markdownFile": "ko-KR-gmarket.md",
+          "imageNames": [
+            "icon-gmarket"
+          ]
+        },
+        {
+          "id": "kr-coupang",
+          "title": "Coupang",
+          "serviceCategory": "계정 보안",
+          "markdownFile": "ko-KR-coupang.md",
+          "imageNames": [
+            "icon-coupang"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-AU",
+      "countryName": "Australia",
+      "guides": [
+        {
+          "id": "au-mygov",
+          "title": "myGov",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-mygov.md",
+          "imageNames": [
+            "icon-mygov"
+          ]
+        },
+        {
+          "id": "au-anz",
+          "title": "ANZ",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-AU-anz.md",
+          "imageNames": [
+            "icon-anz"
+          ]
+        },
+        {
+          "id": "au-nab",
+          "title": "NAB",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-AU-nab.md",
+          "imageNames": [
+            "icon-nab"
+          ]
+        },
+        {
+          "id": "au-westpac",
+          "title": "Westpac",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-AU-westpac.md",
+          "imageNames": [
+            "icon-westpac"
+          ]
+        },
+        {
+          "id": "au-commbank",
+          "title": "CommBank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-AU-commbank.md",
+          "imageNames": [
+            "icon-commbank"
+          ]
+        },
+        {
+          "id": "au-xero",
+          "title": "Xero",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-AU-xero.md",
+          "imageNames": [
+            "icon-xero"
+          ]
+        },
+        {
+          "id": "au-atlassian",
+          "title": "Atlassian",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-AU-atlassian.md",
+          "imageNames": [
+            "icon-atlassian"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "es-MX",
+      "countryName": "México",
+      "guides": [
+        {
+          "id": "mx-bbva",
+          "title": "BBVA",
+          "serviceCategory": "Seguridad bancaria",
+          "markdownFile": "es-MX-bbva.md",
+          "imageNames": [
+            "icon-bbva"
+          ]
+        },
+        {
+          "id": "mx-santander",
+          "title": "Santander",
+          "serviceCategory": "Seguridad bancaria",
+          "markdownFile": "es-MX-santander.md",
+          "imageNames": [
+            "icon-santander"
+          ]
+        },
+        {
+          "id": "mx-mercado-libre",
+          "title": "Mercado Libre",
+          "serviceCategory": "Seguridad de cuenta",
+          "markdownFile": "es-MX-mercado-libre.md",
+          "imageNames": [
+            "icon-mercado-livre"
+          ]
+        },
+        {
+          "id": "mx-mercado-pago",
+          "title": "Mercado Pago",
+          "serviceCategory": "Seguridad de pagos",
+          "markdownFile": "es-MX-mercado-pago.md",
+          "imageNames": [
+            "icon-mercado-pago"
+          ]
+        },
+        {
+          "id": "mx-oxxo",
+          "title": "OXXO",
+          "serviceCategory": "Seguridad de cuenta",
+          "markdownFile": "es-MX-oxxo.md",
+          "imageNames": [
+            "icon-oxxo"
+          ]
+        },
+        {
+          "id": "mx-rappi",
+          "title": "Rappi",
+          "serviceCategory": "Seguridad de cuenta",
+          "markdownFile": "es-MX-rappi.md",
+          "imageNames": [
+            "icon-rappi"
+          ]
+        },
+        {
+          "id": "mx-clip",
+          "title": "Clip",
+          "serviceCategory": "Seguridad de pagos",
+          "markdownFile": "es-MX-clip.md",
+          "imageNames": [
+            "icon-clip"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "id-ID",
+      "countryName": "Indonesia",
+      "guides": [
+        {
+          "id": "id-mandiri",
+          "title": "Mandiri",
+          "serviceCategory": "Keamanan bank",
+          "markdownFile": "id-ID-mandiri.md",
+          "imageNames": [
+            "icon-mandiri"
+          ]
+        },
+        {
+          "id": "id-bca",
+          "title": "BCA",
+          "serviceCategory": "Keamanan bank",
+          "markdownFile": "id-ID-bca.md",
+          "imageNames": [
+            "icon-bca"
+          ]
+        },
+        {
+          "id": "id-bri",
+          "title": "BRI",
+          "serviceCategory": "Keamanan bank",
+          "markdownFile": "id-ID-bri.md",
+          "imageNames": [
+            "icon-bri"
+          ]
+        },
+        {
+          "id": "id-dana",
+          "title": "DANA",
+          "serviceCategory": "Keamanan pembayaran",
+          "markdownFile": "id-ID-dana.md",
+          "imageNames": [
+            "icon-dana"
+          ]
+        },
+        {
+          "id": "id-gojek",
+          "title": "Gojek",
+          "serviceCategory": "Keamanan akun",
+          "markdownFile": "id-ID-gojek.md",
+          "imageNames": [
+            "icon-gojek"
+          ]
+        },
+        {
+          "id": "id-tokopedia",
+          "title": "Tokopedia",
+          "serviceCategory": "Keamanan akun",
+          "markdownFile": "id-ID-tokopedia.md",
+          "imageNames": [
+            "icon-tokopedia"
+          ]
+        },
+        {
+          "id": "id-shopee",
+          "title": "Shopee",
+          "serviceCategory": "Keamanan akun",
+          "markdownFile": "id-ID-shopee.md",
+          "imageNames": [
+            "icon-shopee"
+          ]
+        },
+        {
+          "id": "id-lazada",
+          "title": "Lazada",
+          "serviceCategory": "Keamanan akun",
+          "markdownFile": "id-ID-lazada.md",
+          "imageNames": [
+            "icon-lazada"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "kk-KZ",
+      "countryName": "Қазақстан",
+      "guides": [
+        {
+          "id": "kz-egov",
+          "title": "eGov.kz",
+          "serviceCategory": "Мемлекеттік қызметтер",
+          "markdownFile": "kk-KZ-egov-kz.md",
+          "imageNames": [
+            "icon-egov-kz"
+          ]
+        },
+        {
+          "id": "kz-kaspi",
+          "title": "Kaspi",
+          "serviceCategory": "Банк қауіпсіздігі",
+          "markdownFile": "kk-KZ-kaspi.md",
+          "imageNames": [
+            "icon-kaspi"
+          ]
+        },
+        {
+          "id": "kz-halykbank",
+          "title": "Halyk Bank",
+          "serviceCategory": "Банк қауіпсіздігі",
+          "markdownFile": "kk-KZ-halykbank.md",
+          "imageNames": [
+            "icon-halykbank"
+          ]
+        },
+        {
+          "id": "kz-olx",
+          "title": "OLX Kazakhstan",
+          "serviceCategory": "Аккаунт қауіпсіздігі",
+          "markdownFile": "kk-KZ-olx-kz.md",
+          "imageNames": [
+            "icon-olx-kz"
+          ]
+        },
+        {
+          "id": "kz-kolesa",
+          "title": "Kolesa.kz",
+          "serviceCategory": "Аккаунт қауіпсіздігі",
+          "markdownFile": "kk-KZ-kolesa.md",
+          "imageNames": [
+            "icon-kolesa"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "uk-UA",
+      "countryName": "Україна",
+      "guides": [
+        {
+          "id": "ua-diia",
+          "title": "Дія",
+          "serviceCategory": "Державні послуги",
+          "markdownFile": "uk-UA-diia.md",
+          "imageNames": [
+            "icon-diia"
+          ]
+        },
+        {
+          "id": "ua-privat24",
+          "title": "Privat24",
+          "serviceCategory": "Банківська безпека",
+          "markdownFile": "uk-UA-privat24.md",
+          "imageNames": [
+            "icon-privat24"
+          ]
+        },
+        {
+          "id": "ua-monobank",
+          "title": "monobank",
+          "serviceCategory": "Банківська безпека",
+          "markdownFile": "uk-UA-monobank.md",
+          "imageNames": [
+            "icon-monobank"
+          ]
+        },
+        {
+          "id": "ua-nova-poshta",
+          "title": "Нова пошта",
+          "serviceCategory": "Захист акаунта",
+          "markdownFile": "uk-UA-nova-poshta.md",
+          "imageNames": [
+            "icon-nova-poshta"
+          ]
+        },
+        {
+          "id": "ua-rozetka",
+          "title": "Rozetka",
+          "serviceCategory": "Захист акаунта",
+          "markdownFile": "uk-UA-rozetka.md",
+          "imageNames": [
+            "icon-rozetka"
+          ]
+        },
+        {
+          "id": "ua-lifecell",
+          "title": "lifecell",
+          "serviceCategory": "Захист акаунта",
+          "markdownFile": "uk-UA-lifecell.md",
+          "imageNames": [
+            "icon-lifecell"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "be-BY",
+      "countryName": "Беларусь",
+      "guides": [
+        {
+          "id": "by-belarusbank",
+          "title": "Беларусбанк",
+          "serviceCategory": "Банковская безопасность",
+          "markdownFile": "be-BY-belarusbank.md",
+          "imageNames": [
+            "icon-belarusbank"
+          ]
+        },
+        {
+          "id": "by-a1",
+          "title": "A1",
+          "serviceCategory": "Защита аккаунта",
+          "markdownFile": "be-BY-a1.md",
+          "imageNames": [
+            "icon-a1"
+          ]
+        },
+        {
+          "id": "by-kufar",
+          "title": "Kufar",
+          "serviceCategory": "Защита аккаунта",
+          "markdownFile": "be-BY-kufar.md",
+          "imageNames": [
+            "icon-kufar"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "vi-VN",
+      "countryName": "Việt Nam",
+      "guides": [
+        {
+          "id": "vn-vietcombank",
+          "title": "Vietcombank",
+          "serviceCategory": "Bảo mật ngân hàng",
+          "markdownFile": "vi-VN-vietcombank.md",
+          "imageNames": [
+            "icon-vietcombank"
+          ]
+        },
+        {
+          "id": "vn-momo",
+          "title": "MoMo",
+          "serviceCategory": "Bảo mật thanh toán",
+          "markdownFile": "vi-VN-momo.md",
+          "imageNames": [
+            "icon-momo"
+          ]
+        },
+        {
+          "id": "vn-zalo",
+          "title": "Zalo",
+          "serviceCategory": "Bảo mật tài khoản",
+          "markdownFile": "vi-VN-zalo.md",
+          "imageNames": [
+            "icon-zalo"
+          ]
+        },
+        {
+          "id": "vn-tiki",
+          "title": "Tiki",
+          "serviceCategory": "Bảo mật tài khoản",
+          "markdownFile": "vi-VN-tiki.md",
+          "imageNames": [
+            "icon-tiki"
+          ]
+        },
+        {
+          "id": "vn-shopee",
+          "title": "Shopee",
+          "serviceCategory": "Bảo mật tài khoản",
+          "markdownFile": "vi-VN-shopee.md",
+          "imageNames": [
+            "icon-shopee"
+          ]
+        },
+        {
+          "id": "vn-lazada",
+          "title": "Lazada",
+          "serviceCategory": "Bảo mật tài khoản",
+          "markdownFile": "vi-VN-lazada.md",
+          "imageNames": [
+            "icon-lazada"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "th-TH",
+      "countryName": "Thailand",
+      "guides": [
+        {
+          "id": "th-kbank",
+          "title": "KBank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "th-TH-kbank.md",
+          "imageNames": [
+            "icon-kbank"
+          ]
+        },
+        {
+          "id": "th-grab",
+          "title": "Grab",
+          "serviceCategory": "Account security",
+          "markdownFile": "th-TH-grab.md",
+          "imageNames": [
+            "icon-grab"
+          ]
+        },
+        {
+          "id": "th-shopee",
+          "title": "Shopee",
+          "serviceCategory": "Account security",
+          "markdownFile": "th-TH-shopee.md",
+          "imageNames": [
+            "icon-shopee"
+          ]
+        },
+        {
+          "id": "th-lazada",
+          "title": "Lazada",
+          "serviceCategory": "Account security",
+          "markdownFile": "th-TH-lazada.md",
+          "imageNames": [
+            "icon-lazada"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "ms-MY",
+      "countryName": "Malaysia",
+      "guides": [
+        {
+          "id": "my-maybank",
+          "title": "Maybank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "ms-MY-maybank.md",
+          "imageNames": [
+            "icon-maybank"
+          ]
+        },
+        {
+          "id": "my-touchngo",
+          "title": "Touch ’n Go",
+          "serviceCategory": "Payment security",
+          "markdownFile": "ms-MY-touchngo.md",
+          "imageNames": [
+            "icon-touchngo"
+          ]
+        },
+        {
+          "id": "my-grab",
+          "title": "Grab",
+          "serviceCategory": "Account security",
+          "markdownFile": "ms-MY-grab.md",
+          "imageNames": [
+            "icon-grab"
+          ]
+        },
+        {
+          "id": "my-shopee",
+          "title": "Shopee",
+          "serviceCategory": "Account security",
+          "markdownFile": "ms-MY-shopee.md",
+          "imageNames": [
+            "icon-shopee"
+          ]
+        },
+        {
+          "id": "my-lazada",
+          "title": "Lazada",
+          "serviceCategory": "Account security",
+          "markdownFile": "ms-MY-lazada.md",
+          "imageNames": [
+            "icon-lazada"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "zh-CN",
+      "countryName": "中国",
+      "guides": [
+        {
+          "id": "cn-wechat",
+          "title": "WeChat",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-wechat.md",
+          "imageNames": [
+            "icon-wechat"
+          ]
+        },
+        {
+          "id": "cn-alipay",
+          "title": "Alipay",
+          "serviceCategory": "支付安全",
+          "markdownFile": "zh-CN-alipay.md",
+          "imageNames": [
+            "icon-alipay"
+          ]
+        },
+        {
+          "id": "cn-taobao",
+          "title": "Taobao",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-taobao.md",
+          "imageNames": [
+            "icon-taobao"
+          ]
+        },
+        {
+          "id": "cn-jd",
+          "title": "JD",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-jd.md",
+          "imageNames": [
+            "icon-jd"
+          ]
+        },
+        {
+          "id": "cn-baidu",
+          "title": "Baidu",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-baidu.md",
+          "imageNames": [
+            "icon-baidu"
+          ]
+        },
+        {
+          "id": "cn-douyin",
+          "title": "Douyin",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-douyin.md",
+          "imageNames": [
+            "icon-douyin"
+          ]
+        },
+        {
+          "id": "cn-weibo",
+          "title": "Weibo",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-weibo.md",
+          "imageNames": [
+            "icon-weibo"
+          ]
+        },
+        {
+          "id": "cn-qq",
+          "title": "QQ",
+          "serviceCategory": "账号安全",
+          "markdownFile": "zh-CN-qq.md",
+          "imageNames": [
+            "icon-qq"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-NG",
+      "countryName": "Nigeria",
+      "guides": [
+        {
+          "id": "ng-gtbank",
+          "title": "GTBank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-NG-gtbank.md",
+          "imageNames": [
+            "icon-gtbank"
+          ]
+        },
+        {
+          "id": "ng-accessbank",
+          "title": "Access Bank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-NG-accessbank.md",
+          "imageNames": [
+            "icon-accessbank"
+          ]
+        },
+        {
+          "id": "ng-flutterwave",
+          "title": "Flutterwave",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-NG-flutterwave.md",
+          "imageNames": [
+            "icon-flutterwave"
+          ]
+        },
+        {
+          "id": "ng-paystack",
+          "title": "Paystack",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-NG-paystack.md",
+          "imageNames": [
+            "icon-paystack"
+          ]
+        },
+        {
+          "id": "ng-opay",
+          "title": "OPay",
+          "serviceCategory": "Payment security",
+          "markdownFile": "en-NG-opay.md",
+          "imageNames": [
+            "icon-opay"
+          ]
+        },
+        {
+          "id": "ng-jumia",
+          "title": "Jumia",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-NG-jumia.md",
+          "imageNames": [
+            "icon-jumia"
+          ]
+        },
+        {
+          "id": "ng-mtn",
+          "title": "MTN",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-NG-mtn.md",
+          "imageNames": [
+            "icon-mtn"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-ZA",
+      "countryName": "South Africa",
+      "guides": [
+        {
+          "id": "za-standardbank",
+          "title": "Standard Bank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-ZA-standardbank.md",
+          "imageNames": [
+            "icon-standardbank"
+          ]
+        },
+        {
+          "id": "za-fnb",
+          "title": "FNB",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-ZA-fnb.md",
+          "imageNames": [
+            "icon-fnb"
+          ]
+        },
+        {
+          "id": "za-capitec",
+          "title": "Capitec",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-ZA-capitec.md",
+          "imageNames": [
+            "icon-capitec"
+          ]
+        },
+        {
+          "id": "za-takealot",
+          "title": "Takealot",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-ZA-takealot.md",
+          "imageNames": [
+            "icon-takealot"
+          ]
+        },
+        {
+          "id": "za-vodacom",
+          "title": "Vodacom",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-ZA-vodacom.md",
+          "imageNames": [
+            "icon-vodacom"
+          ]
+        },
+        {
+          "id": "za-mtn",
+          "title": "MTN",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-ZA-mtn.md",
+          "imageNames": [
+            "icon-mtn"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "ar-SA",
+      "countryName": "السعودية",
+      "guides": [
+        {
+          "id": "sa-stc",
+          "title": "stc",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-SA-stc.md",
+          "imageNames": [
+            "icon-stc"
+          ]
+        },
+        {
+          "id": "sa-mobily",
+          "title": "Mobily",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-SA-mobily.md",
+          "imageNames": [
+            "icon-mobily"
+          ]
+        },
+        {
+          "id": "sa-alrajhi",
+          "title": "Al Rajhi Bank",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-SA-alrajhi.md",
+          "imageNames": [
+            "icon-alrajhi"
+          ]
+        },
+        {
+          "id": "sa-sabb",
+          "title": "SABB",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-SA-sabb.md",
+          "imageNames": [
+            "icon-sabb"
+          ]
+        },
+        {
+          "id": "sa-noon",
+          "title": "Noon",
+          "serviceCategory": "أمان الحساب",
+          "markdownFile": "ar-SA-noon.md",
+          "imageNames": [
+            "icon-noon"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-SG",
+      "countryName": "Singapore",
+      "guides": [
+        {
+          "id": "sg-dbs",
+          "title": "DBS",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-SG-dbs.md",
+          "imageNames": [
+            "icon-dbs"
+          ]
+        },
+        {
+          "id": "sg-ocbc",
+          "title": "OCBC",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-SG-ocbc.md",
+          "imageNames": [
+            "icon-ocbc"
+          ]
+        },
+        {
+          "id": "sg-uob",
+          "title": "UOB",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-SG-uob.md",
+          "imageNames": [
+            "icon-uob"
+          ]
+        },
+        {
+          "id": "sg-grab",
+          "title": "Grab",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-SG-grab.md",
+          "imageNames": [
+            "icon-grab"
+          ]
+        },
+        {
+          "id": "sg-shopee",
+          "title": "Shopee",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-SG-shopee.md",
+          "imageNames": [
+            "icon-shopee"
+          ]
+        },
+        {
+          "id": "sg-lazada",
+          "title": "Lazada",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-SG-lazada.md",
+          "imageNames": [
+            "icon-lazada"
+          ]
+        }
+      ]
+    },
+    {
+      "locale": "en-NZ",
+      "countryName": "New Zealand",
+      "guides": [
+        {
+          "id": "nz-kiwibank",
+          "title": "Kiwibank",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-NZ-kiwibank.md",
+          "imageNames": [
+            "icon-kiwibank"
+          ]
+        },
+        {
+          "id": "nz-trademe",
+          "title": "Trade Me",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-NZ-trademe.md",
+          "imageNames": [
+            "icon-trademe"
+          ]
+        },
+        {
+          "id": "nz-xero",
+          "title": "Xero",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-NZ-xero.md",
+          "imageNames": [
+            "icon-xero"
+          ]
+        },
+        {
+          "id": "nz-westpac",
+          "title": "Westpac",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-NZ-westpac.md",
+          "imageNames": [
+            "icon-westpac"
+          ]
+        },
+        {
+          "id": "nz-anz",
+          "title": "ANZ",
+          "serviceCategory": "Bank security",
+          "markdownFile": "en-NZ-anz.md",
+          "imageNames": [
+            "icon-anz"
           ]
         }
       ]
