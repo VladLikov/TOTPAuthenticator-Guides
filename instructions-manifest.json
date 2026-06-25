@@ -6,7 +6,7 @@
       "guides": [
         {
           "id": "ru-gosuslugi",
-          "title": "Госуслуги: двухфакторная защита",
+          "title": "Госуслуги",
           "serviceCategory": "Код подтверждения",
           "markdownFile": "gosuslugi.md",
           "imageNames": [
@@ -15,7 +15,7 @@
         },
         {
           "id": "ru-yandex-id",
-          "title": "Яндекс ID: коды подтверждения",
+          "title": "Яндекс ID",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "yandex-id.md",
           "imageNames": [
@@ -24,7 +24,7 @@
         },
         {
           "id": "ru-google",
-          "title": "Google: двухэтапная аутентификация",
+          "title": "Google",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "google.md",
           "imageNames": [
@@ -33,7 +33,7 @@
         },
         {
           "id": "ru-apple-account",
-          "title": "Apple Account: двухфакторная защита",
+          "title": "Apple Account",
           "serviceCategory": "Доверенные устройства",
           "markdownFile": "apple-account.md",
           "imageNames": [
@@ -42,7 +42,7 @@
         },
         {
           "id": "ru-microsoft-account",
-          "title": "Microsoft Account: двухэтапная проверка",
+          "title": "Microsoft Account",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "microsoft-account.md",
           "imageNames": [
@@ -51,7 +51,7 @@
         },
         {
           "id": "ru-github",
-          "title": "GitHub: двухфакторная аутентификация",
+          "title": "GitHub",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "github.md",
           "imageNames": [
@@ -60,7 +60,7 @@
         },
         {
           "id": "ru-discord",
-          "title": "Discord: двухфакторная аутентификация",
+          "title": "Discord",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "discord.md",
           "imageNames": [
@@ -69,7 +69,7 @@
         },
         {
           "id": "ru-telegram",
-          "title": "Telegram: двухэтапная проверка",
+          "title": "Telegram",
           "serviceCategory": "Дополнительный пароль",
           "markdownFile": "telegram.md",
           "imageNames": [
@@ -78,7 +78,7 @@
         },
         {
           "id": "ru-whatsapp",
-          "title": "WhatsApp: двухшаговая проверка",
+          "title": "WhatsApp",
           "serviceCategory": "PIN-код",
           "markdownFile": "whatsapp.md",
           "imageNames": [
@@ -87,7 +87,7 @@
         },
         {
           "id": "ru-instagram",
-          "title": "Instagram: двухфакторная аутентификация",
+          "title": "Instagram",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "instagram.md",
           "imageNames": [
@@ -96,7 +96,7 @@
         },
         {
           "id": "ru-facebook",
-          "title": "Facebook: двухфакторная аутентификация",
+          "title": "Facebook",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "facebook.md",
           "imageNames": [
@@ -105,7 +105,7 @@
         },
         {
           "id": "ru-x",
-          "title": "X / Twitter: двухфакторная аутентификация",
+          "title": "X / Twitter",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "x-twitter.md",
           "imageNames": [
@@ -114,7 +114,7 @@
         },
         {
           "id": "ru-vk-id",
-          "title": "VK ID: подтверждение входа",
+          "title": "VK ID",
           "serviceCategory": "Подтверждение входа",
           "markdownFile": "vk-id.md",
           "imageNames": [
@@ -123,7 +123,7 @@
         },
         {
           "id": "ru-mailru",
-          "title": "Почта Mail: двухфакторная аутентификация",
+          "title": "Почта Mail",
           "serviceCategory": "Подтверждение входа",
           "markdownFile": "mailru.md",
           "imageNames": [
@@ -132,7 +132,7 @@
         },
         {
           "id": "ru-max",
-          "title": "MAX: пароль для входа",
+          "title": "MAX",
           "serviceCategory": "Пароль для входа",
           "markdownFile": "max.md",
           "imageNames": [
@@ -141,7 +141,7 @@
         },
         {
           "id": "ru-binance",
-          "title": "Binance: Google Authenticator",
+          "title": "Binance",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "binance.md",
           "imageNames": [
@@ -150,7 +150,7 @@
         },
         {
           "id": "ru-steam",
-          "title": "Steam: Steam Guard",
+          "title": "Steam",
           "serviceCategory": "Steam Guard",
           "markdownFile": "steam.md",
           "imageNames": [
@@ -159,7 +159,7 @@
         },
         {
           "id": "ru-epic-games",
-          "title": "Epic Games: двухфакторная аутентификация",
+          "title": "Epic Games",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "epic-games.md",
           "imageNames": [
@@ -168,7 +168,7 @@
         },
         {
           "id": "ru-twitch",
-          "title": "Twitch: двухфакторная аутентификация",
+          "title": "Twitch",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "twitch.md",
           "imageNames": [
@@ -177,7 +177,7 @@
         },
         {
           "id": "ru-dropbox",
-          "title": "Dropbox: двухэтапная проверка",
+          "title": "Dropbox",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "dropbox.md",
           "imageNames": [
@@ -192,7 +192,7 @@
       "guides": [
         {
           "id": "br-govbr",
-          "title": "gov.br: verificação em duas etapas",
+          "title": "gov.br",
           "serviceCategory": "Serviços públicos",
           "markdownFile": "govbr.md",
           "imageNames": [
@@ -207,7 +207,7 @@
       "guides": [
         {
           "id": "tr-edevlet",
-          "title": "e-Devlet: iki adımlı doğrulama",
+          "title": "e-Devlet",
           "serviceCategory": "Kamu hizmetleri",
           "markdownFile": "edevlet.md",
           "imageNames": [
@@ -222,7 +222,7 @@
       "guides": [
         {
           "id": "ae-uae-pass",
-          "title": "UAE Pass: التحقق بخطوتين",
+          "title": "UAE Pass",
           "serviceCategory": "الخدمات الحكومية",
           "markdownFile": "uae-pass.md",
           "imageNames": [
