@@ -1,15 +1,29 @@
-Flipkart can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when Flipkart shows a QR code or manual key for an authenticator app.
+Flipkart can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or account confirmation. Add the account to TOTP only when Flipkart shows a QR code or manual key for an authenticator app.
 
-### 1. Open Flipkart.
+### 1. Open Flipkart
 
-### 2. Go to profile, account settings, or security settings.
+Go to the app or website and sign in.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Open account settings
 
-### 4. Choose the authenticator app option if it is available.
+Open profile, account settings, privacy, or security settings.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Find sign-in protection
 
-### 6. Save recovery codes if the service provides them.
+Look for two-factor authentication, login verification, two-step verification, or additional sign-in methods.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Choose authenticator app
+
+Select the authenticator app option if it is available.
+
+### 5. Scan or enter the key
+
+Scan the QR code with TOTP or enter the manual setup key.
+
+### 6. Confirm the code
+
+Enter the 6-digit code from TOTP back in Flipkart.
+
+### 7. Save recovery codes
+
+If Flipkart offers recovery codes, keep them somewhere safe. If only SMS, push approval, passkeys, or an official app are available, use that method separately.

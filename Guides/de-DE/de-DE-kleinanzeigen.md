@@ -1,15 +1,29 @@
-Kleinanzeigen can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when Kleinanzeigen shows a QR code or manual key for an authenticator app.
+Kleinanzeigen kann verschiedene Methoden zum Schutz der Anmeldung verwenden: eine Authenticator-App, Bestätigung in der offiziellen App, SMS, Passkeys oder Kontobestätigung. Fügen Sie das Konto nur dann zu TOTP hinzu, wenn Kleinanzeigen einen QR-Code oder manuellen Schlüssel für eine Authenticator-App anzeigt.
 
-### 1. Open Kleinanzeigen.
+### 1. Öffnen Sie Kleinanzeigen
 
-### 2. Go to profile, account settings, or security settings.
+Melden Sie sich in der App oder auf der Website an.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Öffnen Sie die Kontoeinstellungen
 
-### 4. Choose the authenticator app option if it is available.
+Gehen Sie zu Profil, Kontoeinstellungen, Datenschutz oder Sicherheit.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Suchen Sie den Anmeldeschutz
 
-### 6. Save recovery codes if the service provides them.
+Suchen Sie nach Zwei-Faktor-Authentifizierung, Anmeldebestätigung, Zwei-Schritt-Verifizierung oder zusätzlichen Anmeldemethoden.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Wählen Sie Authenticator-App
+
+Wählen Sie diese Option, falls sie verfügbar ist.
+
+### 5. Scannen Sie den Code oder geben Sie den Schlüssel ein
+
+Scannen Sie den QR-Code mit TOTP oder geben Sie den manuellen Schlüssel ein.
+
+### 6. Bestätigen Sie den Code
+
+Geben Sie den 6-stelligen Code aus TOTP wieder in Kleinanzeigen ein.
+
+### 7. Speichern Sie Wiederherstellungscodes
+
+Wenn Kleinanzeigen Wiederherstellungscodes anbietet, bewahren Sie sie sicher auf. Wenn nur SMS, Push-Bestätigung, Passkeys oder eine offizielle App verfügbar sind, verwenden Sie diese Methode separat.

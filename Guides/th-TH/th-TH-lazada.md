@@ -1,15 +1,29 @@
-Lazada can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when Lazada shows a QR code or manual key for an authenticator app.
+Lazada อาจใช้วิธีป้องกันการเข้าสู่ระบบหลายแบบ เช่น แอปยืนยันตัวตน การอนุมัติในแอปทางการ SMS passkey หรือการยืนยันบัญชี เพิ่มบัญชีลงใน TOTP เฉพาะเมื่อ Lazada แสดง QR code หรือคีย์แบบกรอกเองสำหรับแอปยืนยันตัวตนเท่านั้น
 
-### 1. Open Lazada.
+### 1. เปิด Lazada
 
-### 2. Go to profile, account settings, or security settings.
+เข้าสู่ระบบในแอปหรือเว็บไซต์
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. เปิดการตั้งค่าบัญชี
 
-### 4. Choose the authenticator app option if it is available.
+ไปที่โปรไฟล์ การตั้งค่าบัญชี ความเป็นส่วนตัว หรือความปลอดภัย
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. ค้นหาการป้องกันการเข้าสู่ระบบ
 
-### 6. Save recovery codes if the service provides them.
+มองหา two-factor authentication, login verification, two-step verification หรือวิธีเข้าสู่ระบบเพิ่มเติม
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. เลือกแอปยืนยันตัวตน
+
+เลือกตัวเลือกนี้หากมีให้ใช้งาน
+
+### 5. สแกนโค้ดหรือกรอกคีย์
+
+สแกน QR code ด้วย TOTP หรือกรอกคีย์แบบ manual
+
+### 6. ยืนยันรหัส
+
+นำรหัส 6 หลักจาก TOTP ไปกรอกใน Lazada
+
+### 7. เก็บ recovery codes
+
+หาก Lazada มี recovery codes ให้เก็บไว้ในที่ปลอดภัย หากมีเฉพาะ SMS, push approval, passkey หรือแอปทางการ ให้ใช้วิธีนั้นแยกต่างหาก

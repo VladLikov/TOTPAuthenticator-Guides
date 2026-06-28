@@ -1,15 +1,29 @@
-BNP Paribas can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when BNP Paribas shows a QR code or manual key for an authenticator app.
+BNP Paribas peut utiliser différentes méthodes de protection de connexion : application d’authentification, approbation dans l’app officielle, SMS, passkeys ou confirmation du compte. Ajoutez le compte dans TOTP seulement si BNP Paribas affiche un code QR ou une clé manuelle pour une application d’authentification.
 
-### 1. Open BNP Paribas.
+### 1. Ouvrez BNP Paribas
 
-### 2. Go to profile, account settings, or security settings.
+Connectez-vous dans l’application ou sur le site.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Ouvrez les paramètres du compte
 
-### 4. Choose the authenticator app option if it is available.
+Allez dans le profil, les paramètres du compte, la confidentialité ou la sécurité.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Trouvez la protection de connexion
 
-### 6. Save recovery codes if the service provides them.
+Cherchez l’authentification à deux facteurs, la vérification de connexion, la validation en deux étapes ou les méthodes de connexion supplémentaires.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Choisissez l’application d’authentification
+
+Sélectionnez cette option si elle est disponible.
+
+### 5. Scannez le code ou saisissez la clé
+
+Scannez le code QR avec TOTP ou saisissez la clé manuelle.
+
+### 6. Confirmez le code
+
+Entrez le code à 6 chiffres de TOTP dans BNP Paribas.
+
+### 7. Enregistrez les codes de récupération
+
+Si BNP Paribas fournit des codes de récupération, gardez-les en lieu sûr. Si seuls les SMS, l’approbation push, les passkeys ou l’app officielle sont disponibles, utilisez cette méthode séparément.

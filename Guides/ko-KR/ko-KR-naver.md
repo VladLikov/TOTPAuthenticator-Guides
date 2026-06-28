@@ -1,15 +1,29 @@
-NAVER can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when NAVER shows a QR code or manual key for an authenticator app.
+NAVER에서는 인증 앱, 공식 앱 승인, SMS, 패스키, 계정 확인 등 여러 로그인 보호 방법을 사용할 수 있습니다. NAVER가 인증 앱용 QR 코드 또는 수동 키를 표시할 때만 계정을 TOTP에 추가하세요.
 
-### 1. Open NAVER.
+### 1. NAVER 열기
 
-### 2. Go to profile, account settings, or security settings.
+앱 또는 웹사이트에 로그인합니다.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. 계정 설정 열기
 
-### 4. Choose the authenticator app option if it is available.
+프로필, 계정 설정, 개인정보 또는 보안으로 이동합니다.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. 로그인 보호 찾기
 
-### 6. Save recovery codes if the service provides them.
+2단계 인증, 로그인 확인, 추가 로그인 방법을 찾습니다.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. 인증 앱 선택
+
+사용 가능한 경우 이 옵션을 선택합니다.
+
+### 5. 코드를 스캔하거나 키 입력
+
+TOTP로 QR 코드를 스캔하거나 수동 키를 입력합니다.
+
+### 6. 코드 확인
+
+TOTP의 6자리 코드를 NAVER에 입력합니다.
+
+### 7. 복구 코드 저장
+
+NAVER가 복구 코드를 제공하면 안전한 곳에 보관하세요. SMS, 푸시 승인, 패스키 또는 공식 앱만 제공되는 경우 해당 방법을 별도로 사용하세요.

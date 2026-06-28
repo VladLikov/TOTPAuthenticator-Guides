@@ -1,15 +1,29 @@
-Marktplaats can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when Marktplaats shows a QR code or manual key for an authenticator app.
+Marktplaats kan verschillende methoden voor aanmeldbeveiliging gebruiken: een authenticator-app, goedkeuring in de officiële app, SMS, passkeys of accountbevestiging. Voeg het account alleen toe aan TOTP wanneer Marktplaats een QR-code of handmatige sleutel voor een authenticator-app toont.
 
-### 1. Open Marktplaats.
+### 1. Open Marktplaats
 
-### 2. Go to profile, account settings, or security settings.
+Meld je aan in de app of op de website.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Open accountinstellingen
 
-### 4. Choose the authenticator app option if it is available.
+Ga naar profiel, accountinstellingen, privacy of beveiliging.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Zoek aanmeldbeveiliging
 
-### 6. Save recovery codes if the service provides them.
+Zoek naar twee-factor-authenticatie, aanmeldverificatie, tweestapsverificatie of extra aanmeldmethoden.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Kies authenticator-app
+
+Selecteer deze optie als die beschikbaar is.
+
+### 5. Scan de code of voer de sleutel in
+
+Scan de QR-code met TOTP of voer de handmatige sleutel in.
+
+### 6. Bevestig de code
+
+Voer de 6-cijferige code uit TOTP in bij Marktplaats.
+
+### 7. Bewaar herstelcodes
+
+Als Marktplaats herstelcodes aanbiedt, bewaar ze veilig. Als alleen SMS, push-goedkeuring, passkeys of de officiële app beschikbaar zijn, gebruik die methode apart.

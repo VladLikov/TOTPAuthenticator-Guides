@@ -1,15 +1,29 @@
-Mercado Pago pode usar diferentes métodos de proteção de acesso: aplicativo autenticador, confirmação no app oficial, SMS, passkey ou confirmação bancária. Adicione a conta neste app somente quando Mercado Pago mostrar um QR code ou uma chave de configuração para aplicativo autenticador.
+Mercado Pago pode usar diferentes métodos de proteção de login: app autenticador, aprovação no app oficial, SMS, passkeys ou confirmação da conta. Adicione a conta ao TOTP somente quando Mercado Pago mostrar um QR code ou uma chave manual para um app autenticador.
 
-### 1. Abra Mercado Pago.
+### 1. Abra Mercado Pago
 
-### 2. Acesse perfil, configurações da conta ou segurança.
+Entre no app ou no site.
 
-### 3. Procure verificação em duas etapas, confirmação de login ou métodos adicionais de acesso.
+### 2. Abra as configurações da conta
 
-### 4. Escolha a opção de aplicativo autenticador, se estiver disponível.
+Vá para perfil, configurações da conta, privacidade ou segurança.
 
-### 5. Escaneie o QR code com este app ou digite a chave de configuração manualmente.
+### 3. Encontre a proteção de login
 
-### 6. Salve os códigos de recuperação, se o serviço mostrar.
+Procure autenticação de dois fatores, verificação de login, verificação em duas etapas ou métodos adicionais de acesso.
 
-### 7. Se houver apenas SMS, push, passkey ou confirmação no app oficial, use esse método separadamente.
+### 4. Escolha app autenticador
+
+Selecione essa opção se estiver disponível.
+
+### 5. Escaneie o código ou digite a chave
+
+Escaneie o QR code com o TOTP ou digite a chave manual.
+
+### 6. Confirme o código
+
+Digite em Mercado Pago o código de 6 dígitos do TOTP.
+
+### 7. Salve os códigos de recuperação
+
+Se Mercado Pago oferecer códigos de recuperação, guarde-os em segurança. Se houver apenas SMS, aprovação push, passkeys ou app oficial, use esse método separadamente.

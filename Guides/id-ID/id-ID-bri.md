@@ -1,15 +1,29 @@
-BRI can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when BRI shows a QR code or manual key for an authenticator app.
+BRI dapat memakai beberapa metode perlindungan masuk: aplikasi autentikator, persetujuan di aplikasi resmi, SMS, passkey, atau konfirmasi akun. Tambahkan akun ke TOTP hanya jika BRI menampilkan kode QR atau kunci manual untuk aplikasi autentikator.
 
-### 1. Open BRI.
+### 1. Buka BRI
 
-### 2. Go to profile, account settings, or security settings.
+Masuk ke aplikasi atau situs web.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Buka pengaturan akun
 
-### 4. Choose the authenticator app option if it is available.
+Masuk ke profil, pengaturan akun, privasi, atau keamanan.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Cari perlindungan masuk
 
-### 6. Save recovery codes if the service provides them.
+Cari autentikasi dua faktor, verifikasi login, verifikasi dua langkah, atau metode masuk tambahan.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Pilih aplikasi autentikator
+
+Pilih opsi ini jika tersedia.
+
+### 5. Pindai kode atau masukkan kunci
+
+Pindai kode QR dengan TOTP atau masukkan kunci manual.
+
+### 6. Konfirmasi kode
+
+Masukkan kode 6 digit dari TOTP kembali ke BRI.
+
+### 7. Simpan kode pemulihan
+
+Jika BRI menyediakan kode pemulihan, simpan dengan aman. Jika hanya SMS, persetujuan push, passkey, atau aplikasi resmi yang tersedia, gunakan metode itu secara terpisah.

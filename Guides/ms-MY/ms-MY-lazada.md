@@ -1,15 +1,29 @@
-Lazada can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when Lazada shows a QR code or manual key for an authenticator app.
+Lazada boleh menggunakan beberapa kaedah perlindungan log masuk: aplikasi pengesah, kelulusan dalam aplikasi rasmi, SMS, passkey atau pengesahan akaun. Tambah akaun ke TOTP hanya apabila Lazada memaparkan kod QR atau kunci manual untuk aplikasi pengesah.
 
-### 1. Open Lazada.
+### 1. Buka Lazada
 
-### 2. Go to profile, account settings, or security settings.
+Log masuk dalam aplikasi atau laman web.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Buka tetapan akaun
 
-### 4. Choose the authenticator app option if it is available.
+Pergi ke profil, tetapan akaun, privasi atau keselamatan.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Cari perlindungan log masuk
 
-### 6. Save recovery codes if the service provides them.
+Cari pengesahan dua faktor, pengesahan log masuk, pengesahan dua langkah atau kaedah log masuk tambahan.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Pilih aplikasi pengesah
+
+Pilih pilihan ini jika tersedia.
+
+### 5. Imbas kod atau masukkan kunci
+
+Imbas kod QR dengan TOTP atau masukkan kunci manual.
+
+### 6. Sahkan kod
+
+Masukkan kod 6 digit daripada TOTP kembali ke Lazada.
+
+### 7. Simpan kod pemulihan
+
+Jika Lazada menyediakan kod pemulihan, simpan dengan selamat. Jika hanya SMS, kelulusan push, passkey atau aplikasi rasmi tersedia, gunakan kaedah itu secara berasingan.

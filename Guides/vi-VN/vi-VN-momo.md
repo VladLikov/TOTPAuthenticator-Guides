@@ -1,15 +1,29 @@
-MoMo can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when MoMo shows a QR code or manual key for an authenticator app.
+MoMo có thể dùng nhiều cách bảo vệ đăng nhập: ứng dụng xác thực, phê duyệt trong ứng dụng chính thức, SMS, passkey hoặc xác nhận tài khoản. Chỉ thêm tài khoản vào TOTP khi MoMo hiển thị mã QR hoặc khóa thủ công cho ứng dụng xác thực.
 
-### 1. Open MoMo.
+### 1. Mở MoMo
 
-### 2. Go to profile, account settings, or security settings.
+Đăng nhập trong ứng dụng hoặc trên trang web.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Mở cài đặt tài khoản
 
-### 4. Choose the authenticator app option if it is available.
+Vào hồ sơ, cài đặt tài khoản, quyền riêng tư hoặc bảo mật.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Tìm bảo vệ đăng nhập
 
-### 6. Save recovery codes if the service provides them.
+Tìm xác thực hai yếu tố, xác minh đăng nhập, xác minh hai bước hoặc phương thức đăng nhập bổ sung.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Chọn ứng dụng xác thực
+
+Chọn tùy chọn này nếu có.
+
+### 5. Quét mã hoặc nhập khóa
+
+Quét mã QR bằng TOTP hoặc nhập khóa thủ công.
+
+### 6. Xác nhận mã
+
+Nhập mã 6 chữ số từ TOTP vào MoMo.
+
+### 7. Lưu mã khôi phục
+
+Nếu MoMo cung cấp mã khôi phục, hãy lưu ở nơi an toàn. Nếu chỉ có SMS, phê duyệt push, passkey hoặc ứng dụng chính thức, hãy dùng phương thức đó riêng.

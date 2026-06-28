@@ -1,15 +1,29 @@
-Wallapop can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when Wallapop shows a QR code or manual key for an authenticator app.
+Wallapop puede usar distintos métodos de protección de inicio de sesión: app de autenticación, aprobación en la app oficial, SMS, passkeys o confirmación de cuenta. Añade la cuenta a TOTP solo cuando Wallapop muestre un código QR o una clave manual para una app de autenticación.
 
-### 1. Open Wallapop.
+### 1. Abre Wallapop
 
-### 2. Go to profile, account settings, or security settings.
+Inicia sesión en la app o en el sitio web.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Abre los ajustes de la cuenta
 
-### 4. Choose the authenticator app option if it is available.
+Ve a perfil, ajustes de cuenta, privacidad o seguridad.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Busca la protección de inicio de sesión
 
-### 6. Save recovery codes if the service provides them.
+Busca autenticación de dos factores, verificación de inicio de sesión, verificación en dos pasos o métodos adicionales de acceso.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Elige app de autenticación
+
+Selecciona esta opción si está disponible.
+
+### 5. Escanea el código o introduce la clave
+
+Escanea el código QR con TOTP o introduce la clave manual.
+
+### 6. Confirma el código
+
+Introduce en Wallapop el código de 6 dígitos de TOTP.
+
+### 7. Guarda los códigos de recuperación
+
+Si Wallapop ofrece códigos de recuperación, guárdalos en un lugar seguro. Si solo hay SMS, aprobación push, passkeys o app oficial, usa ese método por separado.

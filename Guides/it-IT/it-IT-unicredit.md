@@ -1,15 +1,29 @@
-UniCredit can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when UniCredit shows a QR code or manual key for an authenticator app.
+UniCredit può usare diversi metodi di protezione dell’accesso: app di autenticazione, approvazione nell’app ufficiale, SMS, passkey o conferma dell’account. Aggiungi l’account a TOTP solo quando UniCredit mostra un codice QR o una chiave manuale per un’app di autenticazione.
 
-### 1. Open UniCredit.
+### 1. Apri UniCredit
 
-### 2. Go to profile, account settings, or security settings.
+Accedi nell’app o sul sito web.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Apri le impostazioni dell’account
 
-### 4. Choose the authenticator app option if it is available.
+Vai su profilo, impostazioni account, privacy o sicurezza.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Trova la protezione dell’accesso
 
-### 6. Save recovery codes if the service provides them.
+Cerca autenticazione a due fattori, verifica dell’accesso, verifica in due passaggi o metodi di accesso aggiuntivi.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Scegli app di autenticazione
+
+Seleziona questa opzione se è disponibile.
+
+### 5. Scansiona il codice o inserisci la chiave
+
+Scansiona il codice QR con TOTP o inserisci la chiave manuale.
+
+### 6. Conferma il codice
+
+Inserisci in UniCredit il codice a 6 cifre di TOTP.
+
+### 7. Salva i codici di recupero
+
+Se UniCredit fornisce codici di recupero, conservali in modo sicuro. Se sono disponibili solo SMS, approvazione push, passkey o app ufficiale, usa quel metodo separatamente.

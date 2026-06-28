@@ -1,11 +1,29 @@
-Giriş yapmadan önce adresin resmi olduğundan emin olun.
+e-Devlet farklı giriş koruma yöntemleri kullanabilir: kimlik doğrulama uygulaması, resmi uygulamada onay, SMS, passkey veya hesap onayı. Hesabı TOTP’ye yalnızca e-Devlet bir kimlik doğrulama uygulaması için QR kodu veya manuel anahtar gösterdiğinde ekleyin.
 
-### 1. Resmi hesap ayarlarından güvenlik bölümünü açın.
+### 1. e-Devlet uygulamasını açın
 
-### 2. İki adımlı doğrulama seçeneklerini kontrol edin.
+Uygulamaya veya web sitesine giriş yapın.
 
-### 3. Varsa doğrulama uygulaması seçeneğini seçin.
+### 2. Hesap ayarlarını açın
 
-### 4. QR kodu taratın veya gizli anahtarı elle girin.
+Profil, hesap ayarları, gizlilik veya güvenlik bölümüne gidin.
 
-### 5. Güncel kodu girerek kurulumu tamamlayın ve kurtarma seçeneklerini saklayın.
+### 3. Giriş korumasını bulun
+
+İki faktörlü kimlik doğrulama, giriş doğrulama, iki adımlı doğrulama veya ek giriş yöntemlerini arayın.
+
+### 4. Kimlik doğrulama uygulamasını seçin
+
+Bu seçenek varsa seçin.
+
+### 5. Kodu tarayın veya anahtarı girin
+
+QR kodunu TOTP ile tarayın veya manuel anahtarı girin.
+
+### 6. Kodu onaylayın
+
+TOTP’deki 6 haneli kodu e-Devlet içine girin.
+
+### 7. Kurtarma kodlarını saklayın
+
+e-Devlet kurtarma kodları sunuyorsa güvenli bir yerde saklayın. Yalnızca SMS, push onayı, passkey veya resmi uygulama varsa bu yöntemi ayrı kullanın.

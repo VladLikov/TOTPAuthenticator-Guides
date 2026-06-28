@@ -1,15 +1,29 @@
-QQ can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when QQ shows a QR code or manual key for an authenticator app.
+QQ 可能使用不同的登录保护方式：身份验证器 App、官方 App 确认、短信、通行密钥或账号确认。只有当 QQ 显示用于身份验证器 App 的二维码或手动密钥时，才把账号添加到 TOTP。
 
-### 1. Open QQ.
+### 1. 打开 QQ
 
-### 2. Go to profile, account settings, or security settings.
+在 App 或网站中登录。
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. 打开账号设置
 
-### 4. Choose the authenticator app option if it is available.
+进入个人资料、账号设置、隐私或安全设置。
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. 查找登录保护
 
-### 6. Save recovery codes if the service provides them.
+寻找双因素认证、登录验证、两步验证或其他登录方式。
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. 选择身份验证器 App
+
+如果有这个选项，请选择它。
+
+### 5. 扫描二维码或输入密钥
+
+用 TOTP 扫描二维码，或输入手动密钥。
+
+### 6. 确认验证码
+
+把 TOTP 中的 6 位验证码输入到 QQ。
+
+### 7. 保存恢复码
+
+如果 QQ 提供恢复码，请安全保存。如果只能使用短信、推送确认、通行密钥或官方 App，请单独使用该方式。

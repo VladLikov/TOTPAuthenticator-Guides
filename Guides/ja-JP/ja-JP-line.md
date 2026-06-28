@@ -1,15 +1,29 @@
-LINE can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when LINE shows a QR code or manual key for an authenticator app.
+LINE では、認証アプリ、公式アプリでの承認、SMS、パスキー、アカウント確認など、複数のログイン保護方法が使われる場合があります。LINE が認証アプリ用の QR コードまたは手動キーを表示した場合だけ、TOTP にアカウントを追加してください。
 
-### 1. Open LINE.
+### 1. LINE を開く
 
-### 2. Go to profile, account settings, or security settings.
+アプリまたはウェブサイトにサインインします。
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. アカウント設定を開く
 
-### 4. Choose the authenticator app option if it is available.
+プロフィール、アカウント設定、プライバシー、またはセキュリティに進みます。
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. ログイン保護を探す
 
-### 6. Save recovery codes if the service provides them.
+二要素認証、ログイン確認、2 段階認証、または追加のログイン方法を探します。
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. 認証アプリを選ぶ
+
+利用できる場合は、このオプションを選択します。
+
+### 5. コードをスキャンするかキーを入力する
+
+TOTP で QR コードをスキャンするか、手動キーを入力します。
+
+### 6. コードを確認する
+
+TOTP の 6 桁コードを LINE に入力します。
+
+### 7. 復旧コードを保存する
+
+LINE が復旧コードを提供する場合は、安全な場所に保管してください。SMS、プッシュ承認、パスキー、公式アプリのみが利用できる場合は、その方法を別途使用してください。

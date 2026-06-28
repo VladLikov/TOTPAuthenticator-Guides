@@ -1,15 +1,29 @@
-PKO Bank Polski can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or bank confirmation. Add the account to this app only when PKO Bank Polski shows a QR code or manual key for an authenticator app.
+PKO Bank Polski może używać różnych metod ochrony logowania: aplikacji uwierzytelniającej, zatwierdzenia w oficjalnej aplikacji, SMS, passkey lub potwierdzenia konta. Dodaj konto do TOTP tylko wtedy, gdy PKO Bank Polski pokazuje kod QR albo klucz ręczny dla aplikacji uwierzytelniającej.
 
-### 1. Open PKO Bank Polski.
+### 1. Otwórz PKO Bank Polski
 
-### 2. Go to profile, account settings, or security settings.
+Zaloguj się w aplikacji lub na stronie.
 
-### 3. Find two-factor authentication, login verification, or additional sign-in methods.
+### 2. Otwórz ustawienia konta
 
-### 4. Choose the authenticator app option if it is available.
+Przejdź do profilu, ustawień konta, prywatności lub bezpieczeństwa.
 
-### 5. Scan the QR code with this app or enter the manual key manually.
+### 3. Znajdź ochronę logowania
 
-### 6. Save recovery codes if the service provides them.
+Szukaj uwierzytelniania dwuskładnikowego, weryfikacji logowania, weryfikacji dwuetapowej lub dodatkowych metod logowania.
 
-### 7. If only SMS, push approval, passkeys, or approval in the official app are available, use that method separately.
+### 4. Wybierz aplikację uwierzytelniającą
+
+Wybierz tę opcję, jeśli jest dostępna.
+
+### 5. Zeskanuj kod lub wpisz klucz
+
+Zeskanuj kod QR w TOTP albo wpisz klucz ręczny.
+
+### 6. Potwierdź kod
+
+Wpisz w PKO Bank Polski 6-cyfrowy kod z TOTP.
+
+### 7. Zapisz kody odzyskiwania
+
+Jeśli PKO Bank Polski udostępnia kody odzyskiwania, przechowuj je bezpiecznie. Jeśli dostępne są tylko SMS, zatwierdzenie push, passkeys lub oficjalna aplikacja, użyj tej metody osobno.

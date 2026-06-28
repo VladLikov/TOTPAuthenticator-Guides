@@ -1,11 +1,29 @@
-Este guia é independente e não representa o serviço oficial.
+gov.br pode usar diferentes métodos de proteção de login: app autenticador, aprovação no app oficial, SMS, passkeys ou confirmação da conta. Adicione a conta ao TOTP somente quando gov.br mostrar um QR code ou uma chave manual para um app autenticador.
 
-### 1. Entre na sua conta pelo site ou aplicativo oficial.
+### 1. Abra gov.br
 
-### 2. Abra as opções de segurança da conta.
+Entre no app ou no site.
 
-### 3. Procure a verificação em duas etapas e escolha um aplicativo autenticador, se disponível.
+### 2. Abra as configurações da conta
 
-### 4. Escaneie o QR code ou digite a chave secreta manualmente.
+Vá para perfil, configurações da conta, privacidade ou segurança.
 
-### 5. Confirme com o código atual e guarde os códigos de recuperação em local seguro.
+### 3. Encontre a proteção de login
+
+Procure autenticação de dois fatores, verificação de login, verificação em duas etapas ou métodos adicionais de acesso.
+
+### 4. Escolha app autenticador
+
+Selecione essa opção se estiver disponível.
+
+### 5. Escaneie o código ou digite a chave
+
+Escaneie o QR code com o TOTP ou digite a chave manual.
+
+### 6. Confirme o código
+
+Digite em gov.br o código de 6 dígitos do TOTP.
+
+### 7. Salve os códigos de recuperação
+
+Se gov.br oferecer códigos de recuperação, guarde-os em segurança. Se houver apenas SMS, aprovação push, passkeys ou app oficial, use esse método separadamente.

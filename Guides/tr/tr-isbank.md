@@ -1,15 +1,29 @@
-İşbank farklı giriş koruma yöntemleri kullanabilir: kimlik doğrulama uygulaması, resmi uygulamada onay, SMS, passkey veya banka onayı. İşbank kimlik doğrulama uygulaması için QR kodu ya da kurulum anahtarı gösteriyorsa hesabı bu uygulamaya ekleyin.
+İşbank farklı giriş koruma yöntemleri kullanabilir: kimlik doğrulama uygulaması, resmi uygulamada onay, SMS, passkey veya hesap onayı. Hesabı TOTP’ye yalnızca İşbank bir kimlik doğrulama uygulaması için QR kodu veya manuel anahtar gösterdiğinde ekleyin.
 
-### 1. İşbank uygulamasını açın.
+### 1. İşbank uygulamasını açın
 
-### 2. Profil, hesap ayarları veya güvenlik bölümüne gidin.
+Uygulamaya veya web sitesine giriş yapın.
 
-### 3. İki adımlı doğrulama, giriş onayı veya ek giriş yöntemlerini bulun.
+### 2. Hesap ayarlarını açın
 
-### 4. Varsa kimlik doğrulama uygulaması seçeneğini seçin.
+Profil, hesap ayarları, gizlilik veya güvenlik bölümüne gidin.
 
-### 5. QR kodunu bu uygulamayla tarayın veya kurulum anahtarını elle girin.
+### 3. Giriş korumasını bulun
 
-### 6. Servis gösteriyorsa kurtarma kodlarını kaydedin.
+İki faktörlü kimlik doğrulama, giriş doğrulama, iki adımlı doğrulama veya ek giriş yöntemlerini arayın.
 
-### 7. Yalnızca SMS, push, passkey veya resmi uygulama onayı varsa bu yöntemi ayrı kullanın.
+### 4. Kimlik doğrulama uygulamasını seçin
+
+Bu seçenek varsa seçin.
+
+### 5. Kodu tarayın veya anahtarı girin
+
+QR kodunu TOTP ile tarayın veya manuel anahtarı girin.
+
+### 6. Kodu onaylayın
+
+TOTP’deki 6 haneli kodu İşbank içine girin.
+
+### 7. Kurtarma kodlarını saklayın
+
+İşbank kurtarma kodları sunuyorsa güvenli bir yerde saklayın. Yalnızca SMS, push onayı, passkey veya resmi uygulama varsa bu yöntemi ayrı kullanın.
