@@ -1,29 +1,27 @@
-Seznam může používat různé způsoby ochrany přihlášení: autentizační aplikaci, potvrzení v oficiální aplikaci, SMS, passkeys nebo potvrzení účtu. Přidejte účet do TOTP pouze tehdy, když Seznam zobrazí QR kód nebo ruční klíč pro autentizační aplikaci.
+Seznam.cz podporuje dvoufázové ověření pomocí autentizační aplikace. Tento postup použijte, když Seznam zobrazí QR kód nebo ruční klíč pro nastavení v TOTP. SMS a potvrzení v aplikaci se nastavují samostatně.
 
-### 1. Otevřete Seznam
+Zdroj: https://napoveda.seznam.cz/cz/login/dvoufazove-overeni/
 
-Přihlaste se v aplikaci nebo na webu.
+### 1. Otevřete Seznam.cz
 
-### 2. Otevřete nastavení účtu
+Přihlaste se ke svému účtu Seznam.cz v oficiálním webu nebo aplikaci.
 
-Přejděte do profilu, nastavení účtu, soukromí nebo zabezpečení.
+### 2. Otevřete zabezpečení účtu
 
-### 3. Najděte ochranu přihlášení
+Přejděte do nastavení účtu a otevřete dvoufázové ověření nebo zabezpečení přihlášení.
 
-Hledejte dvoufaktorové ověření, ověření přihlášení, dvoufázové ověření nebo další metody přihlášení.
+### 3. Vyberte autentizační aplikaci
 
-### 4. Vyberte autentizační aplikaci
+Zvolte možnost pro ověřovací nebo autentizační aplikaci.
 
-Zvolte tuto možnost, pokud je dostupná.
-
-### 5. Naskenujte kód nebo zadejte klíč
+### 4. Přidejte účet do TOTP
 
 Naskenujte QR kód pomocí TOTP nebo zadejte ruční klíč.
 
-### 6. Potvrďte kód
+### 5. Potvrďte nastavení
 
-Zadejte 6místný kód z TOTP zpět do Seznam.
+Zadejte 6místný kód z TOTP zpět do Seznam.cz.
 
-### 7. Uložte obnovovací kódy
+### 6. Uložte obnovovací možnosti
 
-Pokud Seznam nabízí obnovovací kódy, bezpečně je uložte. Pokud jsou dostupné jen SMS, push potvrzení, passkeys nebo oficiální aplikace, použijte tuto metodu samostatně.
+Pokud Seznam.cz nabídne záložní kódy nebo jiné možnosti obnovení, uložte je na bezpečné místo.

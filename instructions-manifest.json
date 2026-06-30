@@ -5,51 +5,6 @@
       "countryName": "Россия",
       "guides": [
         {
-          "id": "ru-gosuslugi",
-          "title": "Госуслуги",
-          "serviceCategory": "Код подтверждения",
-          "markdownFile": "ru-gosuslugi.md",
-          "imageNames": [
-            "icon-gosuslugi"
-          ]
-        },
-        {
-          "id": "ru-yandex-id",
-          "title": "Яндекс ID",
-          "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "ru-yandex-id.md",
-          "imageNames": [
-            "icon-yandex"
-          ]
-        },
-        {
-          "id": "ru-apple-account",
-          "title": "Apple Account",
-          "serviceCategory": "Доверенные устройства",
-          "markdownFile": "ru-apple-account.md",
-          "imageNames": [
-            "icon-apple"
-          ]
-        },
-        {
-          "id": "ru-telegram",
-          "title": "Telegram",
-          "serviceCategory": "Дополнительный пароль",
-          "markdownFile": "ru-telegram.md",
-          "imageNames": [
-            "icon-telegram"
-          ]
-        },
-        {
-          "id": "ru-x",
-          "title": "X / Twitter",
-          "serviceCategory": "Приложение-аутентификатор",
-          "markdownFile": "ru-x-twitter.md",
-          "imageNames": [
-            "icon-x"
-          ]
-        },
-        {
           "id": "ru-vk-id",
           "title": "VK ID",
           "serviceCategory": "Подтверждение входа",
@@ -59,21 +14,12 @@
           ]
         },
         {
-          "id": "ru-mailru",
-          "title": "Почта Mail",
-          "serviceCategory": "Подтверждение входа",
-          "markdownFile": "ru-mailru.md",
+          "id": "ru-x",
+          "title": "X / Twitter",
+          "serviceCategory": "Приложение-аутентификатор",
+          "markdownFile": "ru-x-twitter.md",
           "imageNames": [
-            "icon-mailru"
-          ]
-        },
-        {
-          "id": "ru-max",
-          "title": "MAX",
-          "serviceCategory": "Пароль для входа",
-          "markdownFile": "ru-max.md",
-          "imageNames": [
-            "icon-max"
+            "icon-x"
           ]
         },
         {
@@ -101,51 +47,6 @@
           "markdownFile": "ru-dropbox.md",
           "imageNames": [
             "icon-dropbox"
-          ]
-        },
-        {
-          "id": "ru-sber",
-          "title": "Сбер",
-          "serviceCategory": "Защита входа",
-          "markdownFile": "ru-sber.md",
-          "imageNames": [
-            "icon-sber"
-          ]
-        },
-        {
-          "id": "ru-tbank",
-          "title": "Т-Банк",
-          "serviceCategory": "Защита входа",
-          "markdownFile": "ru-tbank.md",
-          "imageNames": [
-            "icon-tbank"
-          ]
-        },
-        {
-          "id": "ru-ozon",
-          "title": "Ozon",
-          "serviceCategory": "Защита аккаунта",
-          "markdownFile": "ru-ozon.md",
-          "imageNames": [
-            "icon-ozon"
-          ]
-        },
-        {
-          "id": "ru-wildberries",
-          "title": "Wildberries",
-          "serviceCategory": "Защита аккаунта",
-          "markdownFile": "ru-wildberries.md",
-          "imageNames": [
-            "icon-wildberries"
-          ]
-        },
-        {
-          "id": "ru-avito",
-          "title": "Авито",
-          "serviceCategory": "Защита аккаунта",
-          "markdownFile": "ru-avito.md",
-          "imageNames": [
-            "icon-avito"
           ]
         },
         {
@@ -221,30 +122,12 @@
           ]
         },
         {
-          "id": "ru-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "PIN-код",
-          "markdownFile": "ru-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ru-discord",
           "title": "Discord",
           "serviceCategory": "Приложение-аутентификатор",
           "markdownFile": "ru-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ru-steam",
-          "title": "Steam",
-          "serviceCategory": "Steam Guard",
-          "markdownFile": "ru-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -269,42 +152,6 @@
           "markdownFile": "en-US-coinbase.md",
           "imageNames": [
             "icon-coinbase"
-          ]
-        },
-        {
-          "id": "us-bankofamerica",
-          "title": "Bank of America",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-US-bankofamerica.md",
-          "imageNames": [
-            "icon-bankofamerica"
-          ]
-        },
-        {
-          "id": "us-wellsfargo",
-          "title": "Wells Fargo",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-US-wellsfargo.md",
-          "imageNames": [
-            "icon-wellsfargo"
-          ]
-        },
-        {
-          "id": "us-chase",
-          "title": "Chase",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-US-chase.md",
-          "imageNames": [
-            "icon-chase"
-          ]
-        },
-        {
-          "id": "us-capitalone",
-          "title": "Capital One",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-US-capitalone.md",
-          "imageNames": [
-            "icon-capitalone"
           ]
         },
         {
@@ -398,30 +245,12 @@
           ]
         },
         {
-          "id": "en-US-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-US-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-US-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-US-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-US-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-US-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -439,78 +268,6 @@
       "locale": "de-DE",
       "countryName": "Deutschland",
       "guides": [
-        {
-          "id": "de-sparkasse",
-          "title": "Sparkasse",
-          "serviceCategory": "Banksicherheit",
-          "markdownFile": "de-DE-sparkasse.md",
-          "imageNames": [
-            "icon-sparkasse"
-          ]
-        },
-        {
-          "id": "de-deutsche-bank",
-          "title": "Deutsche Bank",
-          "serviceCategory": "Banksicherheit",
-          "markdownFile": "de-DE-deutsche-bank.md",
-          "imageNames": [
-            "icon-deutsche-bank"
-          ]
-        },
-        {
-          "id": "de-commerzbank",
-          "title": "Commerzbank",
-          "serviceCategory": "Banksicherheit",
-          "markdownFile": "de-DE-commerzbank.md",
-          "imageNames": [
-            "icon-commerzbank"
-          ]
-        },
-        {
-          "id": "de-n26",
-          "title": "N26",
-          "serviceCategory": "Banksicherheit",
-          "markdownFile": "de-DE-n26.md",
-          "imageNames": [
-            "icon-n26"
-          ]
-        },
-        {
-          "id": "de-kleinanzeigen",
-          "title": "Kleinanzeigen",
-          "serviceCategory": "Kontoschutz",
-          "markdownFile": "de-DE-kleinanzeigen.md",
-          "imageNames": [
-            "icon-kleinanzeigen"
-          ]
-        },
-        {
-          "id": "de-zalando",
-          "title": "Zalando",
-          "serviceCategory": "Kontoschutz",
-          "markdownFile": "de-DE-zalando.md",
-          "imageNames": [
-            "icon-zalando"
-          ]
-        },
-        {
-          "id": "de-check24",
-          "title": "CHECK24",
-          "serviceCategory": "Kontoschutz",
-          "markdownFile": "de-DE-check24.md",
-          "imageNames": [
-            "icon-check24"
-          ]
-        },
-        {
-          "id": "de-DE-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Authenticator-App",
-          "markdownFile": "de-DE-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "de-DE-google",
           "title": "Google",
@@ -584,30 +341,12 @@
           ]
         },
         {
-          "id": "de-DE-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator-App",
-          "markdownFile": "de-DE-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "de-DE-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator-App",
           "markdownFile": "de-DE-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "de-DE-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator-App",
-          "markdownFile": "de-DE-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -635,66 +374,12 @@
           ]
         },
         {
-          "id": "uk-monzo",
-          "title": "Monzo",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-GB-monzo.md",
-          "imageNames": [
-            "icon-monzo"
-          ]
-        },
-        {
-          "id": "uk-starling",
-          "title": "Starling",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-GB-starling.md",
-          "imageNames": [
-            "icon-starling"
-          ]
-        },
-        {
-          "id": "uk-natwest",
-          "title": "NatWest",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-GB-natwest.md",
-          "imageNames": [
-            "icon-natwest"
-          ]
-        },
-        {
-          "id": "uk-lloyds",
-          "title": "Lloyds",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-GB-lloyds.md",
-          "imageNames": [
-            "icon-lloyds"
-          ]
-        },
-        {
-          "id": "uk-tesco",
-          "title": "Tesco",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-GB-tesco.md",
-          "imageNames": [
-            "icon-tesco"
-          ]
-        },
-        {
           "id": "uk-wise",
           "title": "Wise",
           "serviceCategory": "Payment security",
           "markdownFile": "en-GB-wise.md",
           "imageNames": [
             "icon-wise"
-          ]
-        },
-        {
-          "id": "uk-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Payment security",
-          "markdownFile": "en-GB-revolut.md",
-          "imageNames": [
-            "icon-revolut"
           ]
         },
         {
@@ -770,30 +455,12 @@
           ]
         },
         {
-          "id": "en-GB-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-GB-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-GB-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-GB-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-GB-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-GB-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -811,87 +478,6 @@
       "locale": "fr-FR",
       "countryName": "France",
       "guides": [
-        {
-          "id": "fr-societe-generale",
-          "title": "Société Générale",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-FR-societe-generale.md",
-          "imageNames": [
-            "icon-societe-generale"
-          ]
-        },
-        {
-          "id": "fr-bnp-paribas",
-          "title": "BNP Paribas",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-FR-bnp-paribas.md",
-          "imageNames": [
-            "icon-bnp-paribas"
-          ]
-        },
-        {
-          "id": "fr-credit-agricole",
-          "title": "Crédit Agricole",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-FR-credit-agricole.md",
-          "imageNames": [
-            "icon-credit-agricole"
-          ]
-        },
-        {
-          "id": "fr-orange",
-          "title": "Orange",
-          "serviceCategory": "Sécurité du compte",
-          "markdownFile": "fr-FR-orange.md",
-          "imageNames": [
-            "icon-orange"
-          ]
-        },
-        {
-          "id": "fr-free",
-          "title": "Free",
-          "serviceCategory": "Sécurité du compte",
-          "markdownFile": "fr-FR-free.md",
-          "imageNames": [
-            "icon-free"
-          ]
-        },
-        {
-          "id": "fr-leboncoin",
-          "title": "Leboncoin",
-          "serviceCategory": "Sécurité du compte",
-          "markdownFile": "fr-FR-leboncoin.md",
-          "imageNames": [
-            "icon-leboncoin"
-          ]
-        },
-        {
-          "id": "fr-doctolib",
-          "title": "Doctolib",
-          "serviceCategory": "Sécurité du compte",
-          "markdownFile": "fr-FR-doctolib.md",
-          "imageNames": [
-            "icon-doctolib"
-          ]
-        },
-        {
-          "id": "fr-qonto",
-          "title": "Qonto",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-FR-qonto.md",
-          "imageNames": [
-            "icon-qonto"
-          ]
-        },
-        {
-          "id": "fr-FR-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Application d’authentification",
-          "markdownFile": "fr-FR-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "fr-FR-google",
           "title": "Google",
@@ -965,30 +551,12 @@
           ]
         },
         {
-          "id": "fr-FR-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Application d’authentification",
-          "markdownFile": "fr-FR-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "fr-FR-discord",
           "title": "Discord",
           "serviceCategory": "Application d’authentification",
           "markdownFile": "fr-FR-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "fr-FR-steam",
-          "title": "Steam",
-          "serviceCategory": "Application d’authentification",
-          "markdownFile": "fr-FR-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -1006,69 +574,6 @@
       "locale": "es-ES",
       "countryName": "España",
       "guides": [
-        {
-          "id": "es-santander",
-          "title": "Santander",
-          "serviceCategory": "Seguridad bancaria",
-          "markdownFile": "es-ES-santander.md",
-          "imageNames": [
-            "icon-santander"
-          ]
-        },
-        {
-          "id": "es-bbva",
-          "title": "BBVA",
-          "serviceCategory": "Seguridad bancaria",
-          "markdownFile": "es-ES-bbva.md",
-          "imageNames": [
-            "icon-bbva"
-          ]
-        },
-        {
-          "id": "es-caixabank",
-          "title": "CaixaBank",
-          "serviceCategory": "Seguridad bancaria",
-          "markdownFile": "es-ES-caixabank.md",
-          "imageNames": [
-            "icon-caixabank"
-          ]
-        },
-        {
-          "id": "es-wallapop",
-          "title": "Wallapop",
-          "serviceCategory": "Seguridad de cuenta",
-          "markdownFile": "es-ES-wallapop.md",
-          "imageNames": [
-            "icon-wallapop"
-          ]
-        },
-        {
-          "id": "es-idealista",
-          "title": "Idealista",
-          "serviceCategory": "Seguridad de cuenta",
-          "markdownFile": "es-ES-idealista.md",
-          "imageNames": [
-            "icon-idealista"
-          ]
-        },
-        {
-          "id": "es-elcorteingles",
-          "title": "El Corte Inglés",
-          "serviceCategory": "Seguridad de cuenta",
-          "markdownFile": "es-ES-elcorteingles.md",
-          "imageNames": [
-            "icon-elcorteingles"
-          ]
-        },
-        {
-          "id": "es-ES-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplicación autenticadora",
-          "markdownFile": "es-ES-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "es-ES-google",
           "title": "Google",
@@ -1142,30 +647,12 @@
           ]
         },
         {
-          "id": "es-ES-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplicación autenticadora",
-          "markdownFile": "es-ES-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "es-ES-discord",
           "title": "Discord",
           "serviceCategory": "Aplicación autenticadora",
           "markdownFile": "es-ES-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "es-ES-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplicación autenticadora",
-          "markdownFile": "es-ES-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -1183,60 +670,6 @@
       "locale": "it-IT",
       "countryName": "Italia",
       "guides": [
-        {
-          "id": "it-poste-italiane",
-          "title": "Poste Italiane",
-          "serviceCategory": "Sicurezza account",
-          "markdownFile": "it-IT-poste-italiane.md",
-          "imageNames": [
-            "icon-poste-italiane"
-          ]
-        },
-        {
-          "id": "it-intesa",
-          "title": "Intesa Sanpaolo",
-          "serviceCategory": "Sicurezza bancaria",
-          "markdownFile": "it-IT-intesa.md",
-          "imageNames": [
-            "icon-intesa"
-          ]
-        },
-        {
-          "id": "it-unicredit",
-          "title": "UniCredit",
-          "serviceCategory": "Sicurezza bancaria",
-          "markdownFile": "it-IT-unicredit.md",
-          "imageNames": [
-            "icon-unicredit"
-          ]
-        },
-        {
-          "id": "it-subito",
-          "title": "Subito",
-          "serviceCategory": "Sicurezza account",
-          "markdownFile": "it-IT-subito.md",
-          "imageNames": [
-            "icon-subito"
-          ]
-        },
-        {
-          "id": "it-satispay",
-          "title": "Satispay",
-          "serviceCategory": "Sicurezza pagamenti",
-          "markdownFile": "it-IT-satispay.md",
-          "imageNames": [
-            "icon-satispay"
-          ]
-        },
-        {
-          "id": "it-IT-revolut",
-          "title": "Revolut",
-          "serviceCategory": "App di autenticazione",
-          "markdownFile": "it-IT-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "it-IT-google",
           "title": "Google",
@@ -1310,30 +743,12 @@
           ]
         },
         {
-          "id": "it-IT-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "App di autenticazione",
-          "markdownFile": "it-IT-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "it-IT-discord",
           "title": "Discord",
           "serviceCategory": "App di autenticazione",
           "markdownFile": "it-IT-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "it-IT-steam",
-          "title": "Steam",
-          "serviceCategory": "App di autenticazione",
-          "markdownFile": "it-IT-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -1351,60 +766,6 @@
       "locale": "nl-NL",
       "countryName": "Nederland",
       "guides": [
-        {
-          "id": "nl-ing",
-          "title": "ING",
-          "serviceCategory": "Bankbeveiliging",
-          "markdownFile": "nl-NL-ing.md",
-          "imageNames": [
-            "icon-ing"
-          ]
-        },
-        {
-          "id": "nl-abn-amro",
-          "title": "ABN AMRO",
-          "serviceCategory": "Bankbeveiliging",
-          "markdownFile": "nl-NL-abn-amro.md",
-          "imageNames": [
-            "icon-abn-amro"
-          ]
-        },
-        {
-          "id": "nl-bunq",
-          "title": "bunq",
-          "serviceCategory": "Bankbeveiliging",
-          "markdownFile": "nl-NL-bunq.md",
-          "imageNames": [
-            "icon-bunq"
-          ]
-        },
-        {
-          "id": "nl-marktplaats",
-          "title": "Marktplaats",
-          "serviceCategory": "Accountbeveiliging",
-          "markdownFile": "nl-NL-marktplaats.md",
-          "imageNames": [
-            "icon-marktplaats"
-          ]
-        },
-        {
-          "id": "nl-bol",
-          "title": "bol",
-          "serviceCategory": "Accountbeveiliging",
-          "markdownFile": "nl-NL-bol.md",
-          "imageNames": [
-            "icon-bol"
-          ]
-        },
-        {
-          "id": "nl-NL-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Authenticator-app",
-          "markdownFile": "nl-NL-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "nl-NL-google",
           "title": "Google",
@@ -1478,30 +839,12 @@
           ]
         },
         {
-          "id": "nl-NL-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator-app",
-          "markdownFile": "nl-NL-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "nl-NL-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator-app",
           "markdownFile": "nl-NL-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "nl-NL-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator-app",
-          "markdownFile": "nl-NL-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -1520,48 +863,12 @@
       "countryName": "Polska",
       "guides": [
         {
-          "id": "pl-pko",
-          "title": "PKO Bank Polski",
-          "serviceCategory": "Bezpieczeństwo banku",
-          "markdownFile": "pl-PL-pko.md",
-          "imageNames": [
-            "icon-pko"
-          ]
-        },
-        {
-          "id": "pl-mbank",
-          "title": "mBank",
-          "serviceCategory": "Bezpieczeństwo banku",
-          "markdownFile": "pl-PL-mbank.md",
-          "imageNames": [
-            "icon-mbank"
-          ]
-        },
-        {
           "id": "pl-allegro",
           "title": "Allegro",
           "serviceCategory": "Bezpieczeństwo konta",
           "markdownFile": "pl-PL-allegro.md",
           "imageNames": [
             "icon-allegro"
-          ]
-        },
-        {
-          "id": "pl-olx",
-          "title": "OLX",
-          "serviceCategory": "Bezpieczeństwo konta",
-          "markdownFile": "pl-PL-olx.md",
-          "imageNames": [
-            "icon-olx"
-          ]
-        },
-        {
-          "id": "pl-PL-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplikacja uwierzytelniająca",
-          "markdownFile": "pl-PL-revolut.md",
-          "imageNames": [
-            "icon-revolut"
           ]
         },
         {
@@ -1637,30 +944,12 @@
           ]
         },
         {
-          "id": "pl-PL-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplikacja uwierzytelniająca",
-          "markdownFile": "pl-PL-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "pl-PL-discord",
           "title": "Discord",
           "serviceCategory": "Aplikacja uwierzytelniająca",
           "markdownFile": "pl-PL-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "pl-PL-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplikacja uwierzytelniająca",
-          "markdownFile": "pl-PL-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -1679,102 +968,12 @@
       "countryName": "Brasil",
       "guides": [
         {
-          "id": "br-govbr",
-          "title": "gov.br",
-          "serviceCategory": "Serviços públicos",
-          "markdownFile": "pt-BR-govbr.md",
-          "imageNames": [
-            "icon-govbr"
-          ]
-        },
-        {
-          "id": "br-banco-do-brasil",
-          "title": "Banco do Brasil",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-BR-banco-do-brasil.md",
-          "imageNames": [
-            "icon-banco-do-brasil"
-          ]
-        },
-        {
-          "id": "br-nubank",
-          "title": "Nubank",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-BR-nubank.md",
-          "imageNames": [
-            "icon-nubank"
-          ]
-        },
-        {
-          "id": "br-itau",
-          "title": "Itaú",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-BR-itau.md",
-          "imageNames": [
-            "icon-itau"
-          ]
-        },
-        {
-          "id": "br-bradesco",
-          "title": "Bradesco",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-BR-bradesco.md",
-          "imageNames": [
-            "icon-bradesco"
-          ]
-        },
-        {
-          "id": "br-caixa",
-          "title": "Caixa",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-BR-caixa.md",
-          "imageNames": [
-            "icon-caixa"
-          ]
-        },
-        {
           "id": "br-mercado-livre",
           "title": "Mercado Livre",
           "serviceCategory": "Segurança da conta",
           "markdownFile": "pt-BR-mercado-livre.md",
           "imageNames": [
             "icon-mercado-livre"
-          ]
-        },
-        {
-          "id": "br-mercado-pago",
-          "title": "Mercado Pago",
-          "serviceCategory": "Segurança de pagamentos",
-          "markdownFile": "pt-BR-mercado-pago.md",
-          "imageNames": [
-            "icon-mercado-pago"
-          ]
-        },
-        {
-          "id": "br-ifood",
-          "title": "iFood",
-          "serviceCategory": "Segurança da conta",
-          "markdownFile": "pt-BR-ifood.md",
-          "imageNames": [
-            "icon-ifood"
-          ]
-        },
-        {
-          "id": "br-magalu",
-          "title": "Magalu",
-          "serviceCategory": "Segurança da conta",
-          "markdownFile": "pt-BR-magalu.md",
-          "imageNames": [
-            "icon-magalu"
-          ]
-        },
-        {
-          "id": "br-picpay",
-          "title": "PicPay",
-          "serviceCategory": "Segurança de pagamentos",
-          "markdownFile": "pt-BR-picpay.md",
-          "imageNames": [
-            "icon-picpay"
           ]
         },
         {
@@ -1850,30 +1049,12 @@
           ]
         },
         {
-          "id": "pt-BR-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplicação autenticadora",
-          "markdownFile": "pt-BR-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "pt-BR-discord",
           "title": "Discord",
           "serviceCategory": "Aplicação autenticadora",
           "markdownFile": "pt-BR-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "pt-BR-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplicação autenticadora",
-          "markdownFile": "pt-BR-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -1891,96 +1072,6 @@
       "locale": "tr",
       "countryName": "Türkiye",
       "guides": [
-        {
-          "id": "tr-edevlet",
-          "title": "e-Devlet",
-          "serviceCategory": "Kamu hizmetleri",
-          "markdownFile": "tr-edevlet.md",
-          "imageNames": [
-            "icon-edevlet"
-          ]
-        },
-        {
-          "id": "tr-ziraat",
-          "title": "Ziraat Bankası",
-          "serviceCategory": "Banka güvenliği",
-          "markdownFile": "tr-ziraat.md",
-          "imageNames": [
-            "icon-ziraat"
-          ]
-        },
-        {
-          "id": "tr-garanti",
-          "title": "Garanti BBVA",
-          "serviceCategory": "Banka güvenliği",
-          "markdownFile": "tr-garanti.md",
-          "imageNames": [
-            "icon-garanti"
-          ]
-        },
-        {
-          "id": "tr-isbank",
-          "title": "İşbank",
-          "serviceCategory": "Banka güvenliği",
-          "markdownFile": "tr-isbank.md",
-          "imageNames": [
-            "icon-isbank"
-          ]
-        },
-        {
-          "id": "tr-papara",
-          "title": "Papara",
-          "serviceCategory": "Ödeme güvenliği",
-          "markdownFile": "tr-papara.md",
-          "imageNames": [
-            "icon-papara"
-          ]
-        },
-        {
-          "id": "tr-trendyol",
-          "title": "Trendyol",
-          "serviceCategory": "Hesap güvenliği",
-          "markdownFile": "tr-trendyol.md",
-          "imageNames": [
-            "icon-trendyol"
-          ]
-        },
-        {
-          "id": "tr-hepsiburada",
-          "title": "Hepsiburada",
-          "serviceCategory": "Hesap güvenliği",
-          "markdownFile": "tr-hepsiburada.md",
-          "imageNames": [
-            "icon-hepsiburada"
-          ]
-        },
-        {
-          "id": "tr-yemeksepeti",
-          "title": "Yemeksepeti",
-          "serviceCategory": "Hesap güvenliği",
-          "markdownFile": "tr-yemeksepeti.md",
-          "imageNames": [
-            "icon-yemeksepeti"
-          ]
-        },
-        {
-          "id": "tr-getir",
-          "title": "Getir",
-          "serviceCategory": "Hesap güvenliği",
-          "markdownFile": "tr-getir.md",
-          "imageNames": [
-            "icon-getir"
-          ]
-        },
-        {
-          "id": "tr-turkcell",
-          "title": "Turkcell",
-          "serviceCategory": "Hesap güvenliği",
-          "markdownFile": "tr-turkcell.md",
-          "imageNames": [
-            "icon-turkcell"
-          ]
-        },
         {
           "id": "tr-google",
           "title": "Google",
@@ -2054,30 +1145,12 @@
           ]
         },
         {
-          "id": "tr-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Kimlik doğrulama uygulaması",
-          "markdownFile": "tr-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "tr-discord",
           "title": "Discord",
           "serviceCategory": "Kimlik doğrulama uygulaması",
           "markdownFile": "tr-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "tr-steam",
-          "title": "Steam",
-          "serviceCategory": "Kimlik doğrulama uygulaması",
-          "markdownFile": "tr-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -2095,51 +1168,6 @@
       "locale": "ar-AE",
       "countryName": "الإمارات",
       "guides": [
-        {
-          "id": "ae-uae-pass",
-          "title": "UAE Pass",
-          "serviceCategory": "الخدمات الحكومية",
-          "markdownFile": "ar-AE-uae-pass.md",
-          "imageNames": [
-            "icon-uae-pass"
-          ]
-        },
-        {
-          "id": "ae-emirates-nbd",
-          "title": "Emirates NBD",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-AE-emirates-nbd.md",
-          "imageNames": [
-            "icon-emirates-nbd"
-          ]
-        },
-        {
-          "id": "ae-noon",
-          "title": "Noon",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-AE-noon.md",
-          "imageNames": [
-            "icon-noon"
-          ]
-        },
-        {
-          "id": "ae-talabat",
-          "title": "Talabat",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-AE-talabat.md",
-          "imageNames": [
-            "icon-talabat"
-          ]
-        },
-        {
-          "id": "ae-careem",
-          "title": "Careem",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-AE-careem.md",
-          "imageNames": [
-            "icon-careem"
-          ]
-        },
         {
           "id": "ar-AE-google",
           "title": "Google",
@@ -2213,30 +1241,12 @@
           ]
         },
         {
-          "id": "ar-AE-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "تطبيق مصادقة",
-          "markdownFile": "ar-AE-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ar-AE-discord",
           "title": "Discord",
           "serviceCategory": "تطبيق مصادقة",
           "markdownFile": "ar-AE-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ar-AE-steam",
-          "title": "Steam",
-          "serviceCategory": "تطبيق مصادقة",
-          "markdownFile": "ar-AE-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -2255,120 +1265,12 @@
       "countryName": "India",
       "guides": [
         {
-          "id": "in-sbi",
-          "title": "SBI",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-IN-sbi.md",
-          "imageNames": [
-            "icon-sbi"
-          ]
-        },
-        {
-          "id": "in-hdfc",
-          "title": "HDFC Bank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-IN-hdfc.md",
-          "imageNames": [
-            "icon-hdfc"
-          ]
-        },
-        {
-          "id": "in-icici",
-          "title": "ICICI Bank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-IN-icici.md",
-          "imageNames": [
-            "icon-icici"
-          ]
-        },
-        {
-          "id": "in-axisbank",
-          "title": "Axis Bank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-IN-axisbank.md",
-          "imageNames": [
-            "icon-axisbank"
-          ]
-        },
-        {
-          "id": "in-paytm",
-          "title": "Paytm",
-          "serviceCategory": "Payment security",
-          "markdownFile": "en-IN-paytm.md",
-          "imageNames": [
-            "icon-paytm"
-          ]
-        },
-        {
-          "id": "in-phonepe",
-          "title": "PhonePe",
-          "serviceCategory": "Payment security",
-          "markdownFile": "en-IN-phonepe.md",
-          "imageNames": [
-            "icon-phonepe"
-          ]
-        },
-        {
-          "id": "in-flipkart",
-          "title": "Flipkart",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-IN-flipkart.md",
-          "imageNames": [
-            "icon-flipkart"
-          ]
-        },
-        {
-          "id": "in-myntra",
-          "title": "Myntra",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-IN-myntra.md",
-          "imageNames": [
-            "icon-myntra"
-          ]
-        },
-        {
           "id": "in-zerodha",
           "title": "Zerodha",
           "serviceCategory": "Account security",
           "markdownFile": "en-IN-zerodha.md",
           "imageNames": [
             "icon-zerodha"
-          ]
-        },
-        {
-          "id": "in-swiggy",
-          "title": "Swiggy",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-IN-swiggy.md",
-          "imageNames": [
-            "icon-swiggy"
-          ]
-        },
-        {
-          "id": "in-zomato",
-          "title": "Zomato",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-IN-zomato.md",
-          "imageNames": [
-            "icon-zomato"
-          ]
-        },
-        {
-          "id": "in-airtel",
-          "title": "Airtel",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-IN-airtel.md",
-          "imageNames": [
-            "icon-airtel"
-          ]
-        },
-        {
-          "id": "in-jio",
-          "title": "Jio",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-IN-jio.md",
-          "imageNames": [
-            "icon-jio"
           ]
         },
         {
@@ -2444,30 +1346,12 @@
           ]
         },
         {
-          "id": "en-IN-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-IN-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-IN-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-IN-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-IN-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-IN-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -2486,75 +1370,12 @@
       "countryName": "日本",
       "guides": [
         {
-          "id": "jp-line",
-          "title": "LINE",
-          "serviceCategory": "アカウント保護",
-          "markdownFile": "ja-JP-line.md",
-          "imageNames": [
-            "icon-line"
-          ]
-        },
-        {
-          "id": "jp-rakuten",
-          "title": "Rakuten",
-          "serviceCategory": "アカウント保護",
-          "markdownFile": "ja-JP-rakuten.md",
-          "imageNames": [
-            "icon-rakuten"
-          ]
-        },
-        {
-          "id": "jp-paypay",
-          "title": "PayPay",
-          "serviceCategory": "決済セキュリティ",
-          "markdownFile": "ja-JP-paypay.md",
-          "imageNames": [
-            "icon-paypay"
-          ]
-        },
-        {
-          "id": "jp-mercari",
-          "title": "Mercari",
-          "serviceCategory": "アカウント保護",
-          "markdownFile": "ja-JP-mercari.md",
-          "imageNames": [
-            "icon-mercari"
-          ]
-        },
-        {
-          "id": "jp-yahoo-japan",
-          "title": "Yahoo! JAPAN",
-          "serviceCategory": "アカウント保護",
-          "markdownFile": "ja-JP-yahoo-japan.md",
-          "imageNames": [
-            "icon-yahoo-japan"
-          ]
-        },
-        {
           "id": "jp-dmm",
           "title": "DMM",
           "serviceCategory": "アカウント保護",
           "markdownFile": "ja-JP-dmm.md",
           "imageNames": [
             "icon-dmm"
-          ]
-        },
-        {
-          "id": "jp-docomo",
-          "title": "NTT Docomo",
-          "serviceCategory": "アカウント保護",
-          "markdownFile": "ja-JP-docomo.md",
-          "imageNames": [
-            "icon-docomo"
-          ]
-        },
-        {
-          "id": "jp-softbank",
-          "title": "SoftBank",
-          "serviceCategory": "アカウント保護",
-          "markdownFile": "ja-JP-softbank.md",
-          "imageNames": [
-            "icon-softbank"
           ]
         },
         {
@@ -2639,30 +1460,12 @@
           ]
         },
         {
-          "id": "ja-JP-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "認証アプリ",
-          "markdownFile": "ja-JP-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ja-JP-discord",
           "title": "Discord",
           "serviceCategory": "認証アプリ",
           "markdownFile": "ja-JP-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ja-JP-steam",
-          "title": "Steam",
-          "serviceCategory": "認証アプリ",
-          "markdownFile": "ja-JP-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -2680,78 +1483,6 @@
       "locale": "ko-KR",
       "countryName": "대한민국",
       "guides": [
-        {
-          "id": "kr-naver",
-          "title": "NAVER",
-          "serviceCategory": "계정 보안",
-          "markdownFile": "ko-KR-naver.md",
-          "imageNames": [
-            "icon-naver"
-          ]
-        },
-        {
-          "id": "kr-kakao",
-          "title": "Kakao",
-          "serviceCategory": "계정 보안",
-          "markdownFile": "ko-KR-kakao.md",
-          "imageNames": [
-            "icon-kakao"
-          ]
-        },
-        {
-          "id": "kr-toss",
-          "title": "Toss",
-          "serviceCategory": "결제 보안",
-          "markdownFile": "ko-KR-toss.md",
-          "imageNames": [
-            "icon-toss"
-          ]
-        },
-        {
-          "id": "kr-kbank",
-          "title": "Kbank",
-          "serviceCategory": "은행 보안",
-          "markdownFile": "ko-KR-kbank.md",
-          "imageNames": [
-            "icon-kbank"
-          ]
-        },
-        {
-          "id": "kr-kb-bank",
-          "title": "KB Bank",
-          "serviceCategory": "은행 보안",
-          "markdownFile": "ko-KR-kb-bank.md",
-          "imageNames": [
-            "icon-kb-bank"
-          ]
-        },
-        {
-          "id": "kr-shinhan",
-          "title": "Shinhan Bank",
-          "serviceCategory": "은행 보안",
-          "markdownFile": "ko-KR-shinhan.md",
-          "imageNames": [
-            "icon-shinhan"
-          ]
-        },
-        {
-          "id": "kr-gmarket",
-          "title": "Gmarket",
-          "serviceCategory": "계정 보안",
-          "markdownFile": "ko-KR-gmarket.md",
-          "imageNames": [
-            "icon-gmarket"
-          ]
-        },
-        {
-          "id": "kr-coupang",
-          "title": "Coupang",
-          "serviceCategory": "계정 보안",
-          "markdownFile": "ko-KR-coupang.md",
-          "imageNames": [
-            "icon-coupang"
-          ]
-        },
         {
           "id": "ko-KR-google",
           "title": "Google",
@@ -2825,30 +1556,12 @@
           ]
         },
         {
-          "id": "ko-KR-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "인증 앱",
-          "markdownFile": "ko-KR-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ko-KR-discord",
           "title": "Discord",
           "serviceCategory": "인증 앱",
           "markdownFile": "ko-KR-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ko-KR-steam",
-          "title": "Steam",
-          "serviceCategory": "인증 앱",
-          "markdownFile": "ko-KR-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -2873,42 +1586,6 @@
           "markdownFile": "en-AU-mygov.md",
           "imageNames": [
             "icon-mygov"
-          ]
-        },
-        {
-          "id": "au-anz",
-          "title": "ANZ",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-AU-anz.md",
-          "imageNames": [
-            "icon-anz"
-          ]
-        },
-        {
-          "id": "au-nab",
-          "title": "NAB",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-AU-nab.md",
-          "imageNames": [
-            "icon-nab"
-          ]
-        },
-        {
-          "id": "au-westpac",
-          "title": "Westpac",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-AU-westpac.md",
-          "imageNames": [
-            "icon-westpac"
-          ]
-        },
-        {
-          "id": "au-commbank",
-          "title": "CommBank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-AU-commbank.md",
-          "imageNames": [
-            "icon-commbank"
           ]
         },
         {
@@ -3002,30 +1679,12 @@
           ]
         },
         {
-          "id": "en-AU-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-AU-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-AU-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-AU-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-AU-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-AU-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -3044,66 +1703,12 @@
       "countryName": "México",
       "guides": [
         {
-          "id": "mx-bbva",
-          "title": "BBVA",
-          "serviceCategory": "Seguridad bancaria",
-          "markdownFile": "es-MX-bbva.md",
-          "imageNames": [
-            "icon-bbva"
-          ]
-        },
-        {
-          "id": "mx-santander",
-          "title": "Santander",
-          "serviceCategory": "Seguridad bancaria",
-          "markdownFile": "es-MX-santander.md",
-          "imageNames": [
-            "icon-santander"
-          ]
-        },
-        {
           "id": "mx-mercado-libre",
           "title": "Mercado Libre",
           "serviceCategory": "Seguridad de cuenta",
           "markdownFile": "es-MX-mercado-libre.md",
           "imageNames": [
             "icon-mercado-livre"
-          ]
-        },
-        {
-          "id": "mx-mercado-pago",
-          "title": "Mercado Pago",
-          "serviceCategory": "Seguridad de pagos",
-          "markdownFile": "es-MX-mercado-pago.md",
-          "imageNames": [
-            "icon-mercado-pago"
-          ]
-        },
-        {
-          "id": "mx-oxxo",
-          "title": "OXXO",
-          "serviceCategory": "Seguridad de cuenta",
-          "markdownFile": "es-MX-oxxo.md",
-          "imageNames": [
-            "icon-oxxo"
-          ]
-        },
-        {
-          "id": "mx-rappi",
-          "title": "Rappi",
-          "serviceCategory": "Seguridad de cuenta",
-          "markdownFile": "es-MX-rappi.md",
-          "imageNames": [
-            "icon-rappi"
-          ]
-        },
-        {
-          "id": "mx-clip",
-          "title": "Clip",
-          "serviceCategory": "Seguridad de pagos",
-          "markdownFile": "es-MX-clip.md",
-          "imageNames": [
-            "icon-clip"
           ]
         },
         {
@@ -3179,30 +1784,12 @@
           ]
         },
         {
-          "id": "es-MX-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplicación autenticadora",
-          "markdownFile": "es-MX-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "es-MX-discord",
           "title": "Discord",
           "serviceCategory": "Aplicación autenticadora",
           "markdownFile": "es-MX-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "es-MX-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplicación autenticadora",
-          "markdownFile": "es-MX-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -3221,75 +1808,12 @@
       "countryName": "Indonesia",
       "guides": [
         {
-          "id": "id-mandiri",
-          "title": "Mandiri",
-          "serviceCategory": "Keamanan bank",
-          "markdownFile": "id-ID-mandiri.md",
-          "imageNames": [
-            "icon-mandiri"
-          ]
-        },
-        {
-          "id": "id-bca",
-          "title": "BCA",
-          "serviceCategory": "Keamanan bank",
-          "markdownFile": "id-ID-bca.md",
-          "imageNames": [
-            "icon-bca"
-          ]
-        },
-        {
-          "id": "id-bri",
-          "title": "BRI",
-          "serviceCategory": "Keamanan bank",
-          "markdownFile": "id-ID-bri.md",
-          "imageNames": [
-            "icon-bri"
-          ]
-        },
-        {
-          "id": "id-dana",
-          "title": "DANA",
-          "serviceCategory": "Keamanan pembayaran",
-          "markdownFile": "id-ID-dana.md",
-          "imageNames": [
-            "icon-dana"
-          ]
-        },
-        {
-          "id": "id-gojek",
-          "title": "Gojek",
-          "serviceCategory": "Keamanan akun",
-          "markdownFile": "id-ID-gojek.md",
-          "imageNames": [
-            "icon-gojek"
-          ]
-        },
-        {
           "id": "id-tokopedia",
           "title": "Tokopedia",
           "serviceCategory": "Keamanan akun",
           "markdownFile": "id-ID-tokopedia.md",
           "imageNames": [
             "icon-tokopedia"
-          ]
-        },
-        {
-          "id": "id-shopee",
-          "title": "Shopee",
-          "serviceCategory": "Keamanan akun",
-          "markdownFile": "id-ID-shopee.md",
-          "imageNames": [
-            "icon-shopee"
-          ]
-        },
-        {
-          "id": "id-lazada",
-          "title": "Lazada",
-          "serviceCategory": "Keamanan akun",
-          "markdownFile": "id-ID-lazada.md",
-          "imageNames": [
-            "icon-lazada"
           ]
         },
         {
@@ -3365,30 +1889,12 @@
           ]
         },
         {
-          "id": "id-ID-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplikasi autentikator",
-          "markdownFile": "id-ID-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "id-ID-discord",
           "title": "Discord",
           "serviceCategory": "Aplikasi autentikator",
           "markdownFile": "id-ID-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "id-ID-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplikasi autentikator",
-          "markdownFile": "id-ID-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -3406,51 +1912,6 @@
       "locale": "kk-KZ",
       "countryName": "Қазақстан",
       "guides": [
-        {
-          "id": "kz-egov",
-          "title": "eGov.kz",
-          "serviceCategory": "Мемлекеттік қызметтер",
-          "markdownFile": "kk-KZ-egov-kz.md",
-          "imageNames": [
-            "icon-egov-kz"
-          ]
-        },
-        {
-          "id": "kz-kaspi",
-          "title": "Kaspi",
-          "serviceCategory": "Банк қауіпсіздігі",
-          "markdownFile": "kk-KZ-kaspi.md",
-          "imageNames": [
-            "icon-kaspi"
-          ]
-        },
-        {
-          "id": "kz-halykbank",
-          "title": "Halyk Bank",
-          "serviceCategory": "Банк қауіпсіздігі",
-          "markdownFile": "kk-KZ-halykbank.md",
-          "imageNames": [
-            "icon-halykbank"
-          ]
-        },
-        {
-          "id": "kz-olx",
-          "title": "OLX Kazakhstan",
-          "serviceCategory": "Аккаунт қауіпсіздігі",
-          "markdownFile": "kk-KZ-olx-kz.md",
-          "imageNames": [
-            "icon-olx-kz"
-          ]
-        },
-        {
-          "id": "kz-kolesa",
-          "title": "Kolesa.kz",
-          "serviceCategory": "Аккаунт қауіпсіздігі",
-          "markdownFile": "kk-KZ-kolesa.md",
-          "imageNames": [
-            "icon-kolesa"
-          ]
-        },
         {
           "id": "kk-KZ-google",
           "title": "Google",
@@ -3524,30 +1985,12 @@
           ]
         },
         {
-          "id": "kk-KZ-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Аутентификатор қолданбасы",
-          "markdownFile": "kk-KZ-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "kk-KZ-discord",
           "title": "Discord",
           "serviceCategory": "Аутентификатор қолданбасы",
           "markdownFile": "kk-KZ-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "kk-KZ-steam",
-          "title": "Steam",
-          "serviceCategory": "Аутентификатор қолданбасы",
-          "markdownFile": "kk-KZ-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -3565,60 +2008,6 @@
       "locale": "uk-UA",
       "countryName": "Україна",
       "guides": [
-        {
-          "id": "ua-diia",
-          "title": "Дія",
-          "serviceCategory": "Державні послуги",
-          "markdownFile": "uk-UA-diia.md",
-          "imageNames": [
-            "icon-diia"
-          ]
-        },
-        {
-          "id": "ua-privat24",
-          "title": "Privat24",
-          "serviceCategory": "Банківська безпека",
-          "markdownFile": "uk-UA-privat24.md",
-          "imageNames": [
-            "icon-privat24"
-          ]
-        },
-        {
-          "id": "ua-monobank",
-          "title": "monobank",
-          "serviceCategory": "Банківська безпека",
-          "markdownFile": "uk-UA-monobank.md",
-          "imageNames": [
-            "icon-monobank"
-          ]
-        },
-        {
-          "id": "ua-nova-poshta",
-          "title": "Нова пошта",
-          "serviceCategory": "Захист акаунта",
-          "markdownFile": "uk-UA-nova-poshta.md",
-          "imageNames": [
-            "icon-nova-poshta"
-          ]
-        },
-        {
-          "id": "ua-rozetka",
-          "title": "Rozetka",
-          "serviceCategory": "Захист акаунта",
-          "markdownFile": "uk-UA-rozetka.md",
-          "imageNames": [
-            "icon-rozetka"
-          ]
-        },
-        {
-          "id": "ua-lifecell",
-          "title": "lifecell",
-          "serviceCategory": "Захист акаунта",
-          "markdownFile": "uk-UA-lifecell.md",
-          "imageNames": [
-            "icon-lifecell"
-          ]
-        },
         {
           "id": "uk-UA-google",
           "title": "Google",
@@ -3692,30 +2081,12 @@
           ]
         },
         {
-          "id": "uk-UA-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Програма-аутентифікатор",
-          "markdownFile": "uk-UA-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "uk-UA-discord",
           "title": "Discord",
           "serviceCategory": "Програма-аутентифікатор",
           "markdownFile": "uk-UA-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "uk-UA-steam",
-          "title": "Steam",
-          "serviceCategory": "Програма-аутентифікатор",
-          "markdownFile": "uk-UA-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -3733,78 +2104,6 @@
       "locale": "be-BY",
       "countryName": "Беларусь",
       "guides": [
-        {
-          "id": "by-belarusbank",
-          "title": "Беларусбанк",
-          "serviceCategory": "Банковская безопасность",
-          "markdownFile": "be-BY-belarusbank.md",
-          "imageNames": [
-            "icon-belarusbank"
-          ]
-        },
-        {
-          "id": "by-a1",
-          "title": "A1",
-          "serviceCategory": "Защита аккаунта",
-          "markdownFile": "be-BY-a1.md",
-          "imageNames": [
-            "icon-a1"
-          ]
-        },
-        {
-          "id": "by-kufar",
-          "title": "Kufar",
-          "serviceCategory": "Защита аккаунта",
-          "markdownFile": "be-BY-kufar.md",
-          "imageNames": [
-            "icon-kufar"
-          ]
-        },
-        {
-          "id": "be-BY-mtbank",
-          "title": "МТБанк",
-          "serviceCategory": "Бяспека ўваходу",
-          "markdownFile": "be-BY-mtbank.md",
-          "imageNames": [
-            "icon-mtbank"
-          ]
-        },
-        {
-          "id": "be-BY-priorbank",
-          "title": "Priorbank",
-          "serviceCategory": "Бяспека ўваходу",
-          "markdownFile": "be-BY-priorbank.md",
-          "imageNames": [
-            "icon-priorbank"
-          ]
-        },
-        {
-          "id": "be-BY-mts-belarus",
-          "title": "МТС Беларусь",
-          "serviceCategory": "Бяспека акаўнта",
-          "markdownFile": "be-BY-mts-belarus.md",
-          "imageNames": [
-            "icon-mts"
-          ]
-        },
-        {
-          "id": "be-BY-wildberries",
-          "title": "Wildberries",
-          "serviceCategory": "Бяспека акаўнта",
-          "markdownFile": "be-BY-wildberries.md",
-          "imageNames": [
-            "icon-wildberries"
-          ]
-        },
-        {
-          "id": "be-BY-ozon",
-          "title": "Ozon",
-          "serviceCategory": "Бяспека акаўнта",
-          "markdownFile": "be-BY-ozon.md",
-          "imageNames": [
-            "icon-ozon"
-          ]
-        },
         {
           "id": "be-BY-google",
           "title": "Google",
@@ -3878,30 +2177,12 @@
           ]
         },
         {
-          "id": "be-BY-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Праграма аўтэнтыфікацыі",
-          "markdownFile": "be-BY-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "be-BY-discord",
           "title": "Discord",
           "serviceCategory": "Праграма аўтэнтыфікацыі",
           "markdownFile": "be-BY-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "be-BY-steam",
-          "title": "Steam",
-          "serviceCategory": "Праграма аўтэнтыфікацыі",
-          "markdownFile": "be-BY-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -3919,60 +2200,6 @@
       "locale": "vi-VN",
       "countryName": "Việt Nam",
       "guides": [
-        {
-          "id": "vn-vietcombank",
-          "title": "Vietcombank",
-          "serviceCategory": "Bảo mật ngân hàng",
-          "markdownFile": "vi-VN-vietcombank.md",
-          "imageNames": [
-            "icon-vietcombank"
-          ]
-        },
-        {
-          "id": "vn-momo",
-          "title": "MoMo",
-          "serviceCategory": "Bảo mật thanh toán",
-          "markdownFile": "vi-VN-momo.md",
-          "imageNames": [
-            "icon-momo"
-          ]
-        },
-        {
-          "id": "vn-zalo",
-          "title": "Zalo",
-          "serviceCategory": "Bảo mật tài khoản",
-          "markdownFile": "vi-VN-zalo.md",
-          "imageNames": [
-            "icon-zalo"
-          ]
-        },
-        {
-          "id": "vn-tiki",
-          "title": "Tiki",
-          "serviceCategory": "Bảo mật tài khoản",
-          "markdownFile": "vi-VN-tiki.md",
-          "imageNames": [
-            "icon-tiki"
-          ]
-        },
-        {
-          "id": "vn-shopee",
-          "title": "Shopee",
-          "serviceCategory": "Bảo mật tài khoản",
-          "markdownFile": "vi-VN-shopee.md",
-          "imageNames": [
-            "icon-shopee"
-          ]
-        },
-        {
-          "id": "vn-lazada",
-          "title": "Lazada",
-          "serviceCategory": "Bảo mật tài khoản",
-          "markdownFile": "vi-VN-lazada.md",
-          "imageNames": [
-            "icon-lazada"
-          ]
-        },
         {
           "id": "vi-VN-google",
           "title": "Google",
@@ -4046,30 +2273,12 @@
           ]
         },
         {
-          "id": "vi-VN-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Ứng dụng xác thực",
-          "markdownFile": "vi-VN-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "vi-VN-discord",
           "title": "Discord",
           "serviceCategory": "Ứng dụng xác thực",
           "markdownFile": "vi-VN-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "vi-VN-steam",
-          "title": "Steam",
-          "serviceCategory": "Ứng dụng xác thực",
-          "markdownFile": "vi-VN-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -4087,96 +2296,6 @@
       "locale": "th-TH",
       "countryName": "Thailand",
       "guides": [
-        {
-          "id": "th-kbank",
-          "title": "KBank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "th-TH-kbank.md",
-          "imageNames": [
-            "icon-kbank"
-          ]
-        },
-        {
-          "id": "th-grab",
-          "title": "Grab",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-grab.md",
-          "imageNames": [
-            "icon-grab"
-          ]
-        },
-        {
-          "id": "th-shopee",
-          "title": "Shopee",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-shopee.md",
-          "imageNames": [
-            "icon-shopee"
-          ]
-        },
-        {
-          "id": "th-lazada",
-          "title": "Lazada",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-lazada.md",
-          "imageNames": [
-            "icon-lazada"
-          ]
-        },
-        {
-          "id": "th-TH-scb",
-          "title": "SCB",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-scb.md",
-          "imageNames": [
-            "icon-scb"
-          ]
-        },
-        {
-          "id": "th-TH-krungthai",
-          "title": "Krungthai",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-krungthai.md",
-          "imageNames": [
-            "icon-krungthai"
-          ]
-        },
-        {
-          "id": "th-TH-bangkok-bank",
-          "title": "Bangkok Bank",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-bangkok-bank.md",
-          "imageNames": [
-            "icon-bangkok-bank"
-          ]
-        },
-        {
-          "id": "th-TH-truemoney",
-          "title": "TrueMoney",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-truemoney.md",
-          "imageNames": [
-            "icon-truemoney"
-          ]
-        },
-        {
-          "id": "th-TH-line-man",
-          "title": "LINE MAN",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-line-man.md",
-          "imageNames": [
-            "icon-line-man"
-          ]
-        },
-        {
-          "id": "th-TH-ais",
-          "title": "AIS",
-          "serviceCategory": "Account security",
-          "markdownFile": "th-TH-ais.md",
-          "imageNames": [
-            "icon-ais"
-          ]
-        },
         {
           "id": "th-TH-google",
           "title": "Google",
@@ -4250,30 +2369,12 @@
           ]
         },
         {
-          "id": "th-TH-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "แอปยืนยันตัวตน",
-          "markdownFile": "th-TH-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "th-TH-discord",
           "title": "Discord",
           "serviceCategory": "แอปยืนยันตัวตน",
           "markdownFile": "th-TH-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "th-TH-steam",
-          "title": "Steam",
-          "serviceCategory": "แอปยืนยันตัวตน",
-          "markdownFile": "th-TH-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -4291,51 +2392,6 @@
       "locale": "ms-MY",
       "countryName": "Malaysia",
       "guides": [
-        {
-          "id": "my-maybank",
-          "title": "Maybank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "ms-MY-maybank.md",
-          "imageNames": [
-            "icon-maybank"
-          ]
-        },
-        {
-          "id": "my-touchngo",
-          "title": "Touch ’n Go",
-          "serviceCategory": "Payment security",
-          "markdownFile": "ms-MY-touchngo.md",
-          "imageNames": [
-            "icon-touchngo"
-          ]
-        },
-        {
-          "id": "my-grab",
-          "title": "Grab",
-          "serviceCategory": "Account security",
-          "markdownFile": "ms-MY-grab.md",
-          "imageNames": [
-            "icon-grab"
-          ]
-        },
-        {
-          "id": "my-shopee",
-          "title": "Shopee",
-          "serviceCategory": "Account security",
-          "markdownFile": "ms-MY-shopee.md",
-          "imageNames": [
-            "icon-shopee"
-          ]
-        },
-        {
-          "id": "my-lazada",
-          "title": "Lazada",
-          "serviceCategory": "Account security",
-          "markdownFile": "ms-MY-lazada.md",
-          "imageNames": [
-            "icon-lazada"
-          ]
-        },
         {
           "id": "ms-MY-google",
           "title": "Google",
@@ -4409,30 +2465,12 @@
           ]
         },
         {
-          "id": "ms-MY-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplikasi pengesah",
-          "markdownFile": "ms-MY-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ms-MY-discord",
           "title": "Discord",
           "serviceCategory": "Aplikasi pengesah",
           "markdownFile": "ms-MY-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ms-MY-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplikasi pengesah",
-          "markdownFile": "ms-MY-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -4450,78 +2488,6 @@
       "locale": "zh-CN",
       "countryName": "中国",
       "guides": [
-        {
-          "id": "cn-wechat",
-          "title": "WeChat",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-wechat.md",
-          "imageNames": [
-            "icon-wechat"
-          ]
-        },
-        {
-          "id": "cn-alipay",
-          "title": "Alipay",
-          "serviceCategory": "支付安全",
-          "markdownFile": "zh-CN-alipay.md",
-          "imageNames": [
-            "icon-alipay"
-          ]
-        },
-        {
-          "id": "cn-taobao",
-          "title": "Taobao",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-taobao.md",
-          "imageNames": [
-            "icon-taobao"
-          ]
-        },
-        {
-          "id": "cn-jd",
-          "title": "JD",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-jd.md",
-          "imageNames": [
-            "icon-jd"
-          ]
-        },
-        {
-          "id": "cn-baidu",
-          "title": "Baidu",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-baidu.md",
-          "imageNames": [
-            "icon-baidu"
-          ]
-        },
-        {
-          "id": "cn-douyin",
-          "title": "Douyin",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-douyin.md",
-          "imageNames": [
-            "icon-douyin"
-          ]
-        },
-        {
-          "id": "cn-weibo",
-          "title": "Weibo",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-weibo.md",
-          "imageNames": [
-            "icon-weibo"
-          ]
-        },
-        {
-          "id": "cn-qq",
-          "title": "QQ",
-          "serviceCategory": "账号安全",
-          "markdownFile": "zh-CN-qq.md",
-          "imageNames": [
-            "icon-qq"
-          ]
-        },
         {
           "id": "zh-CN-google",
           "title": "Google",
@@ -4595,30 +2561,12 @@
           ]
         },
         {
-          "id": "zh-CN-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "驗證器 App",
-          "markdownFile": "zh-CN-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "zh-CN-discord",
           "title": "Discord",
           "serviceCategory": "驗證器 App",
           "markdownFile": "zh-CN-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "zh-CN-steam",
-          "title": "Steam",
-          "serviceCategory": "驗證器 App",
-          "markdownFile": "zh-CN-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -4636,69 +2584,6 @@
       "locale": "en-NG",
       "countryName": "Nigeria",
       "guides": [
-        {
-          "id": "ng-gtbank",
-          "title": "GTBank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-NG-gtbank.md",
-          "imageNames": [
-            "icon-gtbank"
-          ]
-        },
-        {
-          "id": "ng-accessbank",
-          "title": "Access Bank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-NG-accessbank.md",
-          "imageNames": [
-            "icon-accessbank"
-          ]
-        },
-        {
-          "id": "ng-flutterwave",
-          "title": "Flutterwave",
-          "serviceCategory": "Payment security",
-          "markdownFile": "en-NG-flutterwave.md",
-          "imageNames": [
-            "icon-flutterwave"
-          ]
-        },
-        {
-          "id": "ng-paystack",
-          "title": "Paystack",
-          "serviceCategory": "Payment security",
-          "markdownFile": "en-NG-paystack.md",
-          "imageNames": [
-            "icon-paystack"
-          ]
-        },
-        {
-          "id": "ng-opay",
-          "title": "OPay",
-          "serviceCategory": "Payment security",
-          "markdownFile": "en-NG-opay.md",
-          "imageNames": [
-            "icon-opay"
-          ]
-        },
-        {
-          "id": "ng-jumia",
-          "title": "Jumia",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-NG-jumia.md",
-          "imageNames": [
-            "icon-jumia"
-          ]
-        },
-        {
-          "id": "ng-mtn",
-          "title": "MTN",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-NG-mtn.md",
-          "imageNames": [
-            "icon-mtn"
-          ]
-        },
         {
           "id": "en-NG-google",
           "title": "Google",
@@ -4772,30 +2657,12 @@
           ]
         },
         {
-          "id": "en-NG-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-NG-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-NG-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-NG-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-NG-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-NG-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -4813,60 +2680,6 @@
       "locale": "en-ZA",
       "countryName": "South Africa",
       "guides": [
-        {
-          "id": "za-standardbank",
-          "title": "Standard Bank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-ZA-standardbank.md",
-          "imageNames": [
-            "icon-standardbank"
-          ]
-        },
-        {
-          "id": "za-fnb",
-          "title": "FNB",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-ZA-fnb.md",
-          "imageNames": [
-            "icon-fnb"
-          ]
-        },
-        {
-          "id": "za-capitec",
-          "title": "Capitec",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-ZA-capitec.md",
-          "imageNames": [
-            "icon-capitec"
-          ]
-        },
-        {
-          "id": "za-takealot",
-          "title": "Takealot",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-ZA-takealot.md",
-          "imageNames": [
-            "icon-takealot"
-          ]
-        },
-        {
-          "id": "za-vodacom",
-          "title": "Vodacom",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-ZA-vodacom.md",
-          "imageNames": [
-            "icon-vodacom"
-          ]
-        },
-        {
-          "id": "za-mtn",
-          "title": "MTN",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-ZA-mtn.md",
-          "imageNames": [
-            "icon-mtn"
-          ]
-        },
         {
           "id": "en-ZA-google",
           "title": "Google",
@@ -4940,30 +2753,12 @@
           ]
         },
         {
-          "id": "en-ZA-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-ZA-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-ZA-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-ZA-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-ZA-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-ZA-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -4981,51 +2776,6 @@
       "locale": "ar-SA",
       "countryName": "السعودية",
       "guides": [
-        {
-          "id": "sa-stc",
-          "title": "stc",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-SA-stc.md",
-          "imageNames": [
-            "icon-stc"
-          ]
-        },
-        {
-          "id": "sa-mobily",
-          "title": "Mobily",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-SA-mobily.md",
-          "imageNames": [
-            "icon-mobily"
-          ]
-        },
-        {
-          "id": "sa-alrajhi",
-          "title": "Al Rajhi Bank",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-SA-alrajhi.md",
-          "imageNames": [
-            "icon-alrajhi"
-          ]
-        },
-        {
-          "id": "sa-sabb",
-          "title": "SABB",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-SA-sabb.md",
-          "imageNames": [
-            "icon-sabb"
-          ]
-        },
-        {
-          "id": "sa-noon",
-          "title": "Noon",
-          "serviceCategory": "أمان الحساب",
-          "markdownFile": "ar-SA-noon.md",
-          "imageNames": [
-            "icon-noon"
-          ]
-        },
         {
           "id": "ar-SA-google",
           "title": "Google",
@@ -5099,30 +2849,12 @@
           ]
         },
         {
-          "id": "ar-SA-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "تطبيق مصادقة",
-          "markdownFile": "ar-SA-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ar-SA-discord",
           "title": "Discord",
           "serviceCategory": "تطبيق مصادقة",
           "markdownFile": "ar-SA-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ar-SA-steam",
-          "title": "Steam",
-          "serviceCategory": "تطبيق مصادقة",
-          "markdownFile": "ar-SA-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -5140,60 +2872,6 @@
       "locale": "en-SG",
       "countryName": "Singapore",
       "guides": [
-        {
-          "id": "sg-dbs",
-          "title": "DBS",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-SG-dbs.md",
-          "imageNames": [
-            "icon-dbs"
-          ]
-        },
-        {
-          "id": "sg-ocbc",
-          "title": "OCBC",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-SG-ocbc.md",
-          "imageNames": [
-            "icon-ocbc"
-          ]
-        },
-        {
-          "id": "sg-uob",
-          "title": "UOB",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-SG-uob.md",
-          "imageNames": [
-            "icon-uob"
-          ]
-        },
-        {
-          "id": "sg-grab",
-          "title": "Grab",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-SG-grab.md",
-          "imageNames": [
-            "icon-grab"
-          ]
-        },
-        {
-          "id": "sg-shopee",
-          "title": "Shopee",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-SG-shopee.md",
-          "imageNames": [
-            "icon-shopee"
-          ]
-        },
-        {
-          "id": "sg-lazada",
-          "title": "Lazada",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-SG-lazada.md",
-          "imageNames": [
-            "icon-lazada"
-          ]
-        },
         {
           "id": "en-SG-google",
           "title": "Google",
@@ -5267,30 +2945,12 @@
           ]
         },
         {
-          "id": "en-SG-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-SG-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-SG-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-SG-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-SG-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-SG-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -5309,48 +2969,12 @@
       "countryName": "New Zealand",
       "guides": [
         {
-          "id": "nz-kiwibank",
-          "title": "Kiwibank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-NZ-kiwibank.md",
-          "imageNames": [
-            "icon-kiwibank"
-          ]
-        },
-        {
-          "id": "nz-trademe",
-          "title": "Trade Me",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-NZ-trademe.md",
-          "imageNames": [
-            "icon-trademe"
-          ]
-        },
-        {
           "id": "nz-xero",
           "title": "Xero",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-NZ-xero.md",
           "imageNames": [
             "icon-xero"
-          ]
-        },
-        {
-          "id": "nz-westpac",
-          "title": "Westpac",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-NZ-westpac.md",
-          "imageNames": [
-            "icon-westpac"
-          ]
-        },
-        {
-          "id": "nz-anz",
-          "title": "ANZ",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-NZ-anz.md",
-          "imageNames": [
-            "icon-anz"
           ]
         },
         {
@@ -5426,30 +3050,12 @@
           ]
         },
         {
-          "id": "en-NZ-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-NZ-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-NZ-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-NZ-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-NZ-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-NZ-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -5468,75 +3074,12 @@
       "countryName": "Canada",
       "guides": [
         {
-          "id": "en-CA-rbc",
-          "title": "RBC",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-CA-rbc.md",
-          "imageNames": [
-            "icon-rbc"
-          ]
-        },
-        {
-          "id": "en-CA-td-canada-trust",
-          "title": "TD Canada Trust",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-CA-td-canada-trust.md",
-          "imageNames": [
-            "icon-td"
-          ]
-        },
-        {
-          "id": "en-CA-scotiabank",
-          "title": "Scotiabank",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-CA-scotiabank.md",
-          "imageNames": [
-            "icon-scotiabank"
-          ]
-        },
-        {
-          "id": "en-CA-bmo",
-          "title": "BMO",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-CA-bmo.md",
-          "imageNames": [
-            "icon-bmo"
-          ]
-        },
-        {
-          "id": "en-CA-cibc",
-          "title": "CIBC",
-          "serviceCategory": "Bank security",
-          "markdownFile": "en-CA-cibc.md",
-          "imageNames": [
-            "icon-cibc"
-          ]
-        },
-        {
           "id": "en-CA-wealthsimple",
           "title": "Wealthsimple",
           "serviceCategory": "Account security",
           "markdownFile": "en-CA-wealthsimple.md",
           "imageNames": [
             "icon-wealthsimple"
-          ]
-        },
-        {
-          "id": "en-CA-kijiji",
-          "title": "Kijiji",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-CA-kijiji.md",
-          "imageNames": [
-            "icon-kijiji"
-          ]
-        },
-        {
-          "id": "en-CA-interac",
-          "title": "Interac",
-          "serviceCategory": "Account security",
-          "markdownFile": "en-CA-interac.md",
-          "imageNames": [
-            "icon-interac"
           ]
         },
         {
@@ -5621,30 +3164,12 @@
           ]
         },
         {
-          "id": "en-CA-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-CA-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "en-CA-discord",
           "title": "Discord",
           "serviceCategory": "Authenticator app",
           "markdownFile": "en-CA-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "en-CA-steam",
-          "title": "Steam",
-          "serviceCategory": "Authenticator app",
-          "markdownFile": "en-CA-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -5663,75 +3188,12 @@
       "countryName": "Canada",
       "guides": [
         {
-          "id": "fr-CA-rbc",
-          "title": "RBC",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-CA-rbc.md",
-          "imageNames": [
-            "icon-rbc"
-          ]
-        },
-        {
-          "id": "fr-CA-td-canada-trust",
-          "title": "TD Canada Trust",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-CA-td-canada-trust.md",
-          "imageNames": [
-            "icon-td"
-          ]
-        },
-        {
-          "id": "fr-CA-banque-scotia",
-          "title": "Banque Scotia",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-CA-banque-scotia.md",
-          "imageNames": [
-            "icon-scotiabank"
-          ]
-        },
-        {
-          "id": "fr-CA-bmo",
-          "title": "BMO",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-CA-bmo.md",
-          "imageNames": [
-            "icon-bmo"
-          ]
-        },
-        {
-          "id": "fr-CA-cibc",
-          "title": "CIBC",
-          "serviceCategory": "Sécurité bancaire",
-          "markdownFile": "fr-CA-cibc.md",
-          "imageNames": [
-            "icon-cibc"
-          ]
-        },
-        {
           "id": "fr-CA-wealthsimple",
           "title": "Wealthsimple",
           "serviceCategory": "Sécurité du compte",
           "markdownFile": "fr-CA-wealthsimple.md",
           "imageNames": [
             "icon-wealthsimple"
-          ]
-        },
-        {
-          "id": "fr-CA-kijiji",
-          "title": "Kijiji",
-          "serviceCategory": "Sécurité du compte",
-          "markdownFile": "fr-CA-kijiji.md",
-          "imageNames": [
-            "icon-kijiji"
-          ]
-        },
-        {
-          "id": "fr-CA-interac",
-          "title": "Interac",
-          "serviceCategory": "Sécurité du compte",
-          "markdownFile": "fr-CA-interac.md",
-          "imageNames": [
-            "icon-interac"
           ]
         },
         {
@@ -5816,30 +3278,12 @@
           ]
         },
         {
-          "id": "fr-CA-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Application d’authentification",
-          "markdownFile": "fr-CA-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "fr-CA-discord",
           "title": "Discord",
           "serviceCategory": "Application d’authentification",
           "markdownFile": "fr-CA-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "fr-CA-steam",
-          "title": "Steam",
-          "serviceCategory": "Application d’authentification",
-          "markdownFile": "fr-CA-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -5857,87 +3301,6 @@
       "locale": "ca-ES",
       "countryName": "Catalunya",
       "guides": [
-        {
-          "id": "ca-ES-caixabank",
-          "title": "CaixaBank",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-caixabank.md",
-          "imageNames": [
-            "icon-caixabank"
-          ]
-        },
-        {
-          "id": "ca-ES-bbva",
-          "title": "BBVA",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-bbva.md",
-          "imageNames": [
-            "icon-bbva"
-          ]
-        },
-        {
-          "id": "ca-ES-santander",
-          "title": "Santander",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-santander.md",
-          "imageNames": [
-            "icon-santander"
-          ]
-        },
-        {
-          "id": "ca-ES-wallapop",
-          "title": "Wallapop",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-wallapop.md",
-          "imageNames": [
-            "icon-wallapop"
-          ]
-        },
-        {
-          "id": "ca-ES-banc-sabadell",
-          "title": "Banc Sabadell",
-          "serviceCategory": "Seguretat bancària",
-          "markdownFile": "ca-ES-banc-sabadell.md",
-          "imageNames": [
-            "icon-sabadell"
-          ]
-        },
-        {
-          "id": "ca-ES-ing",
-          "title": "ING",
-          "serviceCategory": "Seguretat bancària",
-          "markdownFile": "ca-ES-ing.md",
-          "imageNames": [
-            "icon-ing"
-          ]
-        },
-        {
-          "id": "ca-ES-vinted",
-          "title": "Vinted",
-          "serviceCategory": "Seguretat del compte",
-          "markdownFile": "ca-ES-vinted.md",
-          "imageNames": [
-            "icon-vinted"
-          ]
-        },
-        {
-          "id": "ca-ES-milanuncios",
-          "title": "Milanuncios",
-          "serviceCategory": "Seguretat del compte",
-          "markdownFile": "ca-ES-milanuncios.md",
-          "imageNames": [
-            "icon-milanuncios"
-          ]
-        },
-        {
-          "id": "ca-ES-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "ca-ES-google",
           "title": "Google",
@@ -6011,30 +3374,12 @@
           ]
         },
         {
-          "id": "ca-ES-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ca-ES-discord",
           "title": "Discord",
           "serviceCategory": "Aplicació d’autenticació",
           "markdownFile": "ca-ES-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ca-ES-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplicació d’autenticació",
-          "markdownFile": "ca-ES-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -6053,75 +3398,12 @@
       "countryName": "Česko",
       "guides": [
         {
-          "id": "cs-CZ-ceska-sporitelna",
-          "title": "Česká spořitelna",
-          "serviceCategory": "Bankovní zabezpečení",
-          "markdownFile": "cs-CZ-ceska-sporitelna.md",
-          "imageNames": [
-            "icon-ceska-sporitelna"
-          ]
-        },
-        {
-          "id": "cs-CZ-csob",
-          "title": "ČSOB",
-          "serviceCategory": "Bankovní zabezpečení",
-          "markdownFile": "cs-CZ-csob.md",
-          "imageNames": [
-            "icon-csob"
-          ]
-        },
-        {
-          "id": "cs-CZ-komercni-banka",
-          "title": "Komerční banka",
-          "serviceCategory": "Bankovní zabezpečení",
-          "markdownFile": "cs-CZ-komercni-banka.md",
-          "imageNames": [
-            "icon-komercni-banka"
-          ]
-        },
-        {
-          "id": "cs-CZ-air-bank",
-          "title": "Air Bank",
-          "serviceCategory": "Bankovní zabezpečení",
-          "markdownFile": "cs-CZ-air-bank.md",
-          "imageNames": [
-            "icon-air-bank"
-          ]
-        },
-        {
           "id": "cs-CZ-seznam",
           "title": "Seznam",
           "serviceCategory": "Zabezpečení účtu",
           "markdownFile": "cs-CZ-seznam.md",
           "imageNames": [
             "icon-seznam"
-          ]
-        },
-        {
-          "id": "cs-CZ-alza",
-          "title": "Alza",
-          "serviceCategory": "Zabezpečení účtu",
-          "markdownFile": "cs-CZ-alza.md",
-          "imageNames": [
-            "icon-alza"
-          ]
-        },
-        {
-          "id": "cs-CZ-rohlik",
-          "title": "Rohlík",
-          "serviceCategory": "Zabezpečení účtu",
-          "markdownFile": "cs-CZ-rohlik.md",
-          "imageNames": [
-            "icon-rohlik"
-          ]
-        },
-        {
-          "id": "cs-CZ-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Autentizační aplikace",
-          "markdownFile": "cs-CZ-revolut.md",
-          "imageNames": [
-            "icon-revolut"
           ]
         },
         {
@@ -6197,30 +3479,12 @@
           ]
         },
         {
-          "id": "cs-CZ-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Autentizační aplikace",
-          "markdownFile": "cs-CZ-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "cs-CZ-discord",
           "title": "Discord",
           "serviceCategory": "Autentizační aplikace",
           "markdownFile": "cs-CZ-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "cs-CZ-steam",
-          "title": "Steam",
-          "serviceCategory": "Autentizační aplikace",
-          "markdownFile": "cs-CZ-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -6238,78 +3502,6 @@
       "locale": "da-DK",
       "countryName": "Danmark",
       "guides": [
-        {
-          "id": "da-DK-mitid",
-          "title": "MitID",
-          "serviceCategory": "Loginbeskyttelse",
-          "markdownFile": "da-DK-mitid.md",
-          "imageNames": [
-            "icon-mitid"
-          ]
-        },
-        {
-          "id": "da-DK-mobilepay",
-          "title": "MobilePay",
-          "serviceCategory": "Kontosikkerhed",
-          "markdownFile": "da-DK-mobilepay.md",
-          "imageNames": [
-            "icon-mobilepay"
-          ]
-        },
-        {
-          "id": "da-DK-danske-bank",
-          "title": "Danske Bank",
-          "serviceCategory": "Banksikkerhed",
-          "markdownFile": "da-DK-danske-bank.md",
-          "imageNames": [
-            "icon-danske-bank"
-          ]
-        },
-        {
-          "id": "da-DK-nordea",
-          "title": "Nordea",
-          "serviceCategory": "Banksikkerhed",
-          "markdownFile": "da-DK-nordea.md",
-          "imageNames": [
-            "icon-nordea"
-          ]
-        },
-        {
-          "id": "da-DK-jyske-bank",
-          "title": "Jyske Bank",
-          "serviceCategory": "Banksikkerhed",
-          "markdownFile": "da-DK-jyske-bank.md",
-          "imageNames": [
-            "icon-jyske-bank"
-          ]
-        },
-        {
-          "id": "da-DK-e-boks",
-          "title": "e-Boks",
-          "serviceCategory": "Kontosikkerhed",
-          "markdownFile": "da-DK-e-boks.md",
-          "imageNames": [
-            "icon-eboks"
-          ]
-        },
-        {
-          "id": "da-DK-dba",
-          "title": "DBA",
-          "serviceCategory": "Kontosikkerhed",
-          "markdownFile": "da-DK-dba.md",
-          "imageNames": [
-            "icon-dba"
-          ]
-        },
-        {
-          "id": "da-DK-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Godkendelsesapp",
-          "markdownFile": "da-DK-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "da-DK-google",
           "title": "Google",
@@ -6383,30 +3575,12 @@
           ]
         },
         {
-          "id": "da-DK-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Godkendelsesapp",
-          "markdownFile": "da-DK-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "da-DK-discord",
           "title": "Discord",
           "serviceCategory": "Godkendelsesapp",
           "markdownFile": "da-DK-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "da-DK-steam",
-          "title": "Steam",
-          "serviceCategory": "Godkendelsesapp",
-          "markdownFile": "da-DK-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -6424,78 +3598,6 @@
       "locale": "el-GR",
       "countryName": "Ελλάδα",
       "guides": [
-        {
-          "id": "el-GR-alpha-bank",
-          "title": "Alpha Bank",
-          "serviceCategory": "Τραπεζική ασφάλεια",
-          "markdownFile": "el-GR-alpha-bank.md",
-          "imageNames": [
-            "icon-alpha-bank"
-          ]
-        },
-        {
-          "id": "el-GR-eurobank",
-          "title": "Eurobank",
-          "serviceCategory": "Τραπεζική ασφάλεια",
-          "markdownFile": "el-GR-eurobank.md",
-          "imageNames": [
-            "icon-eurobank"
-          ]
-        },
-        {
-          "id": "el-GR-national-bank-of-greece",
-          "title": "National Bank of Greece",
-          "serviceCategory": "Τραπεζική ασφάλεια",
-          "markdownFile": "el-GR-national-bank-of-greece.md",
-          "imageNames": [
-            "icon-nbg"
-          ]
-        },
-        {
-          "id": "el-GR-piraeus-bank",
-          "title": "Piraeus Bank",
-          "serviceCategory": "Τραπεζική ασφάλεια",
-          "markdownFile": "el-GR-piraeus-bank.md",
-          "imageNames": [
-            "icon-piraeus-bank"
-          ]
-        },
-        {
-          "id": "el-GR-skroutz",
-          "title": "Skroutz",
-          "serviceCategory": "Ασφάλεια λογαριασμού",
-          "markdownFile": "el-GR-skroutz.md",
-          "imageNames": [
-            "icon-skroutz"
-          ]
-        },
-        {
-          "id": "el-GR-efood",
-          "title": "efood",
-          "serviceCategory": "Ασφάλεια λογαριασμού",
-          "markdownFile": "el-GR-efood.md",
-          "imageNames": [
-            "icon-efood"
-          ]
-        },
-        {
-          "id": "el-GR-cosmote",
-          "title": "COSMOTE",
-          "serviceCategory": "Ασφάλεια λογαριασμού",
-          "markdownFile": "el-GR-cosmote.md",
-          "imageNames": [
-            "icon-cosmote"
-          ]
-        },
-        {
-          "id": "el-GR-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Εφαρμογή ελέγχου ταυτότητας",
-          "markdownFile": "el-GR-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "el-GR-google",
           "title": "Google",
@@ -6569,30 +3671,12 @@
           ]
         },
         {
-          "id": "el-GR-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Εφαρμογή ελέγχου ταυτότητας",
-          "markdownFile": "el-GR-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "el-GR-discord",
           "title": "Discord",
           "serviceCategory": "Εφαρμογή ελέγχου ταυτότητας",
           "markdownFile": "el-GR-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "el-GR-steam",
-          "title": "Steam",
-          "serviceCategory": "Εφαρμογή ελέγχου ταυτότητας",
-          "markdownFile": "el-GR-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -6610,78 +3694,6 @@
       "locale": "fi-FI",
       "countryName": "Suomi",
       "guides": [
-        {
-          "id": "fi-FI-op",
-          "title": "OP",
-          "serviceCategory": "Pankkiturva",
-          "markdownFile": "fi-FI-op.md",
-          "imageNames": [
-            "icon-op"
-          ]
-        },
-        {
-          "id": "fi-FI-nordea",
-          "title": "Nordea",
-          "serviceCategory": "Pankkiturva",
-          "markdownFile": "fi-FI-nordea.md",
-          "imageNames": [
-            "icon-nordea"
-          ]
-        },
-        {
-          "id": "fi-FI-s-pankki",
-          "title": "S-Pankki",
-          "serviceCategory": "Pankkiturva",
-          "markdownFile": "fi-FI-s-pankki.md",
-          "imageNames": [
-            "icon-s-pankki"
-          ]
-        },
-        {
-          "id": "fi-FI-elisa",
-          "title": "Elisa",
-          "serviceCategory": "Tilin suojaus",
-          "markdownFile": "fi-FI-elisa.md",
-          "imageNames": [
-            "icon-elisa"
-          ]
-        },
-        {
-          "id": "fi-FI-oikotie",
-          "title": "Oikotie",
-          "serviceCategory": "Tilin suojaus",
-          "markdownFile": "fi-FI-oikotie.md",
-          "imageNames": [
-            "icon-oikotie"
-          ]
-        },
-        {
-          "id": "fi-FI-verkkokauppa",
-          "title": "Verkkokauppa",
-          "serviceCategory": "Tilin suojaus",
-          "markdownFile": "fi-FI-verkkokauppa.md",
-          "imageNames": [
-            "icon-verkkokauppa"
-          ]
-        },
-        {
-          "id": "fi-FI-wolt",
-          "title": "Wolt",
-          "serviceCategory": "Tilin suojaus",
-          "markdownFile": "fi-FI-wolt.md",
-          "imageNames": [
-            "icon-wolt"
-          ]
-        },
-        {
-          "id": "fi-FI-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Todennussovellus",
-          "markdownFile": "fi-FI-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "fi-FI-google",
           "title": "Google",
@@ -6755,30 +3767,12 @@
           ]
         },
         {
-          "id": "fi-FI-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Todennussovellus",
-          "markdownFile": "fi-FI-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "fi-FI-discord",
           "title": "Discord",
           "serviceCategory": "Todennussovellus",
           "markdownFile": "fi-FI-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "fi-FI-steam",
-          "title": "Steam",
-          "serviceCategory": "Todennussovellus",
-          "markdownFile": "fi-FI-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -6796,87 +3790,6 @@
       "locale": "he-IL",
       "countryName": "ישראל",
       "guides": [
-        {
-          "id": "he-IL-bank-hapoalim",
-          "title": "Bank Hapoalim",
-          "serviceCategory": "אבטחת בנק",
-          "markdownFile": "he-IL-bank-hapoalim.md",
-          "imageNames": [
-            "icon-bank-hapoalim"
-          ]
-        },
-        {
-          "id": "he-IL-bank-leumi",
-          "title": "Bank Leumi",
-          "serviceCategory": "אבטחת בנק",
-          "markdownFile": "he-IL-bank-leumi.md",
-          "imageNames": [
-            "icon-bank-leumi"
-          ]
-        },
-        {
-          "id": "he-IL-discount-bank",
-          "title": "Discount Bank",
-          "serviceCategory": "אבטחת בנק",
-          "markdownFile": "he-IL-discount-bank.md",
-          "imageNames": [
-            "icon-discount-bank"
-          ]
-        },
-        {
-          "id": "he-IL-mizrahi-tefahot",
-          "title": "Mizrahi-Tefahot",
-          "serviceCategory": "אבטחת בנק",
-          "markdownFile": "he-IL-mizrahi-tefahot.md",
-          "imageNames": [
-            "icon-mizrahi-tefahot"
-          ]
-        },
-        {
-          "id": "he-IL-bit",
-          "title": "Bit",
-          "serviceCategory": "אבטחת חשבון",
-          "markdownFile": "he-IL-bit.md",
-          "imageNames": [
-            "icon-bit"
-          ]
-        },
-        {
-          "id": "he-IL-yad2",
-          "title": "Yad2",
-          "serviceCategory": "אבטחת חשבון",
-          "markdownFile": "he-IL-yad2.md",
-          "imageNames": [
-            "icon-yad2"
-          ]
-        },
-        {
-          "id": "he-IL-cellcom",
-          "title": "Cellcom",
-          "serviceCategory": "אבטחת חשבון",
-          "markdownFile": "he-IL-cellcom.md",
-          "imageNames": [
-            "icon-cellcom"
-          ]
-        },
-        {
-          "id": "he-IL-pelephone",
-          "title": "Pelephone",
-          "serviceCategory": "אבטחת חשבון",
-          "markdownFile": "he-IL-pelephone.md",
-          "imageNames": [
-            "icon-pelephone"
-          ]
-        },
-        {
-          "id": "he-IL-wolt",
-          "title": "Wolt",
-          "serviceCategory": "אבטחת חשבון",
-          "markdownFile": "he-IL-wolt.md",
-          "imageNames": [
-            "icon-wolt"
-          ]
-        },
         {
           "id": "he-IL-google",
           "title": "Google",
@@ -6950,30 +3863,12 @@
           ]
         },
         {
-          "id": "he-IL-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "אפליקציית אימות",
-          "markdownFile": "he-IL-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "he-IL-discord",
           "title": "Discord",
           "serviceCategory": "אפליקציית אימות",
           "markdownFile": "he-IL-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "he-IL-steam",
-          "title": "Steam",
-          "serviceCategory": "אפליקציית אימות",
-          "markdownFile": "he-IL-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -6991,78 +3886,6 @@
       "locale": "hr-HR",
       "countryName": "Hrvatska",
       "guides": [
-        {
-          "id": "hr-HR-e-gradani",
-          "title": "e-Građani",
-          "serviceCategory": "Zaštita prijave",
-          "markdownFile": "hr-HR-e-gradani.md",
-          "imageNames": [
-            "icon-egradani"
-          ]
-        },
-        {
-          "id": "hr-HR-zagrebacka-banka",
-          "title": "Zagrebačka banka",
-          "serviceCategory": "Bankovna sigurnost",
-          "markdownFile": "hr-HR-zagrebacka-banka.md",
-          "imageNames": [
-            "icon-zaba"
-          ]
-        },
-        {
-          "id": "hr-HR-pbz",
-          "title": "PBZ",
-          "serviceCategory": "Bankovna sigurnost",
-          "markdownFile": "hr-HR-pbz.md",
-          "imageNames": [
-            "icon-pbz"
-          ]
-        },
-        {
-          "id": "hr-HR-erste-bank",
-          "title": "Erste Bank",
-          "serviceCategory": "Bankovna sigurnost",
-          "markdownFile": "hr-HR-erste-bank.md",
-          "imageNames": [
-            "icon-erste-bank"
-          ]
-        },
-        {
-          "id": "hr-HR-hrvatski-telekom",
-          "title": "Hrvatski Telekom",
-          "serviceCategory": "Sigurnost računa",
-          "markdownFile": "hr-HR-hrvatski-telekom.md",
-          "imageNames": [
-            "icon-hrvatski-telekom"
-          ]
-        },
-        {
-          "id": "hr-HR-a1-hrvatska",
-          "title": "A1 Hrvatska",
-          "serviceCategory": "Sigurnost računa",
-          "markdownFile": "hr-HR-a1-hrvatska.md",
-          "imageNames": [
-            "icon-a1"
-          ]
-        },
-        {
-          "id": "hr-HR-njuskalo",
-          "title": "Njuškalo",
-          "serviceCategory": "Sigurnost računa",
-          "markdownFile": "hr-HR-njuskalo.md",
-          "imageNames": [
-            "icon-njuskalo"
-          ]
-        },
-        {
-          "id": "hr-HR-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplikacija za autentifikaciju",
-          "markdownFile": "hr-HR-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "hr-HR-google",
           "title": "Google",
@@ -7136,30 +3959,12 @@
           ]
         },
         {
-          "id": "hr-HR-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplikacija za autentifikaciju",
-          "markdownFile": "hr-HR-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "hr-HR-discord",
           "title": "Discord",
           "serviceCategory": "Aplikacija za autentifikaciju",
           "markdownFile": "hr-HR-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "hr-HR-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplikacija za autentifikaciju",
-          "markdownFile": "hr-HR-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -7177,78 +3982,6 @@
       "locale": "hu-HU",
       "countryName": "Magyarország",
       "guides": [
-        {
-          "id": "hu-HU-otp-bank",
-          "title": "OTP Bank",
-          "serviceCategory": "Banki biztonság",
-          "markdownFile": "hu-HU-otp-bank.md",
-          "imageNames": [
-            "icon-otp-bank"
-          ]
-        },
-        {
-          "id": "hu-HU-k-h-bank",
-          "title": "K&H Bank",
-          "serviceCategory": "Banki biztonság",
-          "markdownFile": "hu-HU-k-h-bank.md",
-          "imageNames": [
-            "icon-kh-bank"
-          ]
-        },
-        {
-          "id": "hu-HU-erste-bank",
-          "title": "Erste Bank",
-          "serviceCategory": "Banki biztonság",
-          "markdownFile": "hu-HU-erste-bank.md",
-          "imageNames": [
-            "icon-erste-bank"
-          ]
-        },
-        {
-          "id": "hu-HU-magyar-telekom",
-          "title": "Magyar Telekom",
-          "serviceCategory": "Fiókbiztonság",
-          "markdownFile": "hu-HU-magyar-telekom.md",
-          "imageNames": [
-            "icon-magyar-telekom"
-          ]
-        },
-        {
-          "id": "hu-HU-jofogas",
-          "title": "Jófogás",
-          "serviceCategory": "Fiókbiztonság",
-          "markdownFile": "hu-HU-jofogas.md",
-          "imageNames": [
-            "icon-jofogas"
-          ]
-        },
-        {
-          "id": "hu-HU-emag",
-          "title": "eMAG",
-          "serviceCategory": "Fiókbiztonság",
-          "markdownFile": "hu-HU-emag.md",
-          "imageNames": [
-            "icon-emag"
-          ]
-        },
-        {
-          "id": "hu-HU-wolt",
-          "title": "Wolt",
-          "serviceCategory": "Fiókbiztonság",
-          "markdownFile": "hu-HU-wolt.md",
-          "imageNames": [
-            "icon-wolt"
-          ]
-        },
-        {
-          "id": "hu-HU-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Hitelesítő alkalmazás",
-          "markdownFile": "hu-HU-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "hu-HU-google",
           "title": "Google",
@@ -7322,30 +4055,12 @@
           ]
         },
         {
-          "id": "hu-HU-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Hitelesítő alkalmazás",
-          "markdownFile": "hu-HU-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "hu-HU-discord",
           "title": "Discord",
           "serviceCategory": "Hitelesítő alkalmazás",
           "markdownFile": "hu-HU-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "hu-HU-steam",
-          "title": "Steam",
-          "serviceCategory": "Hitelesítő alkalmazás",
-          "markdownFile": "hu-HU-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -7364,84 +4079,12 @@
       "countryName": "Norge",
       "guides": [
         {
-          "id": "nb-NO-bankid",
-          "title": "BankID",
-          "serviceCategory": "Innloggingsbeskyttelse",
-          "markdownFile": "nb-NO-bankid.md",
-          "imageNames": [
-            "icon-bankid"
-          ]
-        },
-        {
-          "id": "nb-NO-dnb",
-          "title": "DNB",
-          "serviceCategory": "Banksikkerhet",
-          "markdownFile": "nb-NO-dnb.md",
-          "imageNames": [
-            "icon-dnb"
-          ]
-        },
-        {
-          "id": "nb-NO-vipps",
-          "title": "Vipps",
-          "serviceCategory": "Kontosikkerhet",
-          "markdownFile": "nb-NO-vipps.md",
-          "imageNames": [
-            "icon-vipps"
-          ]
-        },
-        {
-          "id": "nb-NO-telenor",
-          "title": "Telenor",
-          "serviceCategory": "Kontosikkerhet",
-          "markdownFile": "nb-NO-telenor.md",
-          "imageNames": [
-            "icon-telenor"
-          ]
-        },
-        {
           "id": "nb-NO-finn-no",
           "title": "Finn.no",
           "serviceCategory": "Kontosikkerhet",
           "markdownFile": "nb-NO-finn-no.md",
           "imageNames": [
             "icon-finn"
-          ]
-        },
-        {
-          "id": "nb-NO-komplett",
-          "title": "Komplett",
-          "serviceCategory": "Kontosikkerhet",
-          "markdownFile": "nb-NO-komplett.md",
-          "imageNames": [
-            "icon-komplett"
-          ]
-        },
-        {
-          "id": "nb-NO-altinn",
-          "title": "Altinn",
-          "serviceCategory": "Innloggingsbeskyttelse",
-          "markdownFile": "nb-NO-altinn.md",
-          "imageNames": [
-            "icon-altinn"
-          ]
-        },
-        {
-          "id": "nb-NO-nordea",
-          "title": "Nordea",
-          "serviceCategory": "Banksikkerhet",
-          "markdownFile": "nb-NO-nordea.md",
-          "imageNames": [
-            "icon-nordea"
-          ]
-        },
-        {
-          "id": "nb-NO-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Autentiseringsapp",
-          "markdownFile": "nb-NO-revolut.md",
-          "imageNames": [
-            "icon-revolut"
           ]
         },
         {
@@ -7517,30 +4160,12 @@
           ]
         },
         {
-          "id": "nb-NO-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Autentiseringsapp",
-          "markdownFile": "nb-NO-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "nb-NO-discord",
           "title": "Discord",
           "serviceCategory": "Autentiseringsapp",
           "markdownFile": "nb-NO-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "nb-NO-steam",
-          "title": "Steam",
-          "serviceCategory": "Autentiseringsapp",
-          "markdownFile": "nb-NO-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -7559,84 +4184,12 @@
       "countryName": "Portugal",
       "guides": [
         {
-          "id": "pt-PT-santander",
-          "title": "Santander",
-          "serviceCategory": "Aplicação autenticadora",
-          "markdownFile": "pt-PT-santander.md",
-          "imageNames": [
-            "icon-santander"
-          ]
-        },
-        {
           "id": "pt-PT-wise",
           "title": "Wise",
           "serviceCategory": "Aplicação autenticadora",
           "markdownFile": "pt-PT-wise.md",
           "imageNames": [
             "icon-wise"
-          ]
-        },
-        {
-          "id": "pt-PT-caixa-geral-de-depositos",
-          "title": "Caixa Geral de Depósitos",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-PT-caixa-geral-de-depositos.md",
-          "imageNames": [
-            "icon-cgd"
-          ]
-        },
-        {
-          "id": "pt-PT-millennium-bcp",
-          "title": "Millennium bcp",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-PT-millennium-bcp.md",
-          "imageNames": [
-            "icon-millennium-bcp"
-          ]
-        },
-        {
-          "id": "pt-PT-novo-banco",
-          "title": "Novo Banco",
-          "serviceCategory": "Segurança bancária",
-          "markdownFile": "pt-PT-novo-banco.md",
-          "imageNames": [
-            "icon-novo-banco"
-          ]
-        },
-        {
-          "id": "pt-PT-mb-way",
-          "title": "MB WAY",
-          "serviceCategory": "Segurança da conta",
-          "markdownFile": "pt-PT-mb-way.md",
-          "imageNames": [
-            "icon-mbway"
-          ]
-        },
-        {
-          "id": "pt-PT-continente",
-          "title": "Continente",
-          "serviceCategory": "Segurança da conta",
-          "markdownFile": "pt-PT-continente.md",
-          "imageNames": [
-            "icon-continente"
-          ]
-        },
-        {
-          "id": "pt-PT-olx",
-          "title": "OLX",
-          "serviceCategory": "Segurança da conta",
-          "markdownFile": "pt-PT-olx.md",
-          "imageNames": [
-            "icon-olx"
-          ]
-        },
-        {
-          "id": "pt-PT-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplicação autenticadora",
-          "markdownFile": "pt-PT-revolut.md",
-          "imageNames": [
-            "icon-revolut"
           ]
         },
         {
@@ -7712,30 +4265,12 @@
           ]
         },
         {
-          "id": "pt-PT-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplicação autenticadora",
-          "markdownFile": "pt-PT-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "pt-PT-discord",
           "title": "Discord",
           "serviceCategory": "Aplicação autenticadora",
           "markdownFile": "pt-PT-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "pt-PT-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplicação autenticadora",
-          "markdownFile": "pt-PT-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -7753,78 +4288,6 @@
       "locale": "ro-RO",
       "countryName": "România",
       "guides": [
-        {
-          "id": "ro-RO-banca-transilvania",
-          "title": "Banca Transilvania",
-          "serviceCategory": "Securitate bancară",
-          "markdownFile": "ro-RO-banca-transilvania.md",
-          "imageNames": [
-            "icon-banca-transilvania"
-          ]
-        },
-        {
-          "id": "ro-RO-bcr",
-          "title": "BCR",
-          "serviceCategory": "Securitate bancară",
-          "markdownFile": "ro-RO-bcr.md",
-          "imageNames": [
-            "icon-bcr"
-          ]
-        },
-        {
-          "id": "ro-RO-brd",
-          "title": "BRD",
-          "serviceCategory": "Securitate bancară",
-          "markdownFile": "ro-RO-brd.md",
-          "imageNames": [
-            "icon-brd"
-          ]
-        },
-        {
-          "id": "ro-RO-ing-romania",
-          "title": "ING Romania",
-          "serviceCategory": "Securitate bancară",
-          "markdownFile": "ro-RO-ing-romania.md",
-          "imageNames": [
-            "icon-ing"
-          ]
-        },
-        {
-          "id": "ro-RO-emag",
-          "title": "eMAG",
-          "serviceCategory": "Securitatea contului",
-          "markdownFile": "ro-RO-emag.md",
-          "imageNames": [
-            "icon-emag"
-          ]
-        },
-        {
-          "id": "ro-RO-olx",
-          "title": "OLX",
-          "serviceCategory": "Securitatea contului",
-          "markdownFile": "ro-RO-olx.md",
-          "imageNames": [
-            "icon-olx"
-          ]
-        },
-        {
-          "id": "ro-RO-digi",
-          "title": "Digi",
-          "serviceCategory": "Securitatea contului",
-          "markdownFile": "ro-RO-digi.md",
-          "imageNames": [
-            "icon-digi"
-          ]
-        },
-        {
-          "id": "ro-RO-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplicație de autentificare",
-          "markdownFile": "ro-RO-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "ro-RO-google",
           "title": "Google",
@@ -7898,30 +4361,12 @@
           ]
         },
         {
-          "id": "ro-RO-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplicație de autentificare",
-          "markdownFile": "ro-RO-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ro-RO-discord",
           "title": "Discord",
           "serviceCategory": "Aplicație de autentificare",
           "markdownFile": "ro-RO-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ro-RO-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplicație de autentificare",
-          "markdownFile": "ro-RO-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -7940,75 +4385,12 @@
       "countryName": "Slovensko",
       "guides": [
         {
-          "id": "sk-SK-slovenska-sporite-na",
-          "title": "Slovenská sporiteľňa",
-          "serviceCategory": "Bankové zabezpečenie",
-          "markdownFile": "sk-SK-slovenska-sporite-na.md",
-          "imageNames": [
-            "icon-slovenska-sporitelna"
-          ]
-        },
-        {
-          "id": "sk-SK-tatra-banka",
-          "title": "Tatra banka",
-          "serviceCategory": "Bankové zabezpečenie",
-          "markdownFile": "sk-SK-tatra-banka.md",
-          "imageNames": [
-            "icon-tatra-banka"
-          ]
-        },
-        {
-          "id": "sk-SK-vub-banka",
-          "title": "VÚB banka",
-          "serviceCategory": "Bankové zabezpečenie",
-          "markdownFile": "sk-SK-vub-banka.md",
-          "imageNames": [
-            "icon-vub"
-          ]
-        },
-        {
-          "id": "sk-SK-alza",
-          "title": "Alza",
-          "serviceCategory": "Zabezpečenie účtu",
-          "markdownFile": "sk-SK-alza.md",
-          "imageNames": [
-            "icon-alza"
-          ]
-        },
-        {
-          "id": "sk-SK-bazos",
-          "title": "Bazoš",
-          "serviceCategory": "Zabezpečenie účtu",
-          "markdownFile": "sk-SK-bazos.md",
-          "imageNames": [
-            "icon-bazos"
-          ]
-        },
-        {
           "id": "sk-SK-telekom",
           "title": "Telekom",
           "serviceCategory": "Zabezpečenie účtu",
           "markdownFile": "sk-SK-telekom.md",
           "imageNames": [
             "icon-telekom"
-          ]
-        },
-        {
-          "id": "sk-SK-orange-slovensko",
-          "title": "Orange Slovensko",
-          "serviceCategory": "Zabezpečenie účtu",
-          "markdownFile": "sk-SK-orange-slovensko.md",
-          "imageNames": [
-            "icon-orange"
-          ]
-        },
-        {
-          "id": "sk-SK-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Autentifikačná aplikácia",
-          "markdownFile": "sk-SK-revolut.md",
-          "imageNames": [
-            "icon-revolut"
           ]
         },
         {
@@ -8084,30 +4466,12 @@
           ]
         },
         {
-          "id": "sk-SK-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Autentifikačná aplikácia",
-          "markdownFile": "sk-SK-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "sk-SK-discord",
           "title": "Discord",
           "serviceCategory": "Autentifikačná aplikácia",
           "markdownFile": "sk-SK-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "sk-SK-steam",
-          "title": "Steam",
-          "serviceCategory": "Autentifikačná aplikácia",
-          "markdownFile": "sk-SK-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -8125,69 +4489,6 @@
       "locale": "sl-SI",
       "countryName": "Slovenija",
       "guides": [
-        {
-          "id": "sl-SI-nlb",
-          "title": "NLB",
-          "serviceCategory": "Bančna varnost",
-          "markdownFile": "sl-SI-nlb.md",
-          "imageNames": [
-            "icon-nlb"
-          ]
-        },
-        {
-          "id": "sl-SI-nkbm",
-          "title": "NKBM",
-          "serviceCategory": "Bančna varnost",
-          "markdownFile": "sl-SI-nkbm.md",
-          "imageNames": [
-            "icon-nkbm"
-          ]
-        },
-        {
-          "id": "sl-SI-telekom-slovenije",
-          "title": "Telekom Slovenije",
-          "serviceCategory": "Varnost računa",
-          "markdownFile": "sl-SI-telekom-slovenije.md",
-          "imageNames": [
-            "icon-telekom-slovenije"
-          ]
-        },
-        {
-          "id": "sl-SI-a1-slovenija",
-          "title": "A1 Slovenija",
-          "serviceCategory": "Varnost računa",
-          "markdownFile": "sl-SI-a1-slovenija.md",
-          "imageNames": [
-            "icon-a1"
-          ]
-        },
-        {
-          "id": "sl-SI-bolha",
-          "title": "Bolha",
-          "serviceCategory": "Varnost računa",
-          "markdownFile": "sl-SI-bolha.md",
-          "imageNames": [
-            "icon-bolha"
-          ]
-        },
-        {
-          "id": "sl-SI-mimovrste",
-          "title": "Mimovrste",
-          "serviceCategory": "Varnost računa",
-          "markdownFile": "sl-SI-mimovrste.md",
-          "imageNames": [
-            "icon-mimovrste"
-          ]
-        },
-        {
-          "id": "sl-SI-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Aplikacija za preverjanje pristnosti",
-          "markdownFile": "sl-SI-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "sl-SI-google",
           "title": "Google",
@@ -8261,30 +4562,12 @@
           ]
         },
         {
-          "id": "sl-SI-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Aplikacija za preverjanje pristnosti",
-          "markdownFile": "sl-SI-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "sl-SI-discord",
           "title": "Discord",
           "serviceCategory": "Aplikacija za preverjanje pristnosti",
           "markdownFile": "sl-SI-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "sl-SI-steam",
-          "title": "Steam",
-          "serviceCategory": "Aplikacija za preverjanje pristnosti",
-          "markdownFile": "sl-SI-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -8302,87 +4585,6 @@
       "locale": "sv-SE",
       "countryName": "Sverige",
       "guides": [
-        {
-          "id": "sv-SE-bankid",
-          "title": "BankID",
-          "serviceCategory": "Inloggningsskydd",
-          "markdownFile": "sv-SE-bankid.md",
-          "imageNames": [
-            "icon-bankid"
-          ]
-        },
-        {
-          "id": "sv-SE-swedbank",
-          "title": "Swedbank",
-          "serviceCategory": "Banksäkerhet",
-          "markdownFile": "sv-SE-swedbank.md",
-          "imageNames": [
-            "icon-swedbank"
-          ]
-        },
-        {
-          "id": "sv-SE-seb",
-          "title": "SEB",
-          "serviceCategory": "Banksäkerhet",
-          "markdownFile": "sv-SE-seb.md",
-          "imageNames": [
-            "icon-seb"
-          ]
-        },
-        {
-          "id": "sv-SE-handelsbanken",
-          "title": "Handelsbanken",
-          "serviceCategory": "Banksäkerhet",
-          "markdownFile": "sv-SE-handelsbanken.md",
-          "imageNames": [
-            "icon-handelsbanken"
-          ]
-        },
-        {
-          "id": "sv-SE-klarna",
-          "title": "Klarna",
-          "serviceCategory": "Kontosäkerhet",
-          "markdownFile": "sv-SE-klarna.md",
-          "imageNames": [
-            "icon-klarna"
-          ]
-        },
-        {
-          "id": "sv-SE-blocket",
-          "title": "Blocket",
-          "serviceCategory": "Kontosäkerhet",
-          "markdownFile": "sv-SE-blocket.md",
-          "imageNames": [
-            "icon-blocket"
-          ]
-        },
-        {
-          "id": "sv-SE-telia",
-          "title": "Telia",
-          "serviceCategory": "Kontosäkerhet",
-          "markdownFile": "sv-SE-telia.md",
-          "imageNames": [
-            "icon-telia"
-          ]
-        },
-        {
-          "id": "sv-SE-tradera",
-          "title": "Tradera",
-          "serviceCategory": "Kontosäkerhet",
-          "markdownFile": "sv-SE-tradera.md",
-          "imageNames": [
-            "icon-tradera"
-          ]
-        },
-        {
-          "id": "sv-SE-revolut",
-          "title": "Revolut",
-          "serviceCategory": "Autentiseringsapp",
-          "markdownFile": "sv-SE-revolut.md",
-          "imageNames": [
-            "icon-revolut"
-          ]
-        },
         {
           "id": "sv-SE-google",
           "title": "Google",
@@ -8456,30 +4658,12 @@
           ]
         },
         {
-          "id": "sv-SE-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "Autentiseringsapp",
-          "markdownFile": "sv-SE-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "sv-SE-discord",
           "title": "Discord",
           "serviceCategory": "Autentiseringsapp",
           "markdownFile": "sv-SE-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "sv-SE-steam",
-          "title": "Steam",
-          "serviceCategory": "Autentiseringsapp",
-          "markdownFile": "sv-SE-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -8497,87 +4681,6 @@
       "locale": "zh-Hant",
       "countryName": "繁體中文",
       "guides": [
-        {
-          "id": "zh-Hant-line",
-          "title": "LINE",
-          "serviceCategory": "驗證器 App",
-          "markdownFile": "zh-Hant-line.md",
-          "imageNames": [
-            "icon-line"
-          ]
-        },
-        {
-          "id": "zh-Hant-cathay-united-bank",
-          "title": "國泰世華銀行",
-          "serviceCategory": "銀行安全",
-          "markdownFile": "zh-Hant-cathay-united-bank.md",
-          "imageNames": [
-            "icon-cathay-united-bank"
-          ]
-        },
-        {
-          "id": "zh-Hant-ctbc-bank",
-          "title": "中國信託",
-          "serviceCategory": "銀行安全",
-          "markdownFile": "zh-Hant-ctbc-bank.md",
-          "imageNames": [
-            "icon-ctbc-bank"
-          ]
-        },
-        {
-          "id": "zh-Hant-esun-bank",
-          "title": "玉山銀行",
-          "serviceCategory": "銀行安全",
-          "markdownFile": "zh-Hant-esun-bank.md",
-          "imageNames": [
-            "icon-esun-bank"
-          ]
-        },
-        {
-          "id": "zh-Hant-chunghwa-telecom",
-          "title": "中華電信",
-          "serviceCategory": "帳戶安全",
-          "markdownFile": "zh-Hant-chunghwa-telecom.md",
-          "imageNames": [
-            "icon-chunghwa-telecom"
-          ]
-        },
-        {
-          "id": "zh-Hant-taiwan-mobile",
-          "title": "台灣大哥大",
-          "serviceCategory": "帳戶安全",
-          "markdownFile": "zh-Hant-taiwan-mobile.md",
-          "imageNames": [
-            "icon-taiwan-mobile"
-          ]
-        },
-        {
-          "id": "zh-Hant-momo",
-          "title": "momo",
-          "serviceCategory": "帳戶安全",
-          "markdownFile": "zh-Hant-momo.md",
-          "imageNames": [
-            "icon-momo"
-          ]
-        },
-        {
-          "id": "zh-Hant-pchome",
-          "title": "PChome",
-          "serviceCategory": "帳戶安全",
-          "markdownFile": "zh-Hant-pchome.md",
-          "imageNames": [
-            "icon-pchome"
-          ]
-        },
-        {
-          "id": "zh-Hant-shopee-taiwan",
-          "title": "Shopee Taiwan",
-          "serviceCategory": "帳戶安全",
-          "markdownFile": "zh-Hant-shopee-taiwan.md",
-          "imageNames": [
-            "icon-shopee"
-          ]
-        },
         {
           "id": "zh-Hant-google",
           "title": "Google",
@@ -8651,30 +4754,12 @@
           ]
         },
         {
-          "id": "zh-Hant-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "驗證器 App",
-          "markdownFile": "zh-Hant-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "zh-Hant-discord",
           "title": "Discord",
           "serviceCategory": "驗證器 App",
           "markdownFile": "zh-Hant-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "zh-Hant-steam",
-          "title": "Steam",
-          "serviceCategory": "驗證器 App",
-          "markdownFile": "zh-Hant-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -8692,78 +4777,6 @@
       "locale": "bn-BD",
       "countryName": "বাংলাদেশ",
       "guides": [
-        {
-          "id": "bn-BD-bkash",
-          "title": "bKash",
-          "serviceCategory": "অ্যাকাউন্ট নিরাপত্তা",
-          "markdownFile": "bn-BD-bkash.md",
-          "imageNames": [
-            "icon-bkash"
-          ]
-        },
-        {
-          "id": "bn-BD-nagad",
-          "title": "Nagad",
-          "serviceCategory": "অ্যাকাউন্ট নিরাপত্তা",
-          "markdownFile": "bn-BD-nagad.md",
-          "imageNames": [
-            "icon-nagad"
-          ]
-        },
-        {
-          "id": "bn-BD-dutch-bangla-bank",
-          "title": "Dutch-Bangla Bank",
-          "serviceCategory": "ব্যাংক নিরাপত্তা",
-          "markdownFile": "bn-BD-dutch-bangla-bank.md",
-          "imageNames": [
-            "icon-dutch-bangla-bank"
-          ]
-        },
-        {
-          "id": "bn-BD-brac-bank",
-          "title": "BRAC Bank",
-          "serviceCategory": "ব্যাংক নিরাপত্তা",
-          "markdownFile": "bn-BD-brac-bank.md",
-          "imageNames": [
-            "icon-brac-bank"
-          ]
-        },
-        {
-          "id": "bn-BD-daraz",
-          "title": "Daraz",
-          "serviceCategory": "অ্যাকাউন্ট নিরাপত্তা",
-          "markdownFile": "bn-BD-daraz.md",
-          "imageNames": [
-            "icon-daraz"
-          ]
-        },
-        {
-          "id": "bn-BD-grameenphone",
-          "title": "Grameenphone",
-          "serviceCategory": "অ্যাকাউন্ট নিরাপত্তা",
-          "markdownFile": "bn-BD-grameenphone.md",
-          "imageNames": [
-            "icon-grameenphone"
-          ]
-        },
-        {
-          "id": "bn-BD-robi",
-          "title": "Robi",
-          "serviceCategory": "অ্যাকাউন্ট নিরাপত্তা",
-          "markdownFile": "bn-BD-robi.md",
-          "imageNames": [
-            "icon-robi"
-          ]
-        },
-        {
-          "id": "bn-BD-pathao",
-          "title": "Pathao",
-          "serviceCategory": "অ্যাকাউন্ট নিরাপত্তা",
-          "markdownFile": "bn-BD-pathao.md",
-          "imageNames": [
-            "icon-pathao"
-          ]
-        },
         {
           "id": "bn-BD-google",
           "title": "Google",
@@ -8837,30 +4850,12 @@
           ]
         },
         {
-          "id": "bn-BD-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "অথেনটিকেটর অ্যাপ",
-          "markdownFile": "bn-BD-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "bn-BD-discord",
           "title": "Discord",
           "serviceCategory": "অথেনটিকেটর অ্যাপ",
           "markdownFile": "bn-BD-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "bn-BD-steam",
-          "title": "Steam",
-          "serviceCategory": "অথেনটিকেটর অ্যাপ",
-          "markdownFile": "bn-BD-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {
@@ -8878,78 +4873,6 @@
       "locale": "ur-PK",
       "countryName": "پاکستان",
       "guides": [
-        {
-          "id": "ur-PK-jazzcash",
-          "title": "JazzCash",
-          "serviceCategory": "اکاؤنٹ سکیورٹی",
-          "markdownFile": "ur-PK-jazzcash.md",
-          "imageNames": [
-            "icon-jazzcash"
-          ]
-        },
-        {
-          "id": "ur-PK-easypaisa",
-          "title": "Easypaisa",
-          "serviceCategory": "اکاؤنٹ سکیورٹی",
-          "markdownFile": "ur-PK-easypaisa.md",
-          "imageNames": [
-            "icon-easypaisa"
-          ]
-        },
-        {
-          "id": "ur-PK-hbl",
-          "title": "HBL",
-          "serviceCategory": "بینک سکیورٹی",
-          "markdownFile": "ur-PK-hbl.md",
-          "imageNames": [
-            "icon-hbl"
-          ]
-        },
-        {
-          "id": "ur-PK-meezan-bank",
-          "title": "Meezan Bank",
-          "serviceCategory": "بینک سکیورٹی",
-          "markdownFile": "ur-PK-meezan-bank.md",
-          "imageNames": [
-            "icon-meezan-bank"
-          ]
-        },
-        {
-          "id": "ur-PK-daraz",
-          "title": "Daraz",
-          "serviceCategory": "اکاؤنٹ سکیورٹی",
-          "markdownFile": "ur-PK-daraz.md",
-          "imageNames": [
-            "icon-daraz"
-          ]
-        },
-        {
-          "id": "ur-PK-jazz",
-          "title": "Jazz",
-          "serviceCategory": "اکاؤنٹ سکیورٹی",
-          "markdownFile": "ur-PK-jazz.md",
-          "imageNames": [
-            "icon-jazz"
-          ]
-        },
-        {
-          "id": "ur-PK-zong",
-          "title": "Zong",
-          "serviceCategory": "اکاؤنٹ سکیورٹی",
-          "markdownFile": "ur-PK-zong.md",
-          "imageNames": [
-            "icon-zong"
-          ]
-        },
-        {
-          "id": "ur-PK-ufone",
-          "title": "Ufone",
-          "serviceCategory": "اکاؤنٹ سکیورٹی",
-          "markdownFile": "ur-PK-ufone.md",
-          "imageNames": [
-            "icon-ufone"
-          ]
-        },
         {
           "id": "ur-PK-google",
           "title": "Google",
@@ -9023,30 +4946,12 @@
           ]
         },
         {
-          "id": "ur-PK-whatsapp",
-          "title": "WhatsApp",
-          "serviceCategory": "آثنٹیکیٹر ایپ",
-          "markdownFile": "ur-PK-whatsapp.md",
-          "imageNames": [
-            "icon-whatsapp"
-          ]
-        },
-        {
           "id": "ur-PK-discord",
           "title": "Discord",
           "serviceCategory": "آثنٹیکیٹر ایپ",
           "markdownFile": "ur-PK-discord.md",
           "imageNames": [
             "icon-discord"
-          ]
-        },
-        {
-          "id": "ur-PK-steam",
-          "title": "Steam",
-          "serviceCategory": "آثنٹیکیٹر ایپ",
-          "markdownFile": "ur-PK-steam.md",
-          "imageNames": [
-            "icon-steam"
           ]
         },
         {

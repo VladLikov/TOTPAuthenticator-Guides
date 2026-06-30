@@ -1,25 +1,27 @@
-We could not confirm a current standard TOTP setup for Atlassian. Use this guide only if Atlassian shows an authenticator-app QR code or manual setup key; otherwise use the official protection method offered by the service.
+Atlassian supports setup with an authenticator app for Atlassian accounts. Use these steps for the authenticator-app option when Atlassian shows a QR code or setup key. SMS and other sign-in methods are configured separately.
 
-### 1. Open Atlassian
+Source: https://support.atlassian.com/atlassian-account/docs/manage-two-step-verification-for-your-atlassian-account/
 
-Sign in to the official app or website.
+### 1. Open Atlassian account
+
+Sign in to your Atlassian account in the official app or website.
 
 ### 2. Open account security
 
-Go to Profile, Account, Login, Privacy, or Security settings.
+Go to Security or two-step verification settings.
 
-### 3. Review available protection methods
+### 3. Turn on two-step verification
 
-Enable the method that Atlassian offers: SMS, email, push approval, passkey, hardware token, or the official app.
+Choose the authenticator-app method if Atlassian offers more than one option.
 
-### 4. Look specifically for an authenticator app option
+### 4. Add it to TOTP
 
-Only a screen with a QR code or setup key can be added to TOTP.
+Scan the QR code with TOTP or enter the setup key manually.
 
-### 5. Add to TOTP only if a QR code appears
+### 5. Confirm the setup
 
-Scan the QR code or enter the key, then confirm the 6-digit code in Atlassian.
+Enter the 6-digit code from TOTP back in Atlassian.
 
-### 6. Save recovery options
+### 6. Save recovery codes
 
-Save backup codes or recovery methods if Atlassian provides them.
+Store Atlassian recovery codes in a safe place before leaving the setup screen.

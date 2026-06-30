@@ -1,25 +1,27 @@
-We could not confirm a current standard TOTP setup for GOV.UK One Login. Use this guide only if GOV.UK One Login shows an authenticator-app QR code or manual setup key; otherwise use the official protection method offered by the service.
+GOV.UK One Login supports setup with an authenticator app according to 2fa.directory. Use these steps for the authenticator-app option when GOV.UK shows a QR code or setup key. SMS and other sign-in methods are configured separately.
+
+Source: 2fa.directory entry for gov.uk
 
 ### 1. Open GOV.UK One Login
 
-Sign in to the official app or website.
+Sign in to the official GOV.UK One Login flow.
 
-### 2. Open account security
+### 2. Open sign-in security
 
-Go to Profile, Account, Login, Privacy, or Security settings.
+Go to the account, sign-in, or security settings for your GOV.UK One Login.
 
-### 3. Review available protection methods
+### 3. Choose two-step verification
 
-Enable the method that GOV.UK One Login offers: SMS, email, push approval, passkey, hardware token, or the official app.
+Select the option for two-step verification or an authenticator app.
 
-### 4. Look specifically for an authenticator app option
+### 4. Add it to TOTP
 
-Only a screen with a QR code or setup key can be added to TOTP.
+Scan the QR code with TOTP or enter the setup key manually.
 
-### 5. Add to TOTP only if a QR code appears
+### 5. Confirm the setup
 
-Scan the QR code or enter the key, then confirm the 6-digit code in GOV.UK One Login.
+Enter the 6-digit code from TOTP back in GOV.UK One Login.
 
 ### 6. Save recovery options
 
-Save backup codes or recovery methods if GOV.UK One Login provides them.
+Save any recovery codes or backup sign-in methods before leaving the security screen.
