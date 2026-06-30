@@ -1,29 +1,27 @@
-Santander puede usar distintos métodos de protección de inicio de sesión: app de autenticación, aprobación en la app oficial, SMS, passkeys o confirmación de cuenta. Añade la cuenta a TOTP solo cuando Santander muestre un código QR o una clave manual para una app de autenticación.
+Las fuentes públicas revisadas no confirman una configuración TOTP estándar con app de autenticación para Santander. El servicio puede proteger el inicio de sesión con SMS, correo, passkey, aprobación push, token físico o su app oficial. Añade Santander a TOTP solo si muestra un código QR o una clave de configuración.
+
+Fuente: https://www.santander.pl/klient-indywidualny/kontakt/pytania-i-odpowiedzi-bankowosc-internetowa
 
 ### 1. Abre Santander
 
-Inicia sesión en la app o en el sitio web.
+Inicia sesión en la app o web oficial.
 
-### 2. Abre los ajustes de la cuenta
+### 2. Abre la seguridad de la cuenta
 
-Ve a perfil, ajustes de cuenta, privacidad o seguridad.
+Ve a Perfil, Cuenta, Inicio de sesión, Privacidad o Seguridad.
 
-### 3. Busca la protección de inicio de sesión
+### 3. Revisa los métodos disponibles
 
-Busca autenticación de dos factores, verificación de inicio de sesión, verificación en dos pasos o métodos adicionales de acceso.
+Activa el método de protección que ofrece el servicio.
 
-### 4. Elige app de autenticación
+### 4. Añade a TOTP
 
-Selecciona esta opción si está disponible.
+Escanea el código QR con TOTP o introduce la clave manualmente. Si no hay QR ni clave, no crees una entrada TOTP desde esa pantalla.
 
-### 5. Escanea el código o introduce la clave
-
-Escanea el código QR con TOTP o introduce la clave manual.
-
-### 6. Confirma el código
+### 5. Confirma la configuración
 
 Introduce en Santander el código de 6 dígitos de TOTP.
 
-### 7. Guarda los códigos de recuperación
+### 6. Guarda los códigos de recuperación
 
-Si Santander ofrece códigos de recuperación, guárdalos en un lugar seguro. Si solo hay SMS, aprobación push, passkeys o app oficial, usa ese método por separado.
+Guarda códigos de respaldo o métodos de recuperación en un lugar seguro.

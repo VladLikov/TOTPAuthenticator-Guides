@@ -1,29 +1,25 @@
-Kijiji peut utiliser différentes méthodes de protection de connexion : application d’authentification, approbation dans l’app officielle, SMS, passkeys ou confirmation du compte. Ajoutez le compte dans TOTP seulement si Kijiji affiche un code QR ou une clé manuelle pour une application d’authentification.
+Nous n’avons pas pu confirmer de configuration publique de double authentification pour Kijiji. Vérifiez d’abord les paramètres de sécurité officiels. Ajoutez le service à TOTP uniquement si Kijiji propose une application d’authentification avec un code QR ou une clé.
 
 ### 1. Ouvrez Kijiji
 
-Connectez-vous dans l’application ou sur le site.
+Connectez-vous à l’application ou au site officiel.
 
-### 2. Ouvrez les paramètres du compte
+### 2. Ouvrez la sécurité du compte
 
-Allez dans le profil, les paramètres du compte, la confidentialité ou la sécurité.
+Ouvrez Profil, Compte, Connexion, Confidentialité ou Sécurité.
 
-### 3. Trouvez la protection de connexion
+### 3. Vérifiez les méthodes disponibles
 
-Cherchez l’authentification à deux facteurs, la vérification de connexion, la validation en deux étapes ou les méthodes de connexion supplémentaires.
+Activez la méthode de protection proposée par le service.
 
-### 4. Choisissez l’application d’authentification
+### 4. Ajoutez à TOTP
 
-Sélectionnez cette option si elle est disponible.
+Scannez le code QR avec TOTP ou saisissez la clé manuellement. Sans QR ni clé, ne créez pas d’entrée TOTP.
 
-### 5. Scannez le code ou saisissez la clé
+### 5. Confirmez la configuration
 
-Scannez le code QR avec TOTP ou saisissez la clé manuelle.
+Saisissez dans Kijiji le code à 6 chiffres affiché par TOTP.
 
-### 6. Confirmez le code
+### 6. Enregistrez les codes de secours
 
-Entrez le code à 6 chiffres de TOTP dans Kijiji.
-
-### 7. Enregistrez les codes de récupération
-
-Si Kijiji fournit des codes de récupération, gardez-les en lieu sûr. Si seuls les SMS, l’approbation push, les passkeys ou l’app officielle sont disponibles, utilisez cette méthode séparément.
+Conservez les codes de secours ou méthodes de récupération en lieu sûr.

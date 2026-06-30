@@ -1,29 +1,27 @@
-Revolut può usare diversi metodi di protezione dell’accesso: app di autenticazione, approvazione nell’app ufficiale, SMS, passkey o conferma dell’account. Aggiungi l’account a TOTP solo quando Revolut mostra un codice QR o una chiave manuale per un’app di autenticazione.
+Le fonti pubbliche verificate non confermano una configurazione TOTP standard con app di autenticazione per Revolut. Il servizio può proteggere l’accesso con SMS, email, passkey, conferma push, token hardware o app ufficiale. Aggiungi Revolut a TOTP solo se mostra un codice QR o una chiave.
+
+Fonte: https://www.revolut.com/en-US/help/more/revolut-web-app/accessing-the-retail-web-app
 
 ### 1. Apri Revolut
 
-Accedi nell’app o sul sito web.
+Accedi all’app o al sito ufficiale.
 
-### 2. Apri le impostazioni dell’account
+### 2. Apri la sicurezza dell’account
 
-Vai su profilo, impostazioni account, privacy o sicurezza.
+Apri Profilo, Account, Accesso, Privacy o Sicurezza.
 
-### 3. Trova la protezione dell’accesso
+### 3. Controlla i metodi disponibili
 
-Cerca autenticazione a due fattori, verifica dell’accesso, verifica in due passaggi o metodi di accesso aggiuntivi.
+Attiva il metodo di protezione offerto dal servizio.
 
-### 4. Scegli app di autenticazione
+### 4. Aggiungi a TOTP
 
-Seleziona questa opzione se è disponibile.
+Scansiona il codice QR con TOTP o inserisci la chiave manualmente. Senza QR o chiave non creare una voce TOTP.
 
-### 5. Scansiona il codice o inserisci la chiave
+### 5. Conferma la configurazione
 
-Scansiona il codice QR con TOTP o inserisci la chiave manuale.
+Inserisci in Revolut il codice a 6 cifre mostrato da TOTP.
 
-### 6. Conferma il codice
+### 6. Salva i codici di recupero
 
-Inserisci in Revolut il codice a 6 cifre di TOTP.
-
-### 7. Salva i codici di recupero
-
-Se Revolut fornisce codici di recupero, conservali in modo sicuro. Se sono disponibili solo SMS, approvazione push, passkey o app ufficiale, usa quel metodo separatamente.
+Conserva codici di backup o metodi di recupero in un luogo sicuro.

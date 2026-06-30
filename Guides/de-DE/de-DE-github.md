@@ -1,29 +1,31 @@
-GitHub kann verschiedene Methoden zum Schutz der Anmeldung verwenden: eine Authenticator-App, Bestätigung in der offiziellen App, SMS, Passkeys oder Kontobestätigung. Fügen Sie das Konto nur dann zu TOTP hinzu, wenn GitHub einen QR-Code oder manuellen Schlüssel für eine Authenticator-App anzeigt.
+GitHub unterstützt die Einrichtung mit einer Authenticator-App, wenn der Dienst einen QR-Code oder Einrichtungsschlüssel anzeigt. Diese Schritte gelten für diese Authenticator-App-Option. SMS, Passkeys, Push-Bestätigungen, Hardware-Schlüssel und eigene Apps werden separat eingerichtet.
 
-### 1. Öffnen Sie GitHub
+Quelle: https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
 
-Melden Sie sich in der App oder auf der Website an.
+### 1. GitHub öffnen
 
-### 2. Öffnen Sie die Kontoeinstellungen
+Melden Sie sich in der offiziellen App oder Website an.
 
-Gehen Sie zu Profil, Kontoeinstellungen, Datenschutz oder Sicherheit.
+### 2. Kontosicherheit öffnen
 
-### 3. Suchen Sie den Anmeldeschutz
+Öffnen Sie Profil, Konto, Login, Datenschutz oder Sicherheit.
 
-Suchen Sie nach Zwei-Faktor-Authentifizierung, Anmeldebestätigung, Zwei-Schritt-Verifizierung oder zusätzlichen Anmeldemethoden.
+### 3. Verfügbare Schutzmethoden prüfen
 
-### 4. Wählen Sie Authenticator-App
+Aktivieren Sie die angebotene Schutzmethode für die Anmeldung.
 
-Wählen Sie diese Option, falls sie verfügbar ist.
+### 4. Authenticator-App wählen
 
-### 5. Scannen Sie den Code oder geben Sie den Schlüssel ein
+Wählen Sie die Authenticator-App-Option, falls sie verfügbar ist.
 
-Scannen Sie den QR-Code mit TOTP oder geben Sie den manuellen Schlüssel ein.
+### 5. Zu TOTP hinzufügen
 
-### 6. Bestätigen Sie den Code
+Scannen Sie den QR-Code mit TOTP oder geben Sie den Schlüssel manuell ein. Ohne QR-Code oder Schlüssel keine TOTP-Zeile erstellen.
+
+### 6. Einrichtung bestätigen
 
 Geben Sie den 6-stelligen Code aus TOTP wieder in GitHub ein.
 
-### 7. Speichern Sie Wiederherstellungscodes
+### 7. Wiederherstellungscodes speichern
 
-Wenn GitHub Wiederherstellungscodes anbietet, bewahren Sie sie sicher auf. Wenn nur SMS, Push-Bestätigung, Passkeys oder eine offizielle App verfügbar sind, verwenden Sie diese Methode separat.
+Speichern Sie Backup-Codes oder Wiederherstellungsmethoden sicher.

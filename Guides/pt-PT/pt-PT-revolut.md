@@ -1,29 +1,27 @@
-Revolut pode usar diferentes métodos de proteção de início de sessão: aplicação autenticadora, aprovação na aplicação oficial, SMS, passkeys ou confirmação da conta. Adicione a conta ao TOTP apenas quando Revolut mostrar um código QR ou uma chave manual para uma aplicação autenticadora.
+As fontes públicas verificadas não confirmam uma configuração TOTP padrão com app autenticador para Revolut. O serviço pode proteger o login por SMS, e-mail, passkey, aprovação push, token físico ou app oficial. Adicione Revolut ao TOTP apenas se ele mostrar um código QR ou uma chave de configuração.
+
+Fonte: https://www.revolut.com/en-US/help/more/revolut-web-app/accessing-the-retail-web-app
 
 ### 1. Abra Revolut
 
-Inicie sessão na aplicação ou no site.
+Entre no app ou site oficial.
 
-### 2. Abra as definições da conta
+### 2. Abra a segurança da conta
 
-Aceda ao perfil, às definições da conta, privacidade ou segurança.
+Abra Perfil, Conta, Login, Privacidade ou Segurança.
 
-### 3. Procure a proteção de início de sessão
+### 3. Revise os métodos disponíveis
 
-Procure autenticação de dois fatores, confirmação de início de sessão, verificação em dois passos ou métodos adicionais de acesso.
+Ative o método de proteção oferecido pelo serviço.
 
-### 4. Escolha aplicação autenticadora
+### 4. Adicione ao TOTP
 
-Selecione esta opção se estiver disponível.
+Escaneie o código QR com TOTP ou digite a chave manualmente. Sem QR ou chave, não crie uma entrada TOTP nessa tela.
 
-### 5. Leia o código ou introduza a chave
+### 5. Confirme a configuração
 
-Leia o código QR com o TOTP ou introduza a chave manual.
+Digite em Revolut o código de 6 dígitos mostrado pelo TOTP.
 
-### 6. Confirme o código
+### 6. Salve os códigos de recuperação
 
-Introduza em Revolut o código de 6 dígitos do TOTP.
-
-### 7. Guarde os códigos de recuperação
-
-Se Revolut fornecer códigos de recuperação, guarde-os em segurança. Se apenas SMS, aprovação push, passkeys ou aplicação oficial estiverem disponíveis, use esse método separadamente.
+Guarde códigos de backup ou métodos de recuperação em local seguro.

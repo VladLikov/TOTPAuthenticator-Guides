@@ -1,29 +1,31 @@
-Google peut utiliser différentes méthodes de protection de connexion : application d’authentification, approbation dans l’app officielle, SMS, passkeys ou confirmation du compte. Ajoutez le compte dans TOTP seulement si Google affiche un code QR ou une clé manuelle pour une application d’authentification.
+Google permet une configuration avec une application d’authentification lorsque le service affiche un code QR ou une clé de configuration. Ces étapes concernent cette option. Les SMS, passkeys, validations push, clés matérielles et applications propriétaires se configurent séparément.
+
+Source : https://safety.google/authentication/
 
 ### 1. Ouvrez Google
 
-Connectez-vous dans l’application ou sur le site.
+Connectez-vous à l’application ou au site officiel.
 
-### 2. Ouvrez les paramètres du compte
+### 2. Ouvrez la sécurité du compte
 
-Allez dans le profil, les paramètres du compte, la confidentialité ou la sécurité.
+Ouvrez Profil, Compte, Connexion, Confidentialité ou Sécurité.
 
-### 3. Trouvez la protection de connexion
+### 3. Vérifiez les méthodes disponibles
 
-Cherchez l’authentification à deux facteurs, la vérification de connexion, la validation en deux étapes ou les méthodes de connexion supplémentaires.
+Activez la méthode de protection proposée par le service.
 
 ### 4. Choisissez l’application d’authentification
 
-Sélectionnez cette option si elle est disponible.
+Choisissez l’option application d’authentification si elle existe.
 
-### 5. Scannez le code ou saisissez la clé
+### 5. Ajoutez à TOTP
 
-Scannez le code QR avec TOTP ou saisissez la clé manuelle.
+Scannez le code QR avec TOTP ou saisissez la clé manuellement. Sans QR ni clé, ne créez pas d’entrée TOTP.
 
-### 6. Confirmez le code
+### 6. Confirmez la configuration
 
-Entrez le code à 6 chiffres de TOTP dans Google.
+Saisissez dans Google le code à 6 chiffres affiché par TOTP.
 
-### 7. Enregistrez les codes de récupération
+### 7. Enregistrez les codes de secours
 
-Si Google fournit des codes de récupération, gardez-les en lieu sûr. Si seuls les SMS, l’approbation push, les passkeys ou l’app officielle sont disponibles, utilisez cette méthode séparément.
+Conservez les codes de secours ou méthodes de récupération en lieu sûr.

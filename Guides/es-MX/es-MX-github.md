@@ -1,29 +1,31 @@
-GitHub puede usar distintos métodos de protección de inicio de sesión: app de autenticación, aprobación en la app oficial, SMS, passkeys o confirmación de cuenta. Añade la cuenta a TOTP solo cuando GitHub muestre un código QR o una clave manual para una app de autenticación.
+GitHub permite configurarse con una app de autenticación cuando el servicio muestra un código QR o una clave de configuración. Estos pasos son para esa opción. SMS, passkeys, aprobaciones push, llaves físicas y apps propias se configuran por separado.
+
+Fuente: https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication
 
 ### 1. Abre GitHub
 
-Inicia sesión en la app o en el sitio web.
+Inicia sesión en la app o web oficial.
 
-### 2. Abre los ajustes de la cuenta
+### 2. Abre la seguridad de la cuenta
 
-Ve a perfil, ajustes de cuenta, privacidad o seguridad.
+Ve a Perfil, Cuenta, Inicio de sesión, Privacidad o Seguridad.
 
-### 3. Busca la protección de inicio de sesión
+### 3. Revisa los métodos disponibles
 
-Busca autenticación de dos factores, verificación de inicio de sesión, verificación en dos pasos o métodos adicionales de acceso.
+Activa el método de protección que ofrece el servicio.
 
 ### 4. Elige app de autenticación
 
-Selecciona esta opción si está disponible.
+Elige la opción de app de autenticación si está disponible.
 
-### 5. Escanea el código o introduce la clave
+### 5. Añade a TOTP
 
-Escanea el código QR con TOTP o introduce la clave manual.
+Escanea el código QR con TOTP o introduce la clave manualmente. Si no hay QR ni clave, no crees una entrada TOTP desde esa pantalla.
 
-### 6. Confirma el código
+### 6. Confirma la configuración
 
 Introduce en GitHub el código de 6 dígitos de TOTP.
 
 ### 7. Guarda los códigos de recuperación
 
-Si GitHub ofrece códigos de recuperación, guárdalos en un lugar seguro. Si solo hay SMS, aprobación push, passkeys o app oficial, usa ese método por separado.
+Guarda códigos de respaldo o métodos de recuperación en un lugar seguro.

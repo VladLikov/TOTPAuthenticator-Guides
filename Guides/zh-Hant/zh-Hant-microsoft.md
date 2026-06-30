@@ -1,29 +1,31 @@
-Microsoft Account 可能使用不同的登入保護方式：驗證器 App、官方 App 確認、簡訊、通行密鑰或帳戶確認。只有在 Microsoft Account 顯示驗證器 App 的 QR code 或手動金鑰時，才把帳戶加入 TOTP。
+當 Microsoft Account 顯示 QR Code 或設定金鑰時，可以使用驗證器 App 完成設定。以下步驟只適用於驗證器 App 選項。簡訊、通行密鑰、推播確認、硬體金鑰和專用 App 需另外設定。
+
+來源：https://support.microsoft.com/account-billing/c7910146-672f-01e9-50a0-93b4585e7eb4
 
 ### 1. 開啟 Microsoft Account
 
-在 App 或網站中登入。
+登入官方 App 或網站。
 
-### 2. 開啟帳戶設定
+### 2. 開啟帳號安全
 
-前往個人資料、帳戶設定、隱私或安全性設定。
+進入個人資料、帳號、登入、隱私或安全設定。
 
-### 3. 尋找登入保護
+### 3. 檢查可用保護方式
 
-尋找雙因素驗證、登入確認、兩步驟驗證或其他登入方式。
+啟用服務提供的登入保護方式。
 
 ### 4. 選擇驗證器 App
 
-如果有這個選項，請選擇它。
+如果有驗證器 App 選項，請選擇它。
 
-### 5. 掃描 QR code 或輸入金鑰
+### 5. 加入 TOTP
 
-使用 TOTP 掃描 QR code，或輸入手動金鑰。
+用 TOTP 掃描 QR Code 或手動輸入設定金鑰。若沒有 QR Code 或金鑰，請不要從該畫面建立 TOTP 項目。
 
-### 6. 確認驗證碼
+### 6. 確認設定
 
-把 TOTP 中的 6 位數驗證碼輸入到 Microsoft Account。
+將 TOTP 的 6 位數代碼輸入回 Microsoft Account。
 
-### 7. 保存復原碼
+### 7. 儲存復原代碼
 
-如果 Microsoft Account 提供復原碼，請妥善保存。如果只能使用簡訊、推播確認、通行密鑰或官方 App，請另外使用該方式。
+將備用代碼或復原方式保存在安全位置。

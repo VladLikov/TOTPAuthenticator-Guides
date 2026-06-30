@@ -1,29 +1,31 @@
-Facebook pode usar diferentes métodos de proteção de login: app autenticador, aprovação no app oficial, SMS, passkeys ou confirmação da conta. Adicione a conta ao TOTP somente quando Facebook mostrar um QR code ou uma chave manual para um app autenticador.
+Facebook permite configuração com app autenticador quando o serviço mostra um código QR ou uma chave de configuração. Estes passos são para essa opção. SMS, passkeys, aprovações push, chaves físicas e apps próprios são configurados separadamente.
+
+Fonte: https://www.facebook.com/help/148233965247823
 
 ### 1. Abra Facebook
 
-Entre no app ou no site.
+Entre no app ou site oficial.
 
-### 2. Abra as configurações da conta
+### 2. Abra a segurança da conta
 
-Vá para perfil, configurações da conta, privacidade ou segurança.
+Abra Perfil, Conta, Login, Privacidade ou Segurança.
 
-### 3. Encontre a proteção de login
+### 3. Revise os métodos disponíveis
 
-Procure autenticação de dois fatores, verificação de login, verificação em duas etapas ou métodos adicionais de acesso.
+Ative o método de proteção oferecido pelo serviço.
 
 ### 4. Escolha app autenticador
 
-Selecione essa opção se estiver disponível.
+Escolha a opção de app autenticador, se disponível.
 
-### 5. Escaneie o código ou digite a chave
+### 5. Adicione ao TOTP
 
-Escaneie o QR code com o TOTP ou digite a chave manual.
+Escaneie o código QR com TOTP ou digite a chave manualmente. Sem QR ou chave, não crie uma entrada TOTP nessa tela.
 
-### 6. Confirme o código
+### 6. Confirme a configuração
 
-Digite em Facebook o código de 6 dígitos do TOTP.
+Digite em Facebook o código de 6 dígitos mostrado pelo TOTP.
 
 ### 7. Salve os códigos de recuperação
 
-Se Facebook oferecer códigos de recuperação, guarde-os em segurança. Se houver apenas SMS, aprovação push, passkeys ou app oficial, use esse método separadamente.
+Guarde códigos de backup ou métodos de recuperação em local seguro.

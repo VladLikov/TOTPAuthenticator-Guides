@@ -1,29 +1,27 @@
-Sparkasse kann verschiedene Methoden zum Schutz der Anmeldung verwenden: eine Authenticator-App, Bestätigung in der offiziellen App, SMS, Passkeys oder Kontobestätigung. Fügen Sie das Konto nur dann zu TOTP hinzu, wenn Sparkasse einen QR-Code oder manuellen Schlüssel für eine Authenticator-App anzeigt.
+Die geprüften öffentlichen Quellen bestätigen keine standardmäßige TOTP-Einrichtung per Authenticator-App für Sparkasse. Der Dienst kann den Login per SMS, E-Mail, Passkey, Push-Bestätigung, Hardware-Token oder offizieller App schützen. Fügen Sie Sparkasse nur zu TOTP hinzu, wenn ein QR-Code oder Einrichtungsschlüssel angezeigt wird.
 
-### 1. Öffnen Sie Sparkasse
+Quelle: https://www.sparkasse.de/service/sicherheit-im-internet/tan-verfahren.html
 
-Melden Sie sich in der App oder auf der Website an.
+### 1. Sparkasse öffnen
 
-### 2. Öffnen Sie die Kontoeinstellungen
+Melden Sie sich in der offiziellen App oder Website an.
 
-Gehen Sie zu Profil, Kontoeinstellungen, Datenschutz oder Sicherheit.
+### 2. Kontosicherheit öffnen
 
-### 3. Suchen Sie den Anmeldeschutz
+Öffnen Sie Profil, Konto, Login, Datenschutz oder Sicherheit.
 
-Suchen Sie nach Zwei-Faktor-Authentifizierung, Anmeldebestätigung, Zwei-Schritt-Verifizierung oder zusätzlichen Anmeldemethoden.
+### 3. Verfügbare Schutzmethoden prüfen
 
-### 4. Wählen Sie Authenticator-App
+Aktivieren Sie die angebotene Schutzmethode für die Anmeldung.
 
-Wählen Sie diese Option, falls sie verfügbar ist.
+### 4. Zu TOTP hinzufügen
 
-### 5. Scannen Sie den Code oder geben Sie den Schlüssel ein
+Scannen Sie den QR-Code mit TOTP oder geben Sie den Schlüssel manuell ein. Ohne QR-Code oder Schlüssel keine TOTP-Zeile erstellen.
 
-Scannen Sie den QR-Code mit TOTP oder geben Sie den manuellen Schlüssel ein.
-
-### 6. Bestätigen Sie den Code
+### 5. Einrichtung bestätigen
 
 Geben Sie den 6-stelligen Code aus TOTP wieder in Sparkasse ein.
 
-### 7. Speichern Sie Wiederherstellungscodes
+### 6. Wiederherstellungscodes speichern
 
-Wenn Sparkasse Wiederherstellungscodes anbietet, bewahren Sie sie sicher auf. Wenn nur SMS, Push-Bestätigung, Passkeys oder eine offizielle App verfügbar sind, verwenden Sie diese Methode separat.
+Speichern Sie Backup-Codes oder Wiederherstellungsmethoden sicher.

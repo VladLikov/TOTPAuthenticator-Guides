@@ -1,29 +1,25 @@
-Monzo can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or account confirmation. Add the account to TOTP only when Monzo shows a QR code or manual key for an authenticator app.
+We could not confirm a public two-factor setup for Monzo. Check the official security settings first. Add it to TOTP only if Monzo offers an authenticator app and shows a QR code or setup key.
 
 ### 1. Open Monzo
 
-Go to the app or website and sign in.
+Sign in to the official app or website.
 
-### 2. Open account settings
+### 2. Open account security
 
-Open profile, account settings, privacy, or security settings.
+Go to Profile, Account, Login, Privacy, or Security settings.
 
-### 3. Find sign-in protection
+### 3. Review available protection methods
 
-Look for two-factor authentication, login verification, two-step verification, or additional sign-in methods.
+Enable the method that Monzo offers: SMS, email, push approval, passkey, hardware token, or the official app.
 
-### 4. Choose authenticator app
+### 4. Look specifically for an authenticator app option
 
-Select the authenticator app option if it is available.
+Only a screen with a QR code or setup key can be added to TOTP.
 
-### 5. Scan or enter the key
+### 5. Add to TOTP only if a QR code appears
 
-Scan the QR code with TOTP or enter the manual setup key.
+Scan the QR code or enter the key, then confirm the 6-digit code in Monzo.
 
-### 6. Confirm the code
+### 6. Save recovery options
 
-Enter the 6-digit code from TOTP back in Monzo.
-
-### 7. Save recovery codes
-
-If Monzo offers recovery codes, keep them somewhere safe. If only SMS, push approval, passkeys, or an official app are available, use that method separately.
+Save backup codes or recovery methods if Monzo provides them.

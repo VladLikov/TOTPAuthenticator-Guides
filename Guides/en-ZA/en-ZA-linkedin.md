@@ -1,29 +1,31 @@
-LinkedIn can use different sign-in protection methods: an authenticator app, approval in the official app, SMS, passkeys, or account confirmation. Add the account to TOTP only when LinkedIn shows a QR code or manual key for an authenticator app.
+LinkedIn supports setup with an authenticator app when the service shows a QR code or setup key. Use these steps for the authenticator-app option. SMS, passkeys, push approvals, hardware keys, and proprietary apps are configured separately.
+
+Source: https://www.linkedin.com/help/linkedin/answer/544
 
 ### 1. Open LinkedIn
 
-Go to the app or website and sign in.
+Sign in to the official app or website.
 
-### 2. Open account settings
+### 2. Open account security
 
-Open profile, account settings, privacy, or security settings.
+Go to Profile, Account, Login, Privacy, or Security settings.
 
-### 3. Find sign-in protection
+### 3. Turn on two-factor verification
 
-Look for two-factor authentication, login verification, two-step verification, or additional sign-in methods.
+Choose Two-factor authentication, Two-step verification, Login verification, or a similar option.
 
 ### 4. Choose authenticator app
 
-Select the authenticator app option if it is available.
+Select Authenticator app, Verification app, Security code app, or manual setup.
 
-### 5. Scan or enter the key
+### 5. Add it to TOTP
 
-Scan the QR code with TOTP or enter the manual setup key.
+Scan the QR code with TOTP or enter the setup key manually. If there is no QR code or key, do not create a TOTP entry from this screen.
 
-### 6. Confirm the code
+### 6. Confirm the setup
 
 Enter the 6-digit code from TOTP back in LinkedIn.
 
 ### 7. Save recovery codes
 
-If LinkedIn offers recovery codes, keep them somewhere safe. If only SMS, push approval, passkeys, or an official app are available, use that method separately.
+Store backup codes in a safe place before leaving the security screen.

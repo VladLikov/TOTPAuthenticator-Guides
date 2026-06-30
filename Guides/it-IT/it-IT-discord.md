@@ -1,29 +1,31 @@
-Discord può usare diversi metodi di protezione dell’accesso: app di autenticazione, approvazione nell’app ufficiale, SMS, passkey o conferma dell’account. Aggiungi l’account a TOTP solo quando Discord mostra un codice QR o una chiave manuale per un’app di autenticazione.
+Discord supporta la configurazione con un’app di autenticazione quando mostra un codice QR o una chiave di configurazione. Questi passaggi valgono per quell’opzione. SMS, passkey, conferme push, chiavi hardware e app proprietarie si configurano separatamente.
+
+Fonte: https://support.discord.com/hc/en-us/articles/219576828
 
 ### 1. Apri Discord
 
-Accedi nell’app o sul sito web.
+Accedi all’app o al sito ufficiale.
 
-### 2. Apri le impostazioni dell’account
+### 2. Apri la sicurezza dell’account
 
-Vai su profilo, impostazioni account, privacy o sicurezza.
+Apri Profilo, Account, Accesso, Privacy o Sicurezza.
 
-### 3. Trova la protezione dell’accesso
+### 3. Controlla i metodi disponibili
 
-Cerca autenticazione a due fattori, verifica dell’accesso, verifica in due passaggi o metodi di accesso aggiuntivi.
+Attiva il metodo di protezione offerto dal servizio.
 
 ### 4. Scegli app di autenticazione
 
-Seleziona questa opzione se è disponibile.
+Scegli l’opzione app di autenticazione se disponibile.
 
-### 5. Scansiona il codice o inserisci la chiave
+### 5. Aggiungi a TOTP
 
-Scansiona il codice QR con TOTP o inserisci la chiave manuale.
+Scansiona il codice QR con TOTP o inserisci la chiave manualmente. Senza QR o chiave non creare una voce TOTP.
 
-### 6. Conferma il codice
+### 6. Conferma la configurazione
 
-Inserisci in Discord il codice a 6 cifre di TOTP.
+Inserisci in Discord il codice a 6 cifre mostrato da TOTP.
 
 ### 7. Salva i codici di recupero
 
-Se Discord fornisce codici di recupero, conservali in modo sicuro. Se sono disponibili solo SMS, approvazione push, passkey o app ufficiale, usa quel metodo separatamente.
+Conserva codici di backup o metodi di recupero in un luogo sicuro.
