@@ -368,12 +368,12 @@
       "countryName": "Deutschland",
       "guides": [
         {
-          "id": "de-DE-buhl",
-          "title": "Buhl",
+          "id": "de-DE-bundesagentur-fuer-arbeit",
+          "title": "Bundesagentur für Arbeit",
           "serviceCategory": "Authenticator-App",
-          "markdownFile": "de-DE-buhl.md",
+          "markdownFile": "de-DE-bundesagentur-fuer-arbeit.md",
           "imageNames": [
-            "icon-buhl"
+            "icon-bundesagentur-fuer-arbeit"
           ]
         },
         {
@@ -383,6 +383,24 @@
           "markdownFile": "de-DE-datev.md",
           "imageNames": [
             "icon-datev"
+          ]
+        },
+        {
+          "id": "de-DE-nextcloud",
+          "title": "Nextcloud",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-nextcloud.md",
+          "imageNames": [
+            "icon-nextcloud"
+          ]
+        },
+        {
+          "id": "de-DE-buhl",
+          "title": "Buhl",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-buhl.md",
+          "imageNames": [
+            "icon-buhl"
           ]
         },
         {
@@ -712,6 +730,24 @@
       "locale": "fr-FR",
       "countryName": "France",
       "guides": [
+        {
+          "id": "fr-FR-monidenum",
+          "title": "MonIdenum",
+          "serviceCategory": "Application d’authentification",
+          "markdownFile": "fr-FR-monidenum.md",
+          "imageNames": [
+            "icon-monidenum"
+          ]
+        },
+        {
+          "id": "fr-FR-parcoursup",
+          "title": "Parcoursup",
+          "serviceCategory": "Application d’authentification",
+          "markdownFile": "fr-FR-parcoursup.md",
+          "imageNames": [
+            "icon-parcoursup"
+          ]
+        },
         {
           "id": "fr-FR-gocardless",
           "title": "GoCardless",
