@@ -200,6 +200,24 @@
       "countryName": "United States",
       "guides": [
         {
+          "id": "en-US-ny-gov-id",
+          "title": "NY.gov ID",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-ny-gov-id.md",
+          "imageNames": [
+            "icon-ny-gov-id"
+          ]
+        },
+        {
+          "id": "en-US-va-gov",
+          "title": "VA.gov",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-va-gov.md",
+          "imageNames": [
+            "icon-va-gov"
+          ]
+        },
+        {
           "id": "en-US-federal-student-aid",
           "title": "Federal Student Aid",
           "serviceCategory": "Authenticator app",
@@ -367,6 +385,42 @@
       "locale": "de-DE",
       "countryName": "Deutschland",
       "guides": [
+        {
+          "id": "de-DE-immobilienscout24",
+          "title": "ImmobilienScout24",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-immobilienscout24.md",
+          "imageNames": [
+            "icon-immobilienscout24"
+          ]
+        },
+        {
+          "id": "de-DE-strato",
+          "title": "STRATO",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-strato.md",
+          "imageNames": [
+            "icon-strato"
+          ]
+        },
+        {
+          "id": "de-DE-posteo",
+          "title": "Posteo",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-posteo.md",
+          "imageNames": [
+            "icon-posteo"
+          ]
+        },
+        {
+          "id": "de-DE-fragdenstaat",
+          "title": "FragDenStaat",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-fragdenstaat.md",
+          "imageNames": [
+            "icon-fragdenstaat"
+          ]
+        },
         {
           "id": "de-DE-bundesagentur-fuer-arbeit",
           "title": "Bundesagentur für Arbeit",
@@ -731,6 +785,15 @@
       "countryName": "France",
       "guides": [
         {
+          "id": "fr-FR-bourse-direct",
+          "title": "Bourse Direct",
+          "serviceCategory": "Application d'authentification",
+          "markdownFile": "fr-FR-bourse-direct.md",
+          "imageNames": [
+            "icon-bourse-direct"
+          ]
+        },
+        {
           "id": "fr-FR-monidenum",
           "title": "MonIdenum",
           "serviceCategory": "Application d’authentification",
@@ -1064,6 +1127,24 @@
       "countryName": "Nederland",
       "guides": [
         {
+          "id": "nl-NL-degiro",
+          "title": "DEGIRO",
+          "serviceCategory": "Authenticator-app",
+          "markdownFile": "nl-NL-degiro.md",
+          "imageNames": [
+            "icon-degiro"
+          ]
+        },
+        {
+          "id": "nl-NL-university-of-groningen",
+          "title": "University of Groningen",
+          "serviceCategory": "Authenticator-app",
+          "markdownFile": "nl-NL-university-of-groningen.md",
+          "imageNames": [
+            "icon-university-of-groningen"
+          ]
+        },
+        {
           "id": "nl-NL-independer",
           "title": "Independer",
           "serviceCategory": "Authenticator-app",
@@ -1195,6 +1276,15 @@
       "locale": "pl-PL",
       "countryName": "Polska",
       "guides": [
+        {
+          "id": "pl-PL-automater",
+          "title": "Automater",
+          "serviceCategory": "Aplikacja uwierzytelniająca",
+          "markdownFile": "pl-PL-automater.md",
+          "imageNames": [
+            "icon-automater"
+          ]
+        },
         {
           "id": "pl-PL-onet",
           "title": "Onet",
@@ -1775,6 +1865,15 @@
       "countryName": "日本",
       "guides": [
         {
+          "id": "ja-JP-niconico",
+          "title": "Niconico",
+          "serviceCategory": "認証アプリ",
+          "markdownFile": "ja-JP-niconico.md",
+          "imageNames": [
+            "icon-niconico"
+          ]
+        },
+        {
           "id": "ja-JP-freee",
           "title": "freee",
           "serviceCategory": "アカウント保護",
@@ -2065,6 +2164,24 @@
       "locale": "en-AU",
       "countryName": "Australia",
       "guides": [
+        {
+          "id": "en-AU-university-of-queensland",
+          "title": "The University of Queensland",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-AU-university-of-queensland.md",
+          "imageNames": [
+            "icon-university-of-queensland"
+          ]
+        },
+        {
+          "id": "en-AU-rmit-university",
+          "title": "RMIT University",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-AU-rmit-university.md",
+          "imageNames": [
+            "icon-rmit-university"
+          ]
+        },
         {
           "id": "en-AU-service-nsw",
           "title": "Service NSW",
@@ -2575,6 +2692,15 @@
       "locale": "uk-UA",
       "countryName": "Україна",
       "guides": [
+        {
+          "id": "uk-UA-hosting-ukraine",
+          "title": "Hosting Ukraine",
+          "serviceCategory": "Застосунок-автентифікатор",
+          "markdownFile": "uk-UA-hosting-ukraine.md",
+          "imageNames": [
+            "icon-hosting-ukraine"
+          ]
+        },
         {
           "id": "uk-UA-google",
           "title": "Google",
@@ -3100,6 +3226,24 @@
       "locale": "zh-CN",
       "countryName": "中国",
       "guides": [
+        {
+          "id": "zh-CN-alibaba-cloud",
+          "title": "Alibaba Cloud",
+          "serviceCategory": "身份验证器应用",
+          "markdownFile": "zh-CN-alibaba-cloud.md",
+          "imageNames": [
+            "icon-alibaba-cloud"
+          ]
+        },
+        {
+          "id": "zh-CN-huawei-cloud",
+          "title": "Huawei Cloud",
+          "serviceCategory": "身份验证器应用",
+          "markdownFile": "zh-CN-huawei-cloud.md",
+          "imageNames": [
+            "icon-huawei-cloud"
+          ]
+        },
         {
           "id": "zh-CN-netease-mail",
           "title": "NetEase Mail",
@@ -3785,6 +3929,24 @@
       "countryName": "Canada",
       "guides": [
         {
+          "id": "en-CA-sfu",
+          "title": "Simon Fraser University",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-CA-sfu.md",
+          "imageNames": [
+            "icon-sfu"
+          ]
+        },
+        {
+          "id": "en-CA-web-hosting-canada",
+          "title": "Web Hosting Canada",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-CA-web-hosting-canada.md",
+          "imageNames": [
+            "icon-web-hosting-canada"
+          ]
+        },
+        {
           "id": "en-CA-canada-revenue-agency",
           "title": "Canada Revenue Agency",
           "serviceCategory": "Account security",
@@ -3970,6 +4132,24 @@
       "locale": "fr-CA",
       "countryName": "Canada",
       "guides": [
+        {
+          "id": "fr-CA-sfu",
+          "title": "Simon Fraser University",
+          "serviceCategory": "Application d'authentification",
+          "markdownFile": "fr-CA-sfu.md",
+          "imageNames": [
+            "icon-sfu"
+          ]
+        },
+        {
+          "id": "fr-CA-web-hosting-canada",
+          "title": "Web Hosting Canada",
+          "serviceCategory": "Application d'authentification",
+          "markdownFile": "fr-CA-web-hosting-canada.md",
+          "imageNames": [
+            "icon-web-hosting-canada"
+          ]
+        },
         {
           "id": "fr-CA-canada-revenue-agency",
           "title": "Canada Revenue Agency",
@@ -4261,6 +4441,15 @@
       "locale": "cs-CZ",
       "countryName": "Česko",
       "guides": [
+        {
+          "id": "cs-CZ-masaryk-university",
+          "title": "Masaryk University",
+          "serviceCategory": "Autentizační aplikace",
+          "markdownFile": "cs-CZ-masaryk-university.md",
+          "imageNames": [
+            "icon-masaryk-university"
+          ]
+        },
         {
           "id": "cs-CZ-fakturoid",
           "title": "Fakturoid",
@@ -5005,6 +5194,15 @@
       "locale": "nb-NO",
       "countryName": "Norge",
       "guides": [
+        {
+          "id": "nb-NO-domeneshop",
+          "title": "Domeneshop",
+          "serviceCategory": "Autentiseringsapp",
+          "markdownFile": "nb-NO-domeneshop.md",
+          "imageNames": [
+            "icon-domeneshop"
+          ]
+        },
         {
           "id": "nb-NO-finn-no",
           "title": "Finn.no",
