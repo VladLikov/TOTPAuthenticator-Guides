@@ -5,6 +5,60 @@
       "countryName": "Россия",
       "guides": [
         {
+          "id": "ru-mos-ru",
+          "title": "Mos.ru",
+          "serviceCategory": "Подтверждение входа",
+          "markdownFile": "ru-mos-ru.md",
+          "imageNames": [
+            "icon-mos-ru"
+          ]
+        },
+        {
+          "id": "ru-gosuslugi",
+          "title": "Госуслуги (Gosuslugi)",
+          "serviceCategory": "Подтверждение входа",
+          "markdownFile": "ru-gosuslugi.md",
+          "imageNames": [
+            "icon-gosuslugi"
+          ]
+        },
+        {
+          "id": "ru-russian-post",
+          "title": "Russian Post (Почта России)",
+          "serviceCategory": "Подтверждение входа",
+          "markdownFile": "ru-russian-post.md",
+          "imageNames": [
+            "icon-russian-post"
+          ]
+        },
+        {
+          "id": "ru-beget",
+          "title": "Beget",
+          "serviceCategory": "Подтверждение входа",
+          "markdownFile": "ru-beget.md",
+          "imageNames": [
+            "icon-beget"
+          ]
+        },
+        {
+          "id": "ru-ru-center",
+          "title": "RU-CENTER",
+          "serviceCategory": "Подтверждение входа",
+          "markdownFile": "ru-ru-center.md",
+          "imageNames": [
+            "icon-ru-center"
+          ]
+        },
+        {
+          "id": "ru-pachca",
+          "title": "Пачка",
+          "serviceCategory": "Подтверждение входа",
+          "markdownFile": "ru-pachca.md",
+          "imageNames": [
+            "icon-pachca"
+          ]
+        },
+        {
           "id": "ru-vk-id",
           "title": "VK ID",
           "serviceCategory": "Подтверждение входа",
@@ -146,6 +200,51 @@
       "countryName": "United States",
       "guides": [
         {
+          "id": "en-US-federal-student-aid",
+          "title": "Federal Student Aid",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-federal-student-aid.md",
+          "imageNames": [
+            "icon-federal-student-aid"
+          ]
+        },
+        {
+          "id": "en-US-login-gov",
+          "title": "Login.gov",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-login-gov.md",
+          "imageNames": [
+            "icon-login-gov"
+          ]
+        },
+        {
+          "id": "en-US-pennsylvania-dept-of-revenue-mypath",
+          "title": "Pennsylvania Dept of Revenue myPATH",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-pennsylvania-dept-of-revenue-mypath.md",
+          "imageNames": [
+            "icon-pennsylvania-dept-of-revenue-mypath"
+          ]
+        },
+        {
+          "id": "en-US-us-citizenship-and-immigration-services",
+          "title": "US Citizenship and Immigration Services",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-us-citizenship-and-immigration-services.md",
+          "imageNames": [
+            "icon-us-citizenship-and-immigration-services"
+          ]
+        },
+        {
+          "id": "en-US-us-patent-and-trademark-office",
+          "title": "US Patent and Trademark Office",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-US-us-patent-and-trademark-office.md",
+          "imageNames": [
+            "icon-us-patent-and-trademark-office"
+          ]
+        },
+        {
           "id": "us-coinbase",
           "title": "Coinbase",
           "serviceCategory": "Authenticator app",
@@ -269,6 +368,69 @@
       "countryName": "Deutschland",
       "guides": [
         {
+          "id": "de-DE-buhl",
+          "title": "Buhl",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-buhl.md",
+          "imageNames": [
+            "icon-buhl"
+          ]
+        },
+        {
+          "id": "de-DE-datev",
+          "title": "DATEV",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-datev.md",
+          "imageNames": [
+            "icon-datev"
+          ]
+        },
+        {
+          "id": "de-DE-lexoffice",
+          "title": "lexoffice",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-lexoffice.md",
+          "imageNames": [
+            "icon-lexoffice"
+          ]
+        },
+        {
+          "id": "de-DE-accountable",
+          "title": "Accountable",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-accountable.md",
+          "imageNames": [
+            "icon-accountable"
+          ]
+        },
+        {
+          "id": "de-DE-bitcoin-de",
+          "title": "Bitcoin.de",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-bitcoin-de.md",
+          "imageNames": [
+            "icon-bitcoin-de"
+          ]
+        },
+        {
+          "id": "de-DE-t-online",
+          "title": "T-Online",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-t-online.md",
+          "imageNames": [
+            "icon-t-online"
+          ]
+        },
+        {
+          "id": "de-DE-web-de",
+          "title": "Web.de",
+          "serviceCategory": "Authenticator-App",
+          "markdownFile": "de-DE-web-de.md",
+          "imageNames": [
+            "icon-web-de"
+          ]
+        },
+        {
           "id": "de-DE-google",
           "title": "Google",
           "serviceCategory": "Authenticator-App",
@@ -364,6 +526,78 @@
       "locale": "en-GB",
       "countryName": "United Kingdom",
       "guides": [
+        {
+          "id": "en-GB-hmrc",
+          "title": "HMRC",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-hmrc.md",
+          "imageNames": [
+            "icon-hmrc"
+          ]
+        },
+        {
+          "id": "en-GB-epayslips",
+          "title": "Epayslips",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-epayslips.md",
+          "imageNames": [
+            "icon-epayslips"
+          ]
+        },
+        {
+          "id": "en-GB-quickfile",
+          "title": "QuickFile",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-quickfile.md",
+          "imageNames": [
+            "icon-quickfile"
+          ]
+        },
+        {
+          "id": "en-GB-clearscore",
+          "title": "ClearScore",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-clearscore.md",
+          "imageNames": [
+            "icon-clearscore"
+          ]
+        },
+        {
+          "id": "en-GB-aj-bell-youinvest",
+          "title": "AJ Bell Youinvest",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-aj-bell-youinvest.md",
+          "imageNames": [
+            "icon-aj-bell-youinvest"
+          ]
+        },
+        {
+          "id": "en-GB-nutmeg",
+          "title": "Nutmeg",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-nutmeg.md",
+          "imageNames": [
+            "icon-nutmeg"
+          ]
+        },
+        {
+          "id": "en-GB-wealthify",
+          "title": "Wealthify",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-wealthify.md",
+          "imageNames": [
+            "icon-wealthify"
+          ]
+        },
+        {
+          "id": "en-GB-cash-app",
+          "title": "Cash App",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-GB-cash-app.md",
+          "imageNames": [
+            "icon-cash-app"
+          ]
+        },
         {
           "id": "uk-govuk",
           "title": "GOV.UK One Login",
@@ -478,6 +712,15 @@
       "locale": "fr-FR",
       "countryName": "France",
       "guides": [
+        {
+          "id": "fr-FR-gocardless",
+          "title": "GoCardless",
+          "serviceCategory": "Application d’authentification",
+          "markdownFile": "fr-FR-gocardless.md",
+          "imageNames": [
+            "icon-gocardless"
+          ]
+        },
         {
           "id": "fr-FR-google",
           "title": "Google",
@@ -663,6 +906,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "es-ES-slack",
+          "title": "Slack",
+          "serviceCategory": "Aplicación autenticadora",
+          "markdownFile": "es-ES-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -759,6 +1011,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "it-IT-slack",
+          "title": "Slack",
+          "serviceCategory": "App di autenticazione",
+          "markdownFile": "it-IT-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -766,6 +1027,42 @@
       "locale": "nl-NL",
       "countryName": "Nederland",
       "guides": [
+        {
+          "id": "nl-NL-independer",
+          "title": "Independer",
+          "serviceCategory": "Authenticator-app",
+          "markdownFile": "nl-NL-independer.md",
+          "imageNames": [
+            "icon-independer"
+          ]
+        },
+        {
+          "id": "nl-NL-moneybird",
+          "title": "Moneybird",
+          "serviceCategory": "Authenticator-app",
+          "markdownFile": "nl-NL-moneybird.md",
+          "imageNames": [
+            "icon-moneybird"
+          ]
+        },
+        {
+          "id": "nl-NL-transip",
+          "title": "TransIP",
+          "serviceCategory": "Authenticator-app",
+          "markdownFile": "nl-NL-transip.md",
+          "imageNames": [
+            "icon-transip"
+          ]
+        },
+        {
+          "id": "nl-NL-versio",
+          "title": "Versio",
+          "serviceCategory": "Authenticator-app",
+          "markdownFile": "nl-NL-versio.md",
+          "imageNames": [
+            "icon-versio"
+          ]
+        },
         {
           "id": "nl-NL-google",
           "title": "Google",
@@ -862,6 +1159,24 @@
       "locale": "pl-PL",
       "countryName": "Polska",
       "guides": [
+        {
+          "id": "pl-PL-onet",
+          "title": "Onet",
+          "serviceCategory": "Bezpieczeństwo konta",
+          "markdownFile": "pl-PL-onet.md",
+          "imageNames": [
+            "icon-onet"
+          ]
+        },
+        {
+          "id": "pl-PL-toya",
+          "title": "Toya",
+          "serviceCategory": "Bezpieczeństwo konta",
+          "markdownFile": "pl-PL-toya.md",
+          "imageNames": [
+            "icon-toya"
+          ]
+        },
         {
           "id": "pl-allegro",
           "title": "Allegro",
@@ -968,6 +1283,24 @@
       "countryName": "Brasil",
       "guides": [
         {
+          "id": "pt-BR-mercado-bitcoin",
+          "title": "Mercado Bitcoin",
+          "serviceCategory": "Segurança da conta",
+          "markdownFile": "pt-BR-mercado-bitcoin.md",
+          "imageNames": [
+            "icon-mercado-bitcoin"
+          ]
+        },
+        {
+          "id": "pt-BR-registro-br",
+          "title": "Registro.br",
+          "serviceCategory": "Segurança da conta",
+          "markdownFile": "pt-BR-registro-br.md",
+          "imageNames": [
+            "icon-registro-br"
+          ]
+        },
+        {
           "id": "br-mercado-livre",
           "title": "Mercado Livre",
           "serviceCategory": "Segurança da conta",
@@ -1072,6 +1405,24 @@
       "locale": "tr",
       "countryName": "Türkiye",
       "guides": [
+        {
+          "id": "tr-btcturk",
+          "title": "BtcTurk",
+          "serviceCategory": "Kimlik doğrulama uygulaması",
+          "markdownFile": "tr-btcturk.md",
+          "imageNames": [
+            "icon-btcturk"
+          ]
+        },
+        {
+          "id": "tr-paribu",
+          "title": "Paribu",
+          "serviceCategory": "Kimlik doğrulama uygulaması",
+          "markdownFile": "tr-paribu.md",
+          "imageNames": [
+            "icon-paribu"
+          ]
+        },
         {
           "id": "tr-google",
           "title": "Google",
@@ -1257,6 +1608,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "ar-AE-slack",
+          "title": "Slack",
+          "serviceCategory": "تطبيق مصادقة",
+          "markdownFile": "ar-AE-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -1264,6 +1624,15 @@
       "locale": "en-IN",
       "countryName": "India",
       "guides": [
+        {
+          "id": "en-IN-coindcx",
+          "title": "CoinDCX",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-IN-coindcx.md",
+          "imageNames": [
+            "icon-coindcx"
+          ]
+        },
         {
           "id": "in-zerodha",
           "title": "Zerodha",
@@ -1369,6 +1738,51 @@
       "locale": "ja-JP",
       "countryName": "日本",
       "guides": [
+        {
+          "id": "ja-JP-freee",
+          "title": "freee",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-freee.md",
+          "imageNames": [
+            "icon-freee"
+          ]
+        },
+        {
+          "id": "ja-JP-monex",
+          "title": "Monex",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-monex.md",
+          "imageNames": [
+            "icon-monex"
+          ]
+        },
+        {
+          "id": "ja-JP-btc-box",
+          "title": "BTC BOX",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-btc-box.md",
+          "imageNames": [
+            "icon-btc-box"
+          ]
+        },
+        {
+          "id": "ja-JP-coincheck",
+          "title": "Coincheck",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-coincheck.md",
+          "imageNames": [
+            "icon-coincheck"
+          ]
+        },
+        {
+          "id": "ja-JP-hatena",
+          "title": "Hatena",
+          "serviceCategory": "アカウント保護",
+          "markdownFile": "ja-JP-hatena.md",
+          "imageNames": [
+            "icon-hatena"
+          ]
+        },
         {
           "id": "jp-dmm",
           "title": "DMM",
@@ -1484,6 +1898,42 @@
       "countryName": "대한민국",
       "guides": [
         {
+          "id": "ko-KR-bithumb",
+          "title": "Bithumb",
+          "serviceCategory": "인증 앱",
+          "markdownFile": "ko-KR-bithumb.md",
+          "imageNames": [
+            "icon-bithumb"
+          ]
+        },
+        {
+          "id": "ko-KR-coinone",
+          "title": "CoinOne",
+          "serviceCategory": "인증 앱",
+          "markdownFile": "ko-KR-coinone.md",
+          "imageNames": [
+            "icon-coinone"
+          ]
+        },
+        {
+          "id": "ko-KR-korbit",
+          "title": "Korbit",
+          "serviceCategory": "인증 앱",
+          "markdownFile": "ko-KR-korbit.md",
+          "imageNames": [
+            "icon-korbit"
+          ]
+        },
+        {
+          "id": "ko-KR-postype",
+          "title": "Postype",
+          "serviceCategory": "인증 앱",
+          "markdownFile": "ko-KR-postype.md",
+          "imageNames": [
+            "icon-postype"
+          ]
+        },
+        {
           "id": "ko-KR-google",
           "title": "Google",
           "serviceCategory": "인증 앱",
@@ -1579,6 +2029,78 @@
       "locale": "en-AU",
       "countryName": "Australia",
       "guides": [
+        {
+          "id": "en-AU-service-nsw",
+          "title": "Service NSW",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-service-nsw.md",
+          "imageNames": [
+            "icon-service-nsw"
+          ]
+        },
+        {
+          "id": "en-AU-service-victoria",
+          "title": "Service Victoria",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-service-victoria.md",
+          "imageNames": [
+            "icon-service-victoria"
+          ]
+        },
+        {
+          "id": "en-AU-vicroads",
+          "title": "VicRoads",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-vicroads.md",
+          "imageNames": [
+            "icon-vicroads"
+          ]
+        },
+        {
+          "id": "en-AU-myob",
+          "title": "MYOB",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-myob.md",
+          "imageNames": [
+            "icon-myob"
+          ]
+        },
+        {
+          "id": "en-AU-clearscore",
+          "title": "ClearScore",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-clearscore.md",
+          "imageNames": [
+            "icon-clearscore"
+          ]
+        },
+        {
+          "id": "en-AU-selfwealth",
+          "title": "SelfWealth",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-selfwealth.md",
+          "imageNames": [
+            "icon-selfwealth"
+          ]
+        },
+        {
+          "id": "en-AU-btc-markets",
+          "title": "BTC Markets",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-btc-markets.md",
+          "imageNames": [
+            "icon-btc-markets"
+          ]
+        },
+        {
+          "id": "en-AU-coinspot",
+          "title": "CoinSpot",
+          "serviceCategory": "Government ID",
+          "markdownFile": "en-AU-coinspot.md",
+          "imageNames": [
+            "icon-coinspot"
+          ]
+        },
         {
           "id": "au-mygov",
           "title": "myGov",
@@ -2001,6 +2523,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "kk-KZ-slack",
+          "title": "Slack",
+          "serviceCategory": "Аутентификатор қолданбасы",
+          "markdownFile": "kk-KZ-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -2096,6 +2627,15 @@
           "markdownFile": "uk-UA-linkedin.md",
           "imageNames": [
             "icon-linkedin"
+          ]
+        },
+        {
+          "id": "uk-UA-slack",
+          "title": "Slack",
+          "serviceCategory": "Програма-аутентифікатор",
+          "markdownFile": "uk-UA-slack.md",
+          "imageNames": [
+            "icon-slack"
           ]
         }
       ]
@@ -2193,6 +2733,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "be-BY-slack",
+          "title": "Slack",
+          "serviceCategory": "Праграма аўтэнтыфікацыі",
+          "markdownFile": "be-BY-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -2288,6 +2837,15 @@
           "markdownFile": "vi-VN-linkedin.md",
           "imageNames": [
             "icon-linkedin"
+          ]
+        },
+        {
+          "id": "vi-VN-slack",
+          "title": "Slack",
+          "serviceCategory": "Ứng dụng xác thực",
+          "markdownFile": "vi-VN-slack.md",
+          "imageNames": [
+            "icon-slack"
           ]
         }
       ]
@@ -2385,6 +2943,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "th-TH-slack",
+          "title": "Slack",
+          "serviceCategory": "แอปยืนยันตัวตน",
+          "markdownFile": "th-TH-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -2481,6 +3048,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "ms-MY-slack",
+          "title": "Slack",
+          "serviceCategory": "Aplikasi pengesah",
+          "markdownFile": "ms-MY-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -2488,6 +3064,33 @@
       "locale": "zh-CN",
       "countryName": "中国",
       "guides": [
+        {
+          "id": "zh-CN-netease-mail",
+          "title": "NetEase Mail",
+          "serviceCategory": "驗證器 App",
+          "markdownFile": "zh-CN-netease-mail.md",
+          "imageNames": [
+            "icon-netease-mail"
+          ]
+        },
+        {
+          "id": "zh-CN-baidu-ai-cloud",
+          "title": "Baidu AI cloud",
+          "serviceCategory": "驗證器 App",
+          "markdownFile": "zh-CN-baidu-ai-cloud.md",
+          "imageNames": [
+            "icon-baidu-ai-cloud"
+          ]
+        },
+        {
+          "id": "zh-CN-nutstore",
+          "title": "Nutstore",
+          "serviceCategory": "驗證器 App",
+          "markdownFile": "zh-CN-nutstore.md",
+          "imageNames": [
+            "icon-nutstore"
+          ]
+        },
         {
           "id": "zh-CN-google",
           "title": "Google",
@@ -2585,6 +3188,15 @@
       "countryName": "Nigeria",
       "guides": [
         {
+          "id": "en-NG-nairaex",
+          "title": "NairaEx",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-NG-nairaex.md",
+          "imageNames": [
+            "icon-nairaex"
+          ]
+        },
+        {
           "id": "en-NG-google",
           "title": "Google",
           "serviceCategory": "Authenticator app",
@@ -2680,6 +3292,15 @@
       "locale": "en-ZA",
       "countryName": "South Africa",
       "guides": [
+        {
+          "id": "en-ZA-clearscore",
+          "title": "ClearScore",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-ZA-clearscore.md",
+          "imageNames": [
+            "icon-clearscore"
+          ]
+        },
         {
           "id": "en-ZA-google",
           "title": "Google",
@@ -2865,6 +3486,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "ar-SA-slack",
+          "title": "Slack",
+          "serviceCategory": "تطبيق مصادقة",
+          "markdownFile": "ar-SA-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -2872,6 +3502,15 @@
       "locale": "en-SG",
       "countryName": "Singapore",
       "guides": [
+        {
+          "id": "en-SG-coinut",
+          "title": "Coinut",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-SG-coinut.md",
+          "imageNames": [
+            "icon-coinut"
+          ]
+        },
         {
           "id": "en-SG-google",
           "title": "Google",
@@ -2968,6 +3607,42 @@
       "locale": "en-NZ",
       "countryName": "New Zealand",
       "guides": [
+        {
+          "id": "en-NZ-realme",
+          "title": "RealMe",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-NZ-realme.md",
+          "imageNames": [
+            "icon-realme"
+          ]
+        },
+        {
+          "id": "en-NZ-myob",
+          "title": "MYOB",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-NZ-myob.md",
+          "imageNames": [
+            "icon-myob"
+          ]
+        },
+        {
+          "id": "en-NZ-hatch",
+          "title": "Hatch",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-NZ-hatch.md",
+          "imageNames": [
+            "icon-hatch"
+          ]
+        },
+        {
+          "id": "en-NZ-the-iconic",
+          "title": "The Iconic",
+          "serviceCategory": "Authenticator app",
+          "markdownFile": "en-NZ-the-iconic.md",
+          "imageNames": [
+            "icon-the-iconic"
+          ]
+        },
         {
           "id": "nz-xero",
           "title": "Xero",
@@ -3073,6 +3748,78 @@
       "locale": "en-CA",
       "countryName": "Canada",
       "guides": [
+        {
+          "id": "en-CA-canada-revenue-agency",
+          "title": "Canada Revenue Agency",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-canada-revenue-agency.md",
+          "imageNames": [
+            "icon-canada-revenue-agency"
+          ]
+        },
+        {
+          "id": "en-CA-servus-credit-union",
+          "title": "Servus Credit Union",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-servus-credit-union.md",
+          "imageNames": [
+            "icon-servus-credit-union"
+          ]
+        },
+        {
+          "id": "en-CA-vancity",
+          "title": "Vancity",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-vancity.md",
+          "imageNames": [
+            "icon-vancity"
+          ]
+        },
+        {
+          "id": "en-CA-koho",
+          "title": "Koho",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-koho.md",
+          "imageNames": [
+            "icon-koho"
+          ]
+        },
+        {
+          "id": "en-CA-intuit-turbotax",
+          "title": "Intuit TurboTax",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-intuit-turbotax.md",
+          "imageNames": [
+            "icon-intuit-turbotax"
+          ]
+        },
+        {
+          "id": "en-CA-mint",
+          "title": "Mint",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-mint.md",
+          "imageNames": [
+            "icon-mint"
+          ]
+        },
+        {
+          "id": "en-CA-monarch-money",
+          "title": "Monarch Money",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-monarch-money.md",
+          "imageNames": [
+            "icon-monarch-money"
+          ]
+        },
+        {
+          "id": "en-CA-questrade",
+          "title": "Questrade",
+          "serviceCategory": "Account security",
+          "markdownFile": "en-CA-questrade.md",
+          "imageNames": [
+            "icon-questrade"
+          ]
+        },
         {
           "id": "en-CA-wealthsimple",
           "title": "Wealthsimple",
@@ -3187,6 +3934,78 @@
       "locale": "fr-CA",
       "countryName": "Canada",
       "guides": [
+        {
+          "id": "fr-CA-canada-revenue-agency",
+          "title": "Canada Revenue Agency",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-canada-revenue-agency.md",
+          "imageNames": [
+            "icon-canada-revenue-agency"
+          ]
+        },
+        {
+          "id": "fr-CA-servus-credit-union",
+          "title": "Servus Credit Union",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-servus-credit-union.md",
+          "imageNames": [
+            "icon-servus-credit-union"
+          ]
+        },
+        {
+          "id": "fr-CA-vancity",
+          "title": "Vancity",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-vancity.md",
+          "imageNames": [
+            "icon-vancity"
+          ]
+        },
+        {
+          "id": "fr-CA-koho",
+          "title": "Koho",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-koho.md",
+          "imageNames": [
+            "icon-koho"
+          ]
+        },
+        {
+          "id": "fr-CA-intuit-turbotax",
+          "title": "Intuit TurboTax",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-intuit-turbotax.md",
+          "imageNames": [
+            "icon-intuit-turbotax"
+          ]
+        },
+        {
+          "id": "fr-CA-mint",
+          "title": "Mint",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-mint.md",
+          "imageNames": [
+            "icon-mint"
+          ]
+        },
+        {
+          "id": "fr-CA-monarch-money",
+          "title": "Monarch Money",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-monarch-money.md",
+          "imageNames": [
+            "icon-monarch-money"
+          ]
+        },
+        {
+          "id": "fr-CA-questrade",
+          "title": "Questrade",
+          "serviceCategory": "Sécurité du compte",
+          "markdownFile": "fr-CA-questrade.md",
+          "imageNames": [
+            "icon-questrade"
+          ]
+        },
         {
           "id": "fr-CA-wealthsimple",
           "title": "Wealthsimple",
@@ -3390,6 +4209,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "ca-ES-slack",
+          "title": "Slack",
+          "serviceCategory": "Aplicació d’autenticació",
+          "markdownFile": "ca-ES-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -3397,6 +4225,15 @@
       "locale": "cs-CZ",
       "countryName": "Česko",
       "guides": [
+        {
+          "id": "cs-CZ-fakturoid",
+          "title": "Fakturoid",
+          "serviceCategory": "Zabezpečení účtu",
+          "markdownFile": "cs-CZ-fakturoid.md",
+          "imageNames": [
+            "icon-fakturoid"
+          ]
+        },
         {
           "id": "cs-CZ-seznam",
           "title": "Seznam",
@@ -3502,6 +4339,15 @@
       "locale": "da-DK",
       "countryName": "Danmark",
       "guides": [
+        {
+          "id": "da-DK-dinero",
+          "title": "Dinero",
+          "serviceCategory": "Godkendelsesapp",
+          "markdownFile": "da-DK-dinero.md",
+          "imageNames": [
+            "icon-dinero"
+          ]
+        },
         {
           "id": "da-DK-google",
           "title": "Google",
@@ -3687,6 +4533,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "el-GR-slack",
+          "title": "Slack",
+          "serviceCategory": "Εφαρμογή ελέγχου ταυτότητας",
+          "markdownFile": "el-GR-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -3782,6 +4637,15 @@
           "markdownFile": "fi-FI-linkedin.md",
           "imageNames": [
             "icon-linkedin"
+          ]
+        },
+        {
+          "id": "fi-FI-slack",
+          "title": "Slack",
+          "serviceCategory": "Todennussovellus",
+          "markdownFile": "fi-FI-slack.md",
+          "imageNames": [
+            "icon-slack"
           ]
         }
       ]
@@ -3879,6 +4743,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "he-IL-slack",
+          "title": "Slack",
+          "serviceCategory": "אפליקציית אימות",
+          "markdownFile": "he-IL-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -3886,6 +4759,15 @@
       "locale": "hr-HR",
       "countryName": "Hrvatska",
       "guides": [
+        {
+          "id": "hr-HR-addiko-bank",
+          "title": "Addiko Bank",
+          "serviceCategory": "Aplikacija za autentifikaciju",
+          "markdownFile": "hr-HR-addiko-bank.md",
+          "imageNames": [
+            "icon-addiko-bank"
+          ]
+        },
         {
           "id": "hr-HR-google",
           "title": "Google",
@@ -4071,6 +4953,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "hu-HU-slack",
+          "title": "Slack",
+          "serviceCategory": "Hitelesítő alkalmazás",
+          "markdownFile": "hu-HU-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -4183,6 +5074,15 @@
       "locale": "pt-PT",
       "countryName": "Portugal",
       "guides": [
+        {
+          "id": "pt-PT-sapo-mail",
+          "title": "SAPO Mail",
+          "serviceCategory": "Aplicação autenticadora",
+          "markdownFile": "pt-PT-sapo-mail.md",
+          "imageNames": [
+            "icon-sapo-mail"
+          ]
+        },
         {
           "id": "pt-PT-wise",
           "title": "Wise",
@@ -4377,6 +5277,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "ro-RO-slack",
+          "title": "Slack",
+          "serviceCategory": "Aplicație de autentificare",
+          "markdownFile": "ro-RO-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -4384,6 +5293,15 @@
       "locale": "sk-SK",
       "countryName": "Slovensko",
       "guides": [
+        {
+          "id": "sk-SK-trovi",
+          "title": "Trovi",
+          "serviceCategory": "Zabezpečenie účtu",
+          "markdownFile": "sk-SK-trovi.md",
+          "imageNames": [
+            "icon-trovi"
+          ]
+        },
         {
           "id": "sk-SK-telekom",
           "title": "Telekom",
@@ -4578,6 +5496,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "sl-SI-slack",
+          "title": "Slack",
+          "serviceCategory": "Aplikacija za preverjanje pristnosti",
+          "markdownFile": "sl-SI-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -4585,6 +5512,24 @@
       "locale": "sv-SE",
       "countryName": "Sverige",
       "guides": [
+        {
+          "id": "sv-SE-avanza",
+          "title": "Avanza",
+          "serviceCategory": "Autentiseringsapp",
+          "markdownFile": "sv-SE-avanza.md",
+          "imageNames": [
+            "icon-avanza"
+          ]
+        },
+        {
+          "id": "sv-SE-bokio",
+          "title": "Bokio [SE]",
+          "serviceCategory": "Autentiseringsapp",
+          "markdownFile": "sv-SE-bokio.md",
+          "imageNames": [
+            "icon-bokio"
+          ]
+        },
         {
           "id": "sv-SE-google",
           "title": "Google",
@@ -4681,6 +5626,15 @@
       "locale": "zh-Hant",
       "countryName": "繁體中文",
       "guides": [
+        {
+          "id": "zh-Hant-maicoin",
+          "title": "MaiCoin",
+          "serviceCategory": "驗證器 App",
+          "markdownFile": "zh-Hant-maicoin.md",
+          "imageNames": [
+            "icon-maicoin"
+          ]
+        },
         {
           "id": "zh-Hant-google",
           "title": "Google",
@@ -4866,6 +5820,15 @@
           "imageNames": [
             "icon-linkedin"
           ]
+        },
+        {
+          "id": "bn-BD-slack",
+          "title": "Slack",
+          "serviceCategory": "অথেনটিকেটর অ্যাপ",
+          "markdownFile": "bn-BD-slack.md",
+          "imageNames": [
+            "icon-slack"
+          ]
         }
       ]
     },
@@ -4961,6 +5924,15 @@
           "markdownFile": "ur-PK-linkedin.md",
           "imageNames": [
             "icon-linkedin"
+          ]
+        },
+        {
+          "id": "ur-PK-slack",
+          "title": "Slack",
+          "serviceCategory": "آثنٹیکیٹر ایپ",
+          "markdownFile": "ur-PK-slack.md",
+          "imageNames": [
+            "icon-slack"
           ]
         }
       ]
